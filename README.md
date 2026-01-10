@@ -1,4 +1,4 @@
-# EgoErrorVQA
+# AgentBeats-EgoErrorVQA
 
 
 
