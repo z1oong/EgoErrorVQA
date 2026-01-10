@@ -20,6 +20,23 @@ You need to download the video data first.
 - [Assembly101](https://assembly101.github.io/)
 (ONLY download the egocentric video will be enough.)
 
+## 🎞 LLM Judges
+
+Our evaluation requires the use of two open-source models.
+
+Download:
+
+- [Qwen2.5-7B-Instruct](https://huggingface.co/collections/Qwen/qwen25)
+
+- [Deepseek-llm-7b-chat](https://huggingface.co/collections/deepseek-ai/deepseek-llm)
+
+Replace the file path of the model:
+
+```bash
+judge_model_path = eval_config.get("judge_model_path", "/home/junlong_li/Qwen2.5-7B-Instruct")
+deepseek_model_path = eval_config.get("deepseek_model_path", "/home/junlong_li/deepseek-llm-7b-chat")
+```
+
 ## 💻 Organize Video Paths
 
 We use the same naming and organization method for datasets from the same source; 
