@@ -1,4 +1,4 @@
-# AgentBeats-EgoErrorVQA
+# 🤖 AgentBeats-EgoErrorVQA
 
 
 
@@ -6,16 +6,43 @@
 
 
 
-## Video Data Source
+## 🎞 Video Data Source
 
-CaptainCook4D
+You need to download the video data first.
 
-Epic-Tent
+- [CaptainCook4D](https://captaincook4d.github.io/captain-cook/)
+
+- [Epic-Tent](https://sites.google.com/view/epic-tent)
 (ONLY download 02,04,05,06 mp4 video will be enough.)
-EgoOops
 
-Assembly101
+- [EgoOops](https://y-haneji.github.io/EgoOops-project-page/)
+
+- [Assembly101](https://assembly101.github.io/)
 (ONLY download the egocentric video will be enough.)
+
+## 💻 Organize Video Paths
+
+We use the same naming and organization method for datasets from the same source; 
+simply place the downloaded datasets together in one folder.
+
+```bash
+VIDEO_PATH_PATTERNS = {
+        "captaincook4d": [
+            "{video_root}/{video_subdir}/{video_id}_360p.mp4",
+        ],
+        "epic_tent": [
+            "{video_root}/{video_subdir}/0{video_id}.tent.gopro.MP4",
+        ],
+        "assembly101": [
+            "{video_root}/{video_subdir}/{video_id}/HMC_84355350_mono10bit.mp4",
+            "{video_root}/{video_subdir}/{video_id}/HMC_21110305_mono10bit.mp4",
+        ],
+        "egooops": [
+            "{video_root}/{video_subdir}/{task_id}/{video_id}.MP4",
+        ]
+    }
+```
+
 
 
 ## 🚀 Quick start
