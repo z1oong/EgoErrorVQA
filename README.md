@@ -20,7 +20,7 @@ You need to download the video data first.
 - [Assembly101](https://assembly101.github.io/)
 (ONLY download the egocentric video will be enough.)
 
-## 🎞 LLM Judges
+## 🧑‍⚖️ LLM Judges
 
 Our evaluation requires the use of two open-source models.
 
