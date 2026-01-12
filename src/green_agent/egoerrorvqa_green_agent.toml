@@ -1,0 +1,35 @@
+name = "egoerrorvqa_green_agent"
+description = "The assessment hosting agent for EgoErrorVQA - procedural understanding evaluation."
+version = "0.1.0"
+
+defaultInputModes = ["text"]
+defaultOutputModes = ["text"]
+[capabilities]
+streaming = false
+
+[[skills]]
+id = "host_assess_egoerrorvqa"
+name = "EgoErrorVQA assessment hosting"
+description = """
+Assess the procedural understanding ability of a multimodal video agent.
+Tests include procedural error identification, procedural error detection, sequence understanding, and completeness evaluation.
+Uses dual-judge evaluation (Qwen + DeepSeek) for comprehensive scoring.
+"""
+tags = ["green agent", "assessment hosting", "ego-proco-bench", "video understanding", "procedural reasoning"]
+examples = ["""    
+Your task is to evaluate a video understanding agent located at:
+<white_agent_url>
+http://localhost:9002/
+</white_agent_url>
+You should use the following evaluation configuration:
+<eval_config>
+{
+  "video_root": "/home/junlong_li/EgoProceBench_video",
+  "json_root": "/home/junlong_li/EgoProceBench_video/json",
+  "procedure_json_path": "/home/junlong_li/EgoProceBench_video/json/procedure.json",
+  "datasets": ["captaincook4d", "epic_tent", "assembly101", "egooops"],
+  "judge_model_path": "/home/junlong_li/Qwen2.5-7B-Instruct",
+  "judge_device": "cuda:1"
+}
+</eval_config>
+    """]
