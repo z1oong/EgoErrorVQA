@@ -1,6 +1,6 @@
 # 🤖 AgentBeats-EgoErrorVQA
 
-[🎥 Demo video](https://youtu.be/dNoML4PXzDM)
+You can watch [🎥 Demo video](https://youtu.be/dNoML4PXzDM) to learn how to run EgoErrorVQA assessment.
  
 ## 🎞 Video Data Source
 
