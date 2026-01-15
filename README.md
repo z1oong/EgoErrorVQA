@@ -63,6 +63,7 @@ VIDEO_PATH_PATTERNS = {
 
 Our datasets are stored in JSON files; please replace the path in your code.
 
+```bash
 ./EgoErrorVQA_data/
 
 ├── captaincook4d │ 
@@ -74,7 +75,7 @@ Our datasets are stored in JSON files; please replace the path in your code.
 ├── epic-tent │ 
 
 └── json │
-
+```
 
 ## 🚀 Quick start
 
