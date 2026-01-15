@@ -103,7 +103,7 @@ uv run python main.py launch --task-type  multiple-choice
 In ```main.py```， you can view customizable settings, including selecting the dataset you want to test.
 
 
-### Only run White Agent (Qwen2.5-VL)
+### Only Run White Agent (Qwen2.5-VL)
 
 ```bash
 # Default configuration (port 9002, CUDA:0)
