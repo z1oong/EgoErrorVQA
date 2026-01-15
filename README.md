@@ -59,7 +59,7 @@ VIDEO_PATH_PATTERNS = {
         ]
     }
 ```
-## 💻 Organize json Paths
+## 💻 Organize JSON Paths
 
 Our datasets are stored in JSON files; please replace the path in your code.
 
