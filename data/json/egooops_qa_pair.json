@@ -1,0 +1,4549 @@
+[
+  {
+    "task_id": "ion",
+    "video_id": "S1730002",
+    "start_time": 86.188091,
+    "end_time": 124.654285,
+    "instruction": 2,
+    "instruction_label": null,
+    "is_error": true,
+    "error_labels": [
+      "working in the wrong way or moving"
+    ],
+    "error_caption": "put two copper plates on the top row of the microplate but should put them on the left column",
+    "qa_pairs": [
+      {
+        "question": "What did I do incorrectly when placing the copper plates?",
+        "answer": "I placed the copper plates on the top row of the microplate instead of the left column, which is the correct placement according to the instructions."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810006",
+    "start_time": 1580.9016710494493,
+    "end_time": 1595.0170163164232,
+    "instruction": 10,
+    "instruction_label": "Fold along the incisions of the fold.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I carefully fold along all the incisions as instructed?",
+        "answer": "Yes, I carefully followed the instructions to fold along all the incisions."
+      },
+      {
+        "question": "What did I do to ensure I folded correctly?",
+        "answer": "I made sure to fold along each incision precisely as specified in the step."
+      }
+    ]
+  },
+  {
+    "task_id": "ion",
+    "video_id": "S1720006",
+    "start_time": 283.10963,
+    "end_time": 305.827919,
+    "instruction": 6,
+    "instruction_label": null,
+    "is_error": true,
+    "error_labels": [
+      "others"
+    ],
+    "error_caption": "put two drops on the metal plate in the center of the microplate",
+    "qa_pairs": [
+      {
+        "question": "What did I do incorrectly when placing the drops on the metal plate?",
+        "answer": "I placed the drops on the metal plate instead of following the correct procedure, which involves adding the specified amount of liquid to the designated wells of the microplate."
+      }
+    ]
+  },
+  {
+    "task_id": "electronics",
+    "video_id": "S1790001",
+    "start_time": 169.423702,
+    "end_time": 175.906453,
+    "instruction": -1,
+    "instruction_label": null,
+    "is_error": true,
+    "error_labels": [
+      "grasping wrong objects and releasing them without using"
+    ],
+    "error_caption": "grasp a propeller",
+    "qa_pairs": [
+      {
+        "question": "What mistake did I make when handling the propeller?",
+        "answer": "I grasped the wrong object, which is classified as an error of grasping wrong objects and releasing them without using."
+      },
+      {
+        "question": "Why was it incorrect to grasp the propeller?",
+        "answer": "It was incorrect because the task specified to grasp a propeller, but I grasped a different object instead, leading to the error of grasping wrong objects."
+      }
+    ]
+  },
+  {
+    "task_id": "tsumiki",
+    "video_id": "S1750003",
+    "start_time": 11.596443,
+    "end_time": 19.970627,
+    "instruction": 1,
+    "instruction_label": "Bridge two long thin cuboid blocks on the square blocks from left to right in the order of blue and green.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I place the blue cuboid block on the leftmost square block before placing the green one on the next square block?",
+        "answer": "Yes, I placed the blue cuboid block on the leftmost square block and then placed the green one on the next square block."
+      },
+      {
+        "question": "What did I do to ensure the bridge was formed correctly from left to right using the blue and green blocks?",
+        "answer": "I carefully positioned the blue cuboid block on the left square block and followed by placing the green cuboid block on the adjacent square block to form the bridge as instructed."
+      }
+    ]
+  },
+  {
+    "task_id": "electronics",
+    "video_id": "S1790010",
+    "start_time": 192.170458,
+    "end_time": 198.730499,
+    "instruction": 6,
+    "instruction_label": null,
+    "is_error": true,
+    "error_labels": [
+      "working in the wrong way or moving"
+    ],
+    "error_caption": "put batteries in the wrong direction",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when putting in the batteries?",
+        "answer": "I put the batteries in the device with the wrong polarity, which can cause the device to not work properly or even damage the batteries and the device."
+      },
+      {
+        "question": "Why is it incorrect to put batteries in the wrong direction?",
+        "answer": "It's incorrect because the positive and negative terminals of the battery need to match the corresponding terminals in the device for it to function correctly and safely."
+      }
+    ]
+  },
+  {
+    "task_id": "blacklight",
+    "video_id": "S1800009",
+    "start_time": 113.971992,
+    "end_time": 145.391955,
+    "instruction": 3,
+    "instruction_label": "Take out the powdered detergent into a cup, add about 15mL of water and dissolve it.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I take out the powdered detergent and put it in a cup as instructed?",
+        "answer": "Yes, I took out the powdered detergent and placed it in a cup."
+      },
+      {
+        "question": "What did I do after adding about 15mL of water to the cup with the detergent?",
+        "answer": "I dissolved the detergent in the water by stirring it until it was fully mixed."
+      }
+    ]
+  },
+  {
+    "task_id": "tsumiki",
+    "video_id": "S1760003",
+    "start_time": 89.766853,
+    "end_time": 93.743183,
+    "instruction": -1,
+    "instruction_label": null,
+    "is_error": true,
+    "error_labels": [
+      "correction of mistake actions"
+    ],
+    "error_caption": "correct error in step 4",
+    "qa_pairs": [
+      {
+        "question": "What should I have done differently in previous steps to avoid the error?",
+        "answer": "I should have followed the correct sequence of actions as specified in the instructions, rather than making a mistake."
+      },
+      {
+        "question": "What is the significance of what I am doing right now? ",
+        "answer": "I have corrected the mistake that previously occurred."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810005",
+    "start_time": 411.2618130003834,
+    "end_time": 428.0884954499067,
+    "instruction": 4,
+    "instruction_label": "Fold along the incisions of the fold.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I carefully fold along all the incisions as instructed?",
+        "answer": "Yes, I carefully followed the instructions to fold along all the incisions."
+      },
+      {
+        "question": "What did I do to ensure I folded correctly?",
+        "answer": "I made sure to fold along each incision precisely as specified in the step."
+      }
+    ]
+  },
+  {
+    "task_id": "electronics",
+    "video_id": "S1790012",
+    "start_time": 249.688676,
+    "end_time": 262.107854,
+    "instruction": 7,
+    "instruction_label": "Turn on the switch S2.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I turn on the switch S2 as instructed?",
+        "answer": "Yes, I turned on the switch S2."
+      },
+      {
+        "question": "What did I do to execute the step correctly?",
+        "answer": "I turned on the switch S2."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810009",
+    "start_time": 1144.2275885846323,
+    "end_time": 1386.5216369439117,
+    "instruction": 7,
+    "instruction_label": "Cut along the auxiliary lines of the shape on the paper.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I carefully cut along the auxiliary lines of the shape on the paper as instructed?",
+        "answer": "Yes, I carefully followed the instructions to cut along the auxiliary lines of the shape on the paper."
+      },
+      {
+        "question": "What did I do to ensure I followed the step correctly when cutting the cardboard?",
+        "answer": "I made sure to precisely follow the auxiliary lines of the shape on the paper by using a sharp pair of scissors or a craft knife."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810004",
+    "start_time": 1371.73640416707,
+    "end_time": 1377.3616033336496,
+    "instruction": 13,
+    "instruction_label": "Put chopsticks in the body.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I insert the chopsticks into the cardboard body as instructed?",
+        "answer": "Yes, I put the chopsticks in the body as specified."
+      },
+      {
+        "question": "What did I do to ensure the chopsticks were properly placed in the cardboard?",
+        "answer": "I carefully inserted the chopsticks into the designated slots in the cardboard body."
+      }
+    ]
+  },
+  {
+    "task_id": "ion",
+    "video_id": "S1720002",
+    "start_time": 139.509946,
+    "end_time": 157.242538,
+    "instruction": 5,
+    "instruction_label": "Put a drop of copper sulfate aqueous solution on each first row of the metal plates.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I put a drop of copper sulfate aqueous solution on each of the metal plates in the first row?",
+        "answer": "Yes, I put a drop of copper sulfate aqueous solution on each of the metal plates in the first row."
+      },
+      {
+        "question": "What did I do with the copper sulfate solution and the metal plates?",
+        "answer": "I placed a drop of copper sulfate aqueous solution on every metal plate located in the first row."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810001",
+    "start_time": 2037.0879961393132,
+    "end_time": 2043.0898747769722,
+    "instruction": 13,
+    "instruction_label": "Put chopsticks in the body.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I insert the chopsticks into the cardboard body as instructed?",
+        "answer": "Yes, I put the chopsticks in the body as specified."
+      },
+      {
+        "question": "What did I do to ensure the chopsticks were properly placed in the cardboard?",
+        "answer": "I carefully inserted the chopsticks into the designated slots in the cardboard body."
+      }
+    ]
+  },
+  {
+    "task_id": "electronics",
+    "video_id": "S1790012",
+    "start_time": 61.82141,
+    "end_time": 145.572015,
+    "instruction": 2,
+    "instruction_label": "Connect switch S2 and lamp L1 in parallel.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I connect switch S2 and lamp L1 in parallel as instructed?",
+        "answer": "Yes, I connected switch S2 and lamp L1 in parallel."
+      },
+      {
+        "question": "What did I do to ensure switch S2 and lamp L1 were in parallel?",
+        "answer": "I made sure switch S2 and lamp L1 were connected across the same two points of the circuit."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810009",
+    "start_time": 1396.9779408759796,
+    "end_time": 1438.7755623551375,
+    "instruction": 8,
+    "instruction_label": "Make a cross-shaped incision in the lid.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I make a precise cross-shaped incision in the lid of the cardboard container?",
+        "answer": "Yes, I made a precise cross-shaped incision in the lid."
+      },
+      {
+        "question": "What did I do to the lid of the cardboard box?",
+        "answer": "I made a cross-shaped incision in the lid of the cardboard box."
+      }
+    ]
+  },
+  {
+    "task_id": "blacklight",
+    "video_id": "S1800005",
+    "start_time": 133.496974,
+    "end_time": 198.765163,
+    "instruction": 3,
+    "instruction_label": null,
+    "is_error": true,
+    "error_labels": [
+      "working in the wrong way or moving"
+    ],
+    "error_caption": "pour much water but should pour about 15 ml",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when pouring the blacklight solution?",
+        "answer": "I poured too much water instead of the recommended 15 ml, which could affect the effectiveness of the blacklight solution."
+      },
+      {
+        "question": "Why was it incorrect to pour more than 15 ml of water for the blacklight solution?",
+        "answer": "Pouring more than 15 ml of water can dilute the solution, reducing its potency and ability to properly illuminate under blacklight conditions."
+      }
+    ]
+  },
+  {
+    "task_id": "ion",
+    "video_id": "S1730004",
+    "start_time": 258.768527,
+    "end_time": 274.230461,
+    "instruction": 7,
+    "instruction_label": "Put a drop of magnesium sulfate aqueous solution on each last row of the metal plates.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I put a drop of magnesium sulfate aqueous solution on each last row of the metal plates?",
+        "answer": "Yes, I put a drop of magnesium sulfate aqueous solution on each last row of the metal plates."
+      },
+      {
+        "question": "What did I do with the magnesium sulfate aqueous solution?",
+        "answer": "I placed a drop of magnesium sulfate aqueous solution on each last row of the metal plates."
+      }
+    ]
+  },
+  {
+    "task_id": "ion",
+    "video_id": "S1720004",
+    "start_time": 319.200127,
+    "end_time": 339.079996,
+    "instruction": 6,
+    "instruction_label": null,
+    "is_error": true,
+    "error_labels": [
+      "working in the wrong way or moving"
+    ],
+    "error_caption": "put a drop of zinc sulfate aqueous solution on each last row but should put it on each middle row",
+    "qa_pairs": [
+      {
+        "question": "What did I do incorrectly when placing the zinc sulfate aqueous solution?",
+        "answer": "I placed the drops on the last row instead of the middle row as instructed."
+      },
+      {
+        "question": "Why was putting the zinc sulfate on the last row considered an error?",
+        "answer": "It was incorrect because the procedure specified to place the drops on the middle row, not the last row."
+      }
+    ]
+  },
+  {
+    "task_id": "electronics",
+    "video_id": "S1790012",
+    "start_time": 233.282798,
+    "end_time": 237.245515,
+    "instruction": 4,
+    "instruction_label": "Put a propeller on the motor.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I attach a propeller to the motor as instructed?",
+        "answer": "Yes, I put a propeller on the motor."
+      },
+      {
+        "question": "What did I do to the motor according to the task?",
+        "answer": "I placed a propeller on the motor."
+      }
+    ]
+  },
+  {
+    "task_id": "ion",
+    "video_id": "S1720006",
+    "start_time": 179.954966,
+    "end_time": 239.026011,
+    "instruction": 2,
+    "instruction_label": null,
+    "is_error": true,
+    "error_labels": [
+      "unintended actions"
+    ],
+    "error_caption": "drop copper plates on the table then pick them up with fingers",
+    "qa_pairs": [
+      {
+        "question": "What mistake did I make when handling the copper plates?",
+        "answer": "I dropped the copper plates on the table instead of keeping them on my hands, which is an unintended action."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810003",
+    "start_time": 242.1234186459256,
+    "end_time": 309.8333922010798,
+    "instruction": 2,
+    "instruction_label": "Leave the ends of the liner for gluing.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I leave the ends of the liner intact for gluing as instructed?",
+        "answer": "Yes, I left the ends of the liner for gluing."
+      },
+      {
+        "question": "What did I ensure to do with the liner's ends before proceeding with the glue?",
+        "answer": "I ensured to leave the ends of the liner for gluing."
+      }
+    ]
+  },
+  {
+    "task_id": "ion",
+    "video_id": "S1720010",
+    "start_time": 194.433668,
+    "end_time": 208.369437,
+    "instruction": 7,
+    "instruction_label": "Put a drop of magnesium sulfate aqueous solution on each last row of the metal plates.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I put a drop of magnesium sulfate aqueous solution on each last row of the metal plates?",
+        "answer": "Yes, I put a drop of magnesium sulfate aqueous solution on each last row of the metal plates."
+      },
+      {
+        "question": "What did I do with the magnesium sulfate aqueous solution?",
+        "answer": "I placed a drop of magnesium sulfate aqueous solution on each last row of the metal plates."
+      }
+    ]
+  },
+  {
+    "task_id": "electronics",
+    "video_id": "S1790003",
+    "start_time": 108.148155,
+    "end_time": 112.848304,
+    "instruction": 2,
+    "instruction_label": null,
+    "is_error": true,
+    "error_labels": [
+      "working with wrong objects"
+    ],
+    "error_caption": "use switch s1 but should use switch s2",
+    "qa_pairs": [
+      {
+        "question": "What mistake did I make when using the switch?",
+        "answer": "I used switch S1 instead of switch S2, which is incorrect based on the instructions."
+      },
+      {
+        "question": "Why was using switch S1 wrong?",
+        "answer": "Using switch S1 was wrong because the task specified to use switch S2, indicating that S1 was not the correct choice for this step."
+      }
+    ]
+  },
+  {
+    "task_id": "blacklight",
+    "video_id": "S1800002",
+    "start_time": 226.532959,
+    "end_time": 232.661188,
+    "instruction": -1,
+    "instruction_label": null,
+    "is_error": true,
+    "error_labels": [
+      "grasping wrong objects and releasing them without using"
+    ],
+    "error_caption": "graspe a cup of water",
+    "qa_pairs": [
+      {
+        "question": "What did I do incorrectly when trying to grasp a cup of water?",
+        "answer": "I grasped the wrong object and did not use it for its intended purpose, which is to hold and drink water."
+      },
+      {
+        "question": "Why was it wrong to grasp a cup of water without using it?",
+        "answer": "It was incorrect because I should have used the cup to hold and drink the water, rather than just grasping it without any action."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810003",
+    "start_time": 1215.7098746194727,
+    "end_time": 1392.3620167499496,
+    "instruction": 12,
+    "instruction_label": "Adhere the lid and the bottom with glue so that they cover the body.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I ensure that both the lid and the bottom were securely glued to the body of the cardboard box?",
+        "answer": "Yes, I adhered the lid and the bottom with glue to fully cover the body."
+      },
+      {
+        "question": "What did I do to make sure the cardboard box was sealed properly?",
+        "answer": "I glued the lid and the bottom to the body to ensure a tight seal."
+      }
+    ]
+  },
+  {
+    "task_id": "electronics",
+    "video_id": "S1790003",
+    "start_time": 113.651454,
+    "end_time": 140.402602,
+    "instruction": 3,
+    "instruction_label": null,
+    "is_error": true,
+    "error_labels": [
+      "working with wrong objects"
+    ],
+    "error_caption": "use switch s1 but should use switch s2",
+    "qa_pairs": [
+      {
+        "question": "What mistake did I make when using the switch?",
+        "answer": "I used switch S1 instead of switch S2, which is incorrect based on the instructions."
+      },
+      {
+        "question": "Why was using switch S1 wrong?",
+        "answer": "Using switch S1 was wrong because the task specified to use switch S2, indicating that S1 was not the correct choice for this step."
+      }
+    ]
+  },
+  {
+    "task_id": "tsumiki",
+    "video_id": "S1760002",
+    "start_time": 105.618636,
+    "end_time": 114.919865,
+    "instruction": 6,
+    "instruction_label": "Place two triangular prism blocks on both sides of the blue thick cuboid block from left to right in the order of blue and red.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I place the blue thick cuboid block first, followed by the red triangular prism block on its right?",
+        "answer": "Yes, I placed the blue thick cuboid block on the left side, followed by the red triangular prism block on its right."
+      },
+      {
+        "question": "What did I do after placing the blue thick cuboid block?",
+        "answer": "After placing the blue thick cuboid block, I placed the red triangular prism block next to it on the right side."
+      }
+    ]
+  },
+  {
+    "task_id": "ion",
+    "video_id": "S1720002",
+    "start_time": 1.908511,
+    "end_time": 7.83134,
+    "instruction": 0,
+    "instruction_label": "Put a microplate on a grid of a worksheet.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I place the microplate accurately onto the grid of the worksheet?",
+        "answer": "Yes, I placed the microplate precisely onto the grid of the worksheet."
+      },
+      {
+        "question": "What did I ensure when putting the microplate on the grid?",
+        "answer": "I ensured that the microplate was centered and aligned properly on the grid of the worksheet."
+      }
+    ]
+  },
+  {
+    "task_id": "ion",
+    "video_id": "S1720005",
+    "start_time": 187.320656,
+    "end_time": 209.843571,
+    "instruction": 5,
+    "instruction_label": "Put a drop of copper sulfate aqueous solution on each first row of the metal plates.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I put a drop of copper sulfate aqueous solution on each of the metal plates in the first row?",
+        "answer": "Yes, I put a drop of copper sulfate aqueous solution on each of the metal plates in the first row."
+      },
+      {
+        "question": "What did I do with the copper sulfate solution and the metal plates?",
+        "answer": "I placed a drop of copper sulfate aqueous solution on every metal plate located in the first row."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810006",
+    "start_time": 1493.445346898967,
+    "end_time": 1540.2277625332179,
+    "instruction": 9,
+    "instruction_label": "Make incisions on the auxiliary lines of the fold on the paper.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I make precise incisions along the auxiliary lines designated for folding on the paper?",
+        "answer": "Yes, I made precise incisions along the auxiliary lines designated for folding on the paper."
+      },
+      {
+        "question": "What did I do to prepare the paper for folding?",
+        "answer": "I made incisions on the auxiliary lines of the fold on the paper to prepare it for folding."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810005",
+    "start_time": 1034.5931114858463,
+    "end_time": 1048.8983304729163,
+    "instruction": 10,
+    "instruction_label": "Fold along the incisions of the fold.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I carefully fold along all the incisions as instructed?",
+        "answer": "Yes, I carefully followed the instructions to fold along all the incisions."
+      },
+      {
+        "question": "What did I do to ensure I folded correctly?",
+        "answer": "I made sure to fold along each incision precisely as specified in the step."
+      }
+    ]
+  },
+  {
+    "task_id": "ion",
+    "video_id": "S1730002",
+    "start_time": 7.659611,
+    "end_time": 16.883129,
+    "instruction": 1,
+    "instruction_label": "Take a pair of tweezers out of a bag.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I use the right tool to take out the tweezers?",
+        "answer": "Yes, I used a pair of tweezers to take them out."
+      },
+      {
+        "question": "What did I do to get the tweezers out of the bag?",
+        "answer": "I took a pair of tweezers out of the bag using my hands."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810009",
+    "start_time": 1579.923605988114,
+    "end_time": 1602.8604176504314,
+    "instruction": 8,
+    "instruction_label": "Make a cross-shaped incision in the lid.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I make a precise cross-shaped incision in the lid of the cardboard container?",
+        "answer": "Yes, I made a precise cross-shaped incision in the lid."
+      },
+      {
+        "question": "What did I do to the lid of the cardboard box?",
+        "answer": "I made a cross-shaped incision in the lid of the cardboard box."
+      }
+    ]
+  },
+  {
+    "task_id": "blacklight",
+    "video_id": "S1800003",
+    "start_time": 239.759736,
+    "end_time": 257.557851,
+    "instruction": 6,
+    "instruction_label": "Mix powdered detergent and yellow liquid in a cup.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I mix the powdered detergent and yellow liquid together in a cup as instructed?",
+        "answer": "Yes, I mixed the powdered detergent and yellow liquid together in a cup."
+      },
+      {
+        "question": "What did I do to prepare for the blacklight experiment by combining the detergent and yellow substance?",
+        "answer": "I combined the powdered detergent and yellow liquid in a cup."
+      }
+    ]
+  },
+  {
+    "task_id": "blacklight",
+    "video_id": "S1800008",
+    "start_time": 48.366125,
+    "end_time": 88.850967,
+    "instruction": 1,
+    "instruction_label": "Pour about 15mL of water into a cup, dip the tip of a green highlighter in the water and squeeze out a drop.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I pour exactly 15 mL of water into the cup?",
+        "answer": "Yes, I poured about 15 mL of water into the cup."
+      },
+      {
+        "question": "Did I squeeze out a single drop of ink from the green highlighter after dipping its tip in the water?",
+        "answer": "Yes, I squeezed out a drop of ink from the green highlighter after dipping its tip in the water."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810008",
+    "start_time": 1288.1694377984375,
+    "end_time": 1295.166207770427,
+    "instruction": 10,
+    "instruction_label": "Fold along the incisions of the fold.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I carefully fold along all the incisions as instructed?",
+        "answer": "Yes, I carefully followed the instructions to fold along all the incisions."
+      },
+      {
+        "question": "What did I do to ensure I folded correctly?",
+        "answer": "I made sure to fold along each incision precisely as specified in the step."
+      }
+    ]
+  },
+  {
+    "task_id": "blacklight",
+    "video_id": "S1800003",
+    "start_time": 114.889387,
+    "end_time": 160.215916,
+    "instruction": 3,
+    "instruction_label": "Take out the powdered detergent into a cup, add about 15mL of water and dissolve it.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I take out the powdered detergent and put it in a cup as instructed?",
+        "answer": "Yes, I took out the powdered detergent and placed it in a cup."
+      },
+      {
+        "question": "What did I do after adding about 15mL of water to the cup with the detergent?",
+        "answer": "I dissolved the detergent in the water by stirring it until it was fully mixed."
+      }
+    ]
+  },
+  {
+    "task_id": "electronics",
+    "video_id": "S1790007",
+    "start_time": 64.382374,
+    "end_time": 68.026931,
+    "instruction": 3,
+    "instruction_label": "Connect the switch S2 in series with the motor and the battery box.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I connect the switch S2 in series between the motor and the battery box as instructed?",
+        "answer": "Yes, I connected the switch S2 in series with the motor and the battery box."
+      },
+      {
+        "question": "What did I do to ensure the switch S2 is correctly placed in the circuit?",
+        "answer": "I placed the switch S2 in series between the motor and the battery box to follow the instruction."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810009",
+    "start_time": 1450.731311514484,
+    "end_time": 1491.4000906504948,
+    "instruction": 9,
+    "instruction_label": "Make incisions on the auxiliary lines of the fold on the paper.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I make precise incisions along the auxiliary lines designated for folding on the paper?",
+        "answer": "Yes, I made precise incisions along the auxiliary lines designated for folding on the paper."
+      },
+      {
+        "question": "What did I do to prepare the paper for folding?",
+        "answer": "I made incisions on the auxiliary lines of the fold on the paper to prepare it for folding."
+      }
+    ]
+  },
+  {
+    "task_id": "ion",
+    "video_id": "S1720010",
+    "start_time": 74.14388,
+    "end_time": 112.262182,
+    "instruction": 3,
+    "instruction_label": "Put three zinc plates on the center column of the microplate using the pair of tweezers.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I use the pair of tweezers to place three zinc plates on the center column of the microplate?",
+        "answer": "Yes, I used the pair of tweezers to carefully place three zinc plates on the center column of the microplate."
+      },
+      {
+        "question": "What did I do to ensure the zinc plates were correctly positioned on the microplate's center column?",
+        "answer": "I utilized the pair of tweezers to precisely put three zinc plates on the center column of the microplate."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810003",
+    "start_time": 1106.7447669000283,
+    "end_time": 1128.3780062850303,
+    "instruction": 7,
+    "instruction_label": "Cut along the auxiliary lines of the shape on the paper.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I carefully cut along the auxiliary lines of the shape on the paper as instructed?",
+        "answer": "Yes, I carefully followed the instructions to cut along the auxiliary lines of the shape on the paper."
+      },
+      {
+        "question": "What did I do to ensure I followed the step correctly when cutting the cardboard?",
+        "answer": "I made sure to precisely follow the auxiliary lines of the shape on the paper by using a sharp pair of scissors or a craft knife."
+      }
+    ]
+  },
+  {
+    "task_id": "blacklight",
+    "video_id": "S1800006",
+    "start_time": 188.79178811150862,
+    "end_time": 194.95134773585204,
+    "instruction": 5,
+    "instruction_label": "Mix powdered detergent, red, and green liquid in a cup.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I mix powdered detergent, red liquid, and green liquid in a cup?",
+        "answer": "Yes, I mixed powdered detergent, red liquid, and green liquid in a cup."
+      },
+      {
+        "question": "What colors and substances did I use to mix in the cup?",
+        "answer": "I used powdered detergent, red liquid, and green liquid to mix in the cup."
+      }
+    ]
+  },
+  {
+    "task_id": "blacklight",
+    "video_id": "S1800006",
+    "start_time": 66.177923,
+    "end_time": 91.517926,
+    "instruction": 2,
+    "instruction_label": "Pour about 15mL of water into a cup, dip the tip of a yellow highlighter in the water and squeeze out a drop.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I pour exactly 15 mL of water into the cup?",
+        "answer": "Yes, I poured about 15 mL of water into the cup."
+      },
+      {
+        "question": "Did I squeeze out a single drop of yellow ink after dipping the highlighter in the water?",
+        "answer": "Yes, I squeezed out a drop of yellow ink after dipping the tip of the highlighter in the water."
+      }
+    ]
+  },
+  {
+    "task_id": "blacklight",
+    "video_id": "S1800010",
+    "start_time": 81.812646,
+    "end_time": 112.697332,
+    "instruction": 3,
+    "instruction_label": "Take out the powdered detergent into a cup, add about 15mL of water and dissolve it.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I take out the powdered detergent and put it in a cup as instructed?",
+        "answer": "Yes, I took out the powdered detergent and placed it in a cup."
+      },
+      {
+        "question": "What did I do after adding about 15mL of water to the cup with the detergent?",
+        "answer": "I dissolved the detergent in the water by stirring it until it was fully mixed."
+      }
+    ]
+  },
+  {
+    "task_id": "ion",
+    "video_id": "S1730005",
+    "start_time": 157.451468,
+    "end_time": 216.916565,
+    "instruction": 4,
+    "instruction_label": "Put three magnesium plates on the right column of the microplate using the pair of tweezers.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I use the pair of tweezers to place three magnesium plates on the right column of the microplate?",
+        "answer": "Yes, I used the pair of tweezers to carefully place three magnesium plates on the right column of the microplate."
+      },
+      {
+        "question": "What did I do to ensure the correct placement of the magnesium plates?",
+        "answer": "I used the pair of tweezers to precisely put three magnesium plates on the right column of the microplate."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810003",
+    "start_time": 1132.3303513256274,
+    "end_time": 1183.8215196674175,
+    "instruction": 10,
+    "instruction_label": "Fold along the incisions of the fold.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I carefully fold along all the incisions as instructed?",
+        "answer": "Yes, I carefully followed the instructions to fold along all the incisions."
+      },
+      {
+        "question": "What did I do to ensure I folded correctly?",
+        "answer": "I made sure to fold along each incision precisely as specified in the step."
+      }
+    ]
+  },
+  {
+    "task_id": "tsumiki",
+    "video_id": "S1760004",
+    "start_time": 23.888057,
+    "end_time": 30.544825,
+    "instruction": 1,
+    "instruction_label": "Bridge two long thin cuboid blocks on the square blocks from left to right in the order of blue and green.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I place the blue cuboid block on the leftmost square block before placing the green one on the next square block?",
+        "answer": "Yes, I placed the blue cuboid block on the leftmost square block and then placed the green one on the next square block."
+      },
+      {
+        "question": "What did I do to ensure the bridge was formed correctly from left to right using the blue and green blocks?",
+        "answer": "I carefully positioned the blue cuboid block on the left square block and followed by placing the green cuboid block on the adjacent square block to form the bridge as instructed."
+      }
+    ]
+  },
+  {
+    "task_id": "electronics",
+    "video_id": "S1790003",
+    "start_time": 157.818198,
+    "end_time": 177.501426,
+    "instruction": 5,
+    "instruction_label": "Put two battery in the battery box.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I put two batteries into the battery box as instructed?",
+        "answer": "Yes, I placed two batteries into the battery box."
+      },
+      {
+        "question": "What did I ensure when putting the batteries in the box?",
+        "answer": "I made sure to insert two batteries into the battery box as specified."
+      }
+    ]
+  },
+  {
+    "task_id": "ion",
+    "video_id": "S1720010",
+    "start_time": 175.82016,
+    "end_time": 192.635928,
+    "instruction": 6,
+    "instruction_label": "Put a drop of zinc sulfate aqueous solution on each middle row of the metal plates.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I put a drop of zinc sulfate aqueous solution on each middle row of the metal plates?",
+        "answer": "Yes, I placed a drop of zinc sulfate aqueous solution on each middle row of the metal plates."
+      },
+      {
+        "question": "What did I do to ensure I followed the instruction correctly?",
+        "answer": "I carefully applied a drop of zinc sulfate aqueous solution to each metal plate in the middle row as instructed."
+      }
+    ]
+  },
+  {
+    "task_id": "ion",
+    "video_id": "S1730006",
+    "start_time": 8.379988,
+    "end_time": 19.340128,
+    "instruction": 1,
+    "instruction_label": "Take a pair of tweezers out of a bag.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I use the right tool to take out the tweezers?",
+        "answer": "Yes, I used a pair of tweezers to take them out."
+      },
+      {
+        "question": "What did I do to get the tweezers out of the bag?",
+        "answer": "I took a pair of tweezers out of the bag using my hands."
+      }
+    ]
+  },
+  {
+    "task_id": "electronics",
+    "video_id": "S1790001",
+    "start_time": 253.364173,
+    "end_time": 254.0912,
+    "instruction": 6,
+    "instruction_label": "Turn on the switch S1.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I turn on switch S1 as instructed?",
+        "answer": "Yes, I turned on switch S1."
+      },
+      {
+        "question": "What did I do to execute the step correctly?",
+        "answer": "I turned on the switch S1."
+      }
+    ]
+  },
+  {
+    "task_id": "electronics",
+    "video_id": "S1790013",
+    "start_time": 3.825562,
+    "end_time": 17.686241,
+    "instruction": 0,
+    "instruction_label": "Connect the battery box and switch S1 in series.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I connect the battery box and switch S1 in series as instructed?",
+        "answer": "Yes, I connected the battery box and switch S1 in series."
+      },
+      {
+        "question": "What did I do to ensure the battery box and switch S1 were in series?",
+        "answer": "I made sure the battery box and switch S1 were connected in a single continuous path."
+      }
+    ]
+  },
+  {
+    "task_id": "tsumiki",
+    "video_id": "S1760002",
+    "start_time": 88.523883,
+    "end_time": 99.558554,
+    "instruction": 4,
+    "instruction_label": null,
+    "is_error": true,
+    "error_labels": [
+      "others"
+    ],
+    "error_caption": "place blocks from left to right in the order of red and yellow but should put them in the order of yellow and red",
+    "qa_pairs": [
+      {
+        "question": "What did I do incorrectly when placing the blocks?",
+        "answer": "I placed the blocks in the order of red and yellow instead of the required order of yellow and red."
+      }
+    ]
+  },
+  {
+    "task_id": "ion",
+    "video_id": "S1730006",
+    "start_time": 167.965227,
+    "end_time": 185.051371,
+    "instruction": 5,
+    "instruction_label": "Put a drop of copper sulfate aqueous solution on each first row of the metal plates.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I put a drop of copper sulfate aqueous solution on each of the metal plates in the first row?",
+        "answer": "Yes, I put a drop of copper sulfate aqueous solution on each of the metal plates in the first row."
+      },
+      {
+        "question": "What did I do with the copper sulfate solution and the metal plates?",
+        "answer": "I placed a drop of copper sulfate aqueous solution on every metal plate located in the first row."
+      }
+    ]
+  },
+  {
+    "task_id": "tsumiki",
+    "video_id": "S1760003",
+    "start_time": 16.889127,
+    "end_time": 25.488118,
+    "instruction": 1,
+    "instruction_label": "Bridge two long thin cuboid blocks on the square blocks from left to right in the order of blue and green.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I place the blue cuboid block on the leftmost square block before placing the green one on the next square block?",
+        "answer": "Yes, I placed the blue cuboid block on the leftmost square block and then placed the green one on the next square block."
+      },
+      {
+        "question": "What did I do to ensure the bridge was formed correctly from left to right using the blue and green blocks?",
+        "answer": "I carefully positioned the blue cuboid block on the left square block and followed by placing the green cuboid block on the adjacent square block to form the bridge as instructed."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810009",
+    "start_time": 304.20902238832775,
+    "end_time": 437.0875703499192,
+    "instruction": 1,
+    "instruction_label": "Cut along the auxiliary lines of the shape",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I carefully cut along all the auxiliary lines to form the shape?",
+        "answer": "Yes, I carefully followed each auxiliary line to cut out the shape."
+      },
+      {
+        "question": "What did I do to ensure I cut along the correct lines for the shape?",
+        "answer": "I traced the auxiliary lines precisely before making the cuts to form the shape."
+      }
+    ]
+  },
+  {
+    "task_id": "blacklight",
+    "video_id": "S1800006",
+    "start_time": 96.248566,
+    "end_time": 131.333203,
+    "instruction": 3,
+    "instruction_label": "Take out the powdered detergent into a cup, add about 15mL of water and dissolve it.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I take out the powdered detergent and put it in a cup as instructed?",
+        "answer": "Yes, I took out the powdered detergent and placed it in a cup."
+      },
+      {
+        "question": "What did I do after adding about 15mL of water to the cup with the detergent?",
+        "answer": "I dissolved the detergent in the water by stirring it until it was fully mixed."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810005",
+    "start_time": 553.9446998749972,
+    "end_time": 926.3982377645116,
+    "instruction": 7,
+    "instruction_label": "Cut along the auxiliary lines of the shape on the paper.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I carefully cut along the auxiliary lines of the shape on the paper as instructed?",
+        "answer": "Yes, I carefully followed the instructions to cut along the auxiliary lines of the shape on the paper."
+      },
+      {
+        "question": "What did I do to ensure I followed the step correctly when cutting the cardboard?",
+        "answer": "I made sure to precisely follow the auxiliary lines of the shape on the paper by using a sharp pair of scissors or a craft knife."
+      }
+    ]
+  },
+  {
+    "task_id": "blacklight",
+    "video_id": "S1800001",
+    "start_time": 183.42711,
+    "end_time": 208.035269,
+    "instruction": 4,
+    "instruction_label": "Shine a black light on each liquid to examine its luminescence color.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I shine a black light on each liquid to check for luminescence?",
+        "answer": "Yes, I shone a black light on each liquid to examine their luminescence color."
+      },
+      {
+        "question": "What did I do to each liquid sample using the black light?",
+        "answer": "I used the black light to observe the luminescence color of each liquid sample."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810010",
+    "start_time": 89.67168612443476,
+    "end_time": 148.06049633443567,
+    "instruction": 1,
+    "instruction_label": "Cut along the auxiliary lines of the shape",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I carefully cut along all the auxiliary lines to form the shape?",
+        "answer": "Yes, I carefully followed each auxiliary line to cut out the shape."
+      },
+      {
+        "question": "What did I do to ensure I cut along the correct lines for the shape?",
+        "answer": "I traced the auxiliary lines precisely before making the cuts to form the shape."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810007",
+    "start_time": 1223.2529881249588,
+    "end_time": 1227.969268792137,
+    "instruction": 13,
+    "instruction_label": "Put chopsticks in the body.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I insert the chopsticks into the cardboard body as instructed?",
+        "answer": "Yes, I put the chopsticks in the body as specified."
+      },
+      {
+        "question": "What did I do to ensure the chopsticks were properly placed in the cardboard?",
+        "answer": "I carefully inserted the chopsticks into the designated slots in the cardboard body."
+      }
+    ]
+  },
+  {
+    "task_id": "electronics",
+    "video_id": "S1790005",
+    "start_time": 2.188305,
+    "end_time": 16.251588,
+    "instruction": 0,
+    "instruction_label": "Connect the battery box and switch S1 in series.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I connect the battery box and switch S1 in series as instructed?",
+        "answer": "Yes, I connected the battery box and switch S1 in series."
+      },
+      {
+        "question": "What did I do to ensure the battery box and switch S1 were in series?",
+        "answer": "I made sure the battery box and switch S1 were connected in a single continuous path."
+      }
+    ]
+  },
+  {
+    "task_id": "blacklight",
+    "video_id": "S1800006",
+    "start_time": 133.057154,
+    "end_time": 160.455784,
+    "instruction": 4,
+    "instruction_label": null,
+    "is_error": true,
+    "error_labels": [
+      "working with wrong objects"
+    ],
+    "error_caption": "shine on green liquid, yellow liquid, and red liquid but should also shine on powdered detergent",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when shining the blacklight?",
+        "answer": "I shone the blacklight on green liquid, yellow liquid, and red liquid instead of focusing on the powdered detergent as required."
+      }
+    ]
+  },
+  {
+    "task_id": "blacklight",
+    "video_id": "S1800005",
+    "start_time": 259.643554,
+    "end_time": 262.02597,
+    "instruction": -1,
+    "instruction_label": null,
+    "is_error": true,
+    "error_labels": [
+      "grasping wrong objects and releasing them without using"
+    ],
+    "error_caption": "grasp black light",
+    "qa_pairs": [
+      {
+        "question": "What mistake did I make when trying to use the black light?",
+        "answer": "I grasped the wrong object, which is an error of grasping wrong objects and releasing them without using. I should have specifically picked up the black light."
+      }
+    ]
+  },
+  {
+    "task_id": "electronics",
+    "video_id": "S1790010",
+    "start_time": 159.638325,
+    "end_time": 168.502914,
+    "instruction": 4,
+    "instruction_label": "Put a propeller on the motor.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I attach a propeller to the motor as instructed?",
+        "answer": "Yes, I put a propeller on the motor."
+      },
+      {
+        "question": "What did I do to the motor according to the task?",
+        "answer": "I placed a propeller on the motor."
+      }
+    ]
+  },
+  {
+    "task_id": "tsumiki",
+    "video_id": "S1750001",
+    "start_time": 134.982872,
+    "end_time": 141.539439,
+    "instruction": -1,
+    "instruction_label": null,
+    "is_error": true,
+    "error_labels": [
+      "correction of mistake actions"
+    ],
+    "error_caption": "correct error in step 3",
+    "qa_pairs": [
+      {
+        "question": "What is the significance of what I am doing right now? ",
+        "answer": "I have corrected the mistake that previously occurred."
+      }
+    ]
+  },
+  {
+    "task_id": "electronics",
+    "video_id": "S1790004",
+    "start_time": 92.405455,
+    "end_time": 105.408648,
+    "instruction": 3,
+    "instruction_label": "Connect the switch S2 in series with the motor and the battery box.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I connect the switch S2 in series between the motor and the battery box as instructed?",
+        "answer": "Yes, I connected the switch S2 in series with the motor and the battery box."
+      },
+      {
+        "question": "What did I do to ensure the switch S2 is correctly placed in the circuit?",
+        "answer": "I placed the switch S2 in series between the motor and the battery box to follow the instruction."
+      }
+    ]
+  },
+  {
+    "task_id": "ion",
+    "video_id": "S1720005",
+    "start_time": 8.58635,
+    "end_time": 22.934822,
+    "instruction": 1,
+    "instruction_label": "Take a pair of tweezers out of a bag.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I use the right tool to take out the tweezers?",
+        "answer": "Yes, I used a pair of tweezers to take them out."
+      },
+      {
+        "question": "What did I do to get the tweezers out of the bag?",
+        "answer": "I took a pair of tweezers out of the bag using my hands."
+      }
+    ]
+  },
+  {
+    "task_id": "blacklight",
+    "video_id": "S1800001",
+    "start_time": 74.390348,
+    "end_time": 102.386451,
+    "instruction": 2,
+    "instruction_label": "Pour about 15mL of water into a cup, dip the tip of a yellow highlighter in the water and squeeze out a drop.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I pour exactly 15 mL of water into the cup?",
+        "answer": "Yes, I poured about 15 mL of water into the cup."
+      },
+      {
+        "question": "Did I squeeze out a single drop of yellow ink after dipping the highlighter in the water?",
+        "answer": "Yes, I squeezed out a drop of yellow ink after dipping the tip of the highlighter in the water."
+      }
+    ]
+  },
+  {
+    "task_id": "electronics",
+    "video_id": "S1790007",
+    "start_time": 68.530722,
+    "end_time": 77.496067,
+    "instruction": 2,
+    "instruction_label": "Connect switch S2 and lamp L1 in parallel.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I connect switch S2 and lamp L1 in parallel as instructed?",
+        "answer": "Yes, I connected switch S2 and lamp L1 in parallel."
+      },
+      {
+        "question": "What did I do to ensure switch S2 and lamp L1 were in parallel?",
+        "answer": "I made sure switch S2 and lamp L1 were connected across the same two points of the circuit."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810003",
+    "start_time": 487.9426469091504,
+    "end_time": 1082.8046718690941,
+    "instruction": 7,
+    "instruction_label": "Cut along the auxiliary lines of the shape on the paper.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I carefully cut along the auxiliary lines of the shape on the paper as instructed?",
+        "answer": "Yes, I carefully followed the instructions to cut along the auxiliary lines of the shape on the paper."
+      },
+      {
+        "question": "What did I do to ensure I followed the step correctly when cutting the cardboard?",
+        "answer": "I made sure to precisely follow the auxiliary lines of the shape on the paper by using a sharp pair of scissors or a craft knife."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810001",
+    "start_time": 1858.9560640167342,
+    "end_time": 2034.9680345166992,
+    "instruction": 12,
+    "instruction_label": "Adhere the lid and the bottom with glue so that they cover the body.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I ensure that both the lid and the bottom were securely glued to the body of the cardboard box?",
+        "answer": "Yes, I adhered the lid and the bottom with glue to fully cover the body."
+      },
+      {
+        "question": "What did I do to make sure the cardboard box was sealed properly?",
+        "answer": "I glued the lid and the bottom to the body to ensure a tight seal."
+      }
+    ]
+  },
+  {
+    "task_id": "tsumiki",
+    "video_id": "S1750001",
+    "start_time": 157.529973,
+    "end_time": 173.040886,
+    "instruction": 6,
+    "instruction_label": "Place two triangular prism blocks on both sides of the blue thick cuboid block from left to right in the order of blue and red.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I place the blue thick cuboid block first, followed by the red triangular prism block on its right?",
+        "answer": "Yes, I placed the blue thick cuboid block on the left side, followed by the red triangular prism block on its right."
+      },
+      {
+        "question": "What did I do after placing the blue thick cuboid block?",
+        "answer": "After placing the blue thick cuboid block, I placed the red triangular prism block next to it on the right side."
+      }
+    ]
+  },
+  {
+    "task_id": "blacklight",
+    "video_id": "S1800004",
+    "start_time": 156.23229,
+    "end_time": 184.229813,
+    "instruction": 5,
+    "instruction_label": null,
+    "is_error": true,
+    "error_labels": [
+      "working with wrong objects"
+    ],
+    "error_caption": "use yellow liquid but should use green liquid",
+    "qa_pairs": [
+      {
+        "question": "What did I use instead of the correct green liquid for the blacklight experiment?",
+        "answer": "I used yellow liquid instead of the required green liquid for the blacklight experiment."
+      },
+      {
+        "question": "Why was using yellow liquid incorrect for the blacklight experiment?",
+        "answer": "Using yellow liquid was incorrect because it does not produce the same fluorescence properties as green liquid, which is specifically designed for blacklight experiments."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810007",
+    "start_time": 1098.2350680999753,
+    "end_time": 1132.8379904619896,
+    "instruction": 11,
+    "instruction_label": null,
+    "is_error": true,
+    "error_labels": [
+      "working with wrong objects"
+    ],
+    "error_caption": "use cutter knife to widen hole but should use chopsticks",
+    "qa_pairs": [
+      {
+        "question": "What tool should I have used instead of a cutter knife to widen the hole in the cardboard?",
+        "answer": "Chopsticks, as they would provide better control and precision for widening the hole without damaging the cardboard."
+      },
+      {
+        "question": "Why was using a cutter knife incorrect when working with cardboard?",
+        "answer": "Using a cutter knife can cause unnecessary damage to the cardboard and is not precise enough for tasks like widening holes, whereas chopsticks offer better control and are less likely to tear the material."
+      }
+    ]
+  },
+  {
+    "task_id": "electronics",
+    "video_id": "S1790003",
+    "start_time": 30.482145,
+    "end_time": 41.605888,
+    "instruction": 1,
+    "instruction_label": null,
+    "is_error": true,
+    "error_labels": [
+      "working with wrong objects"
+    ],
+    "error_caption": "use switch s2 but should use switch s1",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when using the switch?",
+        "answer": "I used switch S2 instead of switch S1, which is incorrect according to the instructions."
+      },
+      {
+        "question": "Why was using switch S2 wrong?",
+        "answer": "Using switch S2 was incorrect because the instructions specified to use switch S1, indicating that S1 is the correct switch to operate for the intended function."
+      }
+    ]
+  },
+  {
+    "task_id": "blacklight",
+    "video_id": "S1800010",
+    "start_time": 113.432948,
+    "end_time": 128.956813,
+    "instruction": 4,
+    "instruction_label": "Shine a black light on each liquid to examine its luminescence color.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I shine a black light on each liquid to check for luminescence?",
+        "answer": "Yes, I shone a black light on each liquid to examine their luminescence color."
+      },
+      {
+        "question": "What did I do to each liquid sample using the black light?",
+        "answer": "I used the black light to observe the luminescence color of each liquid sample."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810009",
+    "start_time": 724.2630735769013,
+    "end_time": 782.4275662370349,
+    "instruction": 6,
+    "instruction_label": "Tape a lid paper and a bottom paper to the cardboard to secure them in place.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I tape the lid paper and the bottom paper securely to the cardboard as instructed?",
+        "answer": "Yes, I taped the lid paper and the bottom paper to the cardboard to ensure they were properly secured in place."
+      },
+      {
+        "question": "What did I do to make sure the lid and bottom papers stayed attached to the cardboard?",
+        "answer": "I taped the lid paper and the bottom paper to the cardboard to keep them in place."
+      }
+    ]
+  },
+  {
+    "task_id": "ion",
+    "video_id": "S1730006",
+    "start_time": 118.526163,
+    "end_time": 167.340962,
+    "instruction": 4,
+    "instruction_label": "Put three magnesium plates on the right column of the microplate using the pair of tweezers.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I use the pair of tweezers to place three magnesium plates on the right column of the microplate?",
+        "answer": "Yes, I used the pair of tweezers to carefully place three magnesium plates on the right column of the microplate."
+      },
+      {
+        "question": "What did I do to ensure the correct placement of the magnesium plates?",
+        "answer": "I used the pair of tweezers to precisely put three magnesium plates on the right column of the microplate."
+      }
+    ]
+  },
+  {
+    "task_id": "blacklight",
+    "video_id": "S1800002",
+    "start_time": 310.15636,
+    "end_time": 325.819927,
+    "instruction": 7,
+    "instruction_label": "Check the color of the mixed liquid by shining a black light on it to see if it turns white.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I shine the black light on the mixed liquid to check if it turned white?",
+        "answer": "Yes, I checked the color of the mixed liquid by shining a black light on it to see if it turned white."
+      },
+      {
+        "question": "What did I do to verify the presence of a fluorescent substance in the liquid mixture?",
+        "answer": "I used a black light to illuminate the mixed liquid and observed if it changed to white, indicating the presence of a fluorescent substance."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810004",
+    "start_time": 378.691717,
+    "end_time": 405.097067,
+    "instruction": 4,
+    "instruction_label": "Fold along the incisions of the fold.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I carefully fold along all the incisions as instructed?",
+        "answer": "Yes, I carefully followed the instructions to fold along all the incisions."
+      },
+      {
+        "question": "What did I do to ensure I folded correctly?",
+        "answer": "I made sure to fold along each incision precisely as specified in the step."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810001",
+    "start_time": 4.260584216920219,
+    "end_time": 232.06703703472766,
+    "instruction": 0,
+    "instruction_label": "Draw auxiliary lines of the shape and the fold on cardboard according to dimensional drawings.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I draw the necessary auxiliary lines for the shape and folds on the cardboard as per the dimensional drawings?",
+        "answer": "Yes, I drew the auxiliary lines of the shape and the fold on the cardboard according to the provided dimensional drawings."
+      },
+      {
+        "question": "What did I do to ensure the accuracy of the fold lines on the cardboard?",
+        "answer": "I carefully drew auxiliary lines for the shape and the fold on the cardboard based on the detailed dimensional drawings to ensure accuracy."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810004",
+    "start_time": 1063.8793597975614,
+    "end_time": 1099.5326882629913,
+    "instruction": 9,
+    "instruction_label": "Make incisions on the auxiliary lines of the fold on the paper.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I make precise incisions along the auxiliary lines designated for folding on the paper?",
+        "answer": "Yes, I made precise incisions along the auxiliary lines designated for folding on the paper."
+      },
+      {
+        "question": "What did I do to prepare the paper for folding?",
+        "answer": "I made incisions on the auxiliary lines of the fold on the paper to prepare it for folding."
+      }
+    ]
+  },
+  {
+    "task_id": "tsumiki",
+    "video_id": "S1760001",
+    "start_time": 85.191867,
+    "end_time": 95.154453,
+    "instruction": 4,
+    "instruction_label": "Place two thick cuboid blocks on the bridge, laying them down in order from left to right, yellow to red.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I place the yellow block on the left side of the bridge before placing the red block on the right side?",
+        "answer": "Yes, I placed the yellow block on the left side of the bridge and then placed the red block on the right side."
+      },
+      {
+        "question": "What colors were the blocks I placed on the bridge, and in what order?",
+        "answer": "The blocks were yellow and red, with the yellow block placed first and the red block placed second."
+      }
+    ]
+  },
+  {
+    "task_id": "electronics",
+    "video_id": "S1790009",
+    "start_time": 2.368033,
+    "end_time": 19.473197,
+    "instruction": 0,
+    "instruction_label": "Connect the battery box and switch S1 in series.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I connect the battery box and switch S1 in series as instructed?",
+        "answer": "Yes, I connected the battery box and switch S1 in series."
+      },
+      {
+        "question": "What did I do to ensure the battery box and switch S1 were in series?",
+        "answer": "I made sure the battery box and switch S1 were connected in a single continuous path."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810007",
+    "start_time": 756.2382937848492,
+    "end_time": 850.3108739655163,
+    "instruction": 12,
+    "instruction_label": "Adhere the lid and the bottom with glue so that they cover the body.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I ensure that both the lid and the bottom were securely glued to the body of the cardboard box?",
+        "answer": "Yes, I adhered the lid and the bottom with glue to fully cover the body."
+      },
+      {
+        "question": "What did I do to make sure the cardboard box was sealed properly?",
+        "answer": "I glued the lid and the bottom to the body to ensure a tight seal."
+      }
+    ]
+  },
+  {
+    "task_id": "tsumiki",
+    "video_id": "S1750004",
+    "start_time": 93.888308,
+    "end_time": 99.301088,
+    "instruction": 5,
+    "instruction_label": "Lay one blue thick cuboid block down and stack it in the upper center of the yellow and the red bhick cuboid blocks.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I lay the blue thick cuboid block down and stacking it in the upper center of the yellow and red thick cuboid blocks?",
+        "answer": "Yes, I laid the blue thick cuboid block down and then stacked it in the upper center of the yellow and red thick cuboid blocks."
+      },
+      {
+        "question": "What did I do to position the blue thick cuboid block?",
+        "answer": "I placed the blue thick cuboid block on the lower level and then carefully positioned it in the upper center among the yellow and red thick cuboid blocks."
+      }
+    ]
+  },
+  {
+    "task_id": "tsumiki",
+    "video_id": "S1760005",
+    "start_time": 2.657644,
+    "end_time": 12.180405,
+    "instruction": 0,
+    "instruction_label": "Arrange three cube blocks in a row from left to right in the order of blue, green, and yellow.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I arrange the blocks in the order of blue, green, and yellow from left to right?",
+        "answer": "Yes, I arranged the blue block on the left, followed by the green block, and then placed the yellow block on the right."
+      },
+      {
+        "question": "What did I do to ensure the blocks were in the correct sequence?",
+        "answer": "I placed the blue block first, then the green one in the middle, and finally the yellow block on the right to maintain the specified order."
+      }
+    ]
+  },
+  {
+    "task_id": "electronics",
+    "video_id": "S1790009",
+    "start_time": 135.481637,
+    "end_time": 143.641809,
+    "instruction": 4,
+    "instruction_label": null,
+    "is_error": true,
+    "error_labels": [
+      "unintended actions"
+    ],
+    "error_caption": "drop propeller from motor",
+    "qa_pairs": [
+      {
+        "question": "What mistake did I make when handling the motor?",
+        "answer": "I made an unintended action by dropping the propeller from the motor, which could damage both the propeller and the motor."
+      },
+      {
+        "question": "Why is it incorrect to drop the propeller from the motor?",
+        "answer": "It is incorrect because it can cause physical damage to the propeller and motor, potentially rendering them unusable."
+      }
+    ]
+  },
+  {
+    "task_id": "tsumiki",
+    "video_id": "S1750004",
+    "start_time": 3.921232,
+    "end_time": 23.104575,
+    "instruction": 0,
+    "instruction_label": "Arrange three cube blocks in a row from left to right in the order of blue, green, and yellow.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I arrange the blocks in the order of blue, green, and yellow from left to right?",
+        "answer": "Yes, I arranged the blue block on the left, followed by the green block, and then placed the yellow block on the right."
+      },
+      {
+        "question": "What did I do to ensure the blocks were in the correct sequence?",
+        "answer": "I placed the blue block first, then the green one in the middle, and finally the yellow block on the right to maintain the specified order."
+      }
+    ]
+  },
+  {
+    "task_id": "tsumiki",
+    "video_id": "S1760005",
+    "start_time": 58.536891,
+    "end_time": 65.09486,
+    "instruction": 4,
+    "instruction_label": "Place two thick cuboid blocks on the bridge, laying them down in order from left to right, yellow to red.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I place the yellow block on the left side of the bridge before placing the red block on the right side?",
+        "answer": "Yes, I placed the yellow block on the left side of the bridge and then placed the red block on the right side."
+      },
+      {
+        "question": "What colors were the blocks I placed on the bridge, and in what order?",
+        "answer": "The blocks were yellow and red, with the yellow block placed first and the red block placed second."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810007",
+    "start_time": 2.978152750579356,
+    "end_time": 185.06942104244573,
+    "instruction": 0,
+    "instruction_label": "Draw auxiliary lines of the shape and the fold on cardboard according to dimensional drawings.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I draw the necessary auxiliary lines for the shape and folds on the cardboard as per the dimensional drawings?",
+        "answer": "Yes, I drew the auxiliary lines of the shape and the fold on the cardboard according to the provided dimensional drawings."
+      },
+      {
+        "question": "What did I do to ensure the accuracy of the fold lines on the cardboard?",
+        "answer": "I carefully drew auxiliary lines for the shape and the fold on the cardboard based on the detailed dimensional drawings to ensure accuracy."
+      }
+    ]
+  },
+  {
+    "task_id": "tsumiki",
+    "video_id": "S1750003",
+    "start_time": 48.134831,
+    "end_time": 62.55891,
+    "instruction": 4,
+    "instruction_label": "Place two thick cuboid blocks on the bridge, laying them down in order from left to right, yellow to red.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I place the yellow block on the left side of the bridge before placing the red block on the right side?",
+        "answer": "Yes, I placed the yellow block on the left side of the bridge and then placed the red block on the right side."
+      },
+      {
+        "question": "What colors were the blocks I placed on the bridge, and in what order?",
+        "answer": "The blocks were yellow and red, with the yellow block placed first and the red block placed second."
+      }
+    ]
+  },
+  {
+    "task_id": "blacklight",
+    "video_id": "S1800008",
+    "start_time": 210.994749,
+    "end_time": 241.943324,
+    "instruction": 5,
+    "instruction_label": "Mix powdered detergent, red, and green liquid in a cup.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I mix powdered detergent, red liquid, and green liquid in a cup?",
+        "answer": "Yes, I mixed powdered detergent, red liquid, and green liquid in a cup."
+      },
+      {
+        "question": "What colors and substances did I use to mix in the cup?",
+        "answer": "I used powdered detergent, red liquid, and green liquid to mix in the cup."
+      }
+    ]
+  },
+  {
+    "task_id": "ion",
+    "video_id": "S1720006",
+    "start_time": 75.019911,
+    "end_time": 146.215275,
+    "instruction": 4,
+    "instruction_label": "Put three magnesium plates on the right column of the microplate using the pair of tweezers.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I use the pair of tweezers to place three magnesium plates on the right column of the microplate?",
+        "answer": "Yes, I used the pair of tweezers to carefully place three magnesium plates on the right column of the microplate."
+      },
+      {
+        "question": "What did I do to ensure the correct placement of the magnesium plates?",
+        "answer": "I used the pair of tweezers to precisely put three magnesium plates on the right column of the microplate."
+      }
+    ]
+  },
+  {
+    "task_id": "blacklight",
+    "video_id": "S1800006",
+    "start_time": 185.532755,
+    "end_time": 188.368519,
+    "instruction": -1,
+    "instruction_label": null,
+    "is_error": true,
+    "error_labels": [
+      "grasping wrong objects and releasing them without using"
+    ],
+    "error_caption": "grasp a cup of yellow liquid",
+    "qa_pairs": [
+      {
+        "question": "What did I do incorrectly when trying to grasp the cup?",
+        "answer": "I grasped the wrong object, specifically a cup of yellow liquid, which is not the intended item. This action falls under the category of grasping wrong objects and releasing them without using."
+      },
+      {
+        "question": "Why was it incorrect to grasp a cup of yellow liquid?",
+        "answer": "It was incorrect because I was supposed to grasp a cup of a specific substance, likely a blacklight solution, but instead I grasped a cup of yellow liquid. This mistake aligns with the error types of grasping wrong objects and releasing them without using."
+      }
+    ]
+  },
+  {
+    "task_id": "electronics",
+    "video_id": "S1790001",
+    "start_time": 179.836899,
+    "end_time": 203.745241,
+    "instruction": 3,
+    "instruction_label": "Connect the switch S2 in series with the motor and the battery box.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I connect the switch S2 in series between the motor and the battery box as instructed?",
+        "answer": "Yes, I connected the switch S2 in series with the motor and the battery box."
+      },
+      {
+        "question": "What did I do to ensure the switch S2 is correctly placed in the circuit?",
+        "answer": "I placed the switch S2 in series between the motor and the battery box to follow the instruction."
+      }
+    ]
+  },
+  {
+    "task_id": "electronics",
+    "video_id": "S1790010",
+    "start_time": 208.985093,
+    "end_time": 213.769786,
+    "instruction": 5,
+    "instruction_label": "Put two battery in the battery box.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I put two batteries into the battery box as instructed?",
+        "answer": "Yes, I placed two batteries into the battery box."
+      },
+      {
+        "question": "What did I ensure when putting the batteries in the box?",
+        "answer": "I made sure to insert two batteries into the battery box as specified."
+      }
+    ]
+  },
+  {
+    "task_id": "electronics",
+    "video_id": "S1790010",
+    "start_time": 91.565244,
+    "end_time": 155.910242,
+    "instruction": 3,
+    "instruction_label": "Connect the switch S2 in series with the motor and the battery box.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I connect the switch S2 in series between the motor and the battery box as instructed?",
+        "answer": "Yes, I connected the switch S2 in series with the motor and the battery box."
+      },
+      {
+        "question": "What did I do to ensure the switch S2 is correctly placed in the circuit?",
+        "answer": "I placed the switch S2 in series between the motor and the battery box to follow the instruction."
+      }
+    ]
+  },
+  {
+    "task_id": "electronics",
+    "video_id": "S1790004",
+    "start_time": 36.399776,
+    "end_time": 56.020768,
+    "instruction": 2,
+    "instruction_label": "Connect switch S2 and lamp L1 in parallel.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I connect switch S2 and lamp L1 in parallel as instructed?",
+        "answer": "Yes, I connected switch S2 and lamp L1 in parallel."
+      },
+      {
+        "question": "What did I do to ensure switch S2 and lamp L1 were in parallel?",
+        "answer": "I made sure switch S2 and lamp L1 were connected across the same two points of the circuit."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810010",
+    "start_time": 355.4781487876405,
+    "end_time": 698.2981143140819,
+    "instruction": 7,
+    "instruction_label": "Cut along the auxiliary lines of the shape on the paper.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I carefully cut along the auxiliary lines of the shape on the paper as instructed?",
+        "answer": "Yes, I carefully followed the instructions to cut along the auxiliary lines of the shape on the paper."
+      },
+      {
+        "question": "What did I do to ensure I followed the step correctly when cutting the cardboard?",
+        "answer": "I made sure to precisely follow the auxiliary lines of the shape on the paper by using a sharp pair of scissors or a craft knife."
+      }
+    ]
+  },
+  {
+    "task_id": "tsumiki",
+    "video_id": "S1750001",
+    "start_time": 27.192339,
+    "end_time": 54.593778,
+    "instruction": 1,
+    "instruction_label": null,
+    "is_error": true,
+    "error_labels": [
+      "working with wrong objects"
+    ],
+    "error_caption": "bridge two short thin cuboid blocks but should bridge two long thin cuboid blocks\n",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when trying to build the bridge?",
+        "answer": "I used short thin cuboid blocks instead of the required long thin cuboid blocks, which prevented the bridge from being stable and functional."
+      },
+      {
+        "question": "Why was using short blocks incorrect for this task?",
+        "answer": "Using short blocks was incorrect because the task specifically required long blocks to properly span the gap and support the intended load, whereas short blocks would not provide sufficient length or stability."
+      }
+    ]
+  },
+  {
+    "task_id": "electronics",
+    "video_id": "S1790006",
+    "start_time": 65.509373,
+    "end_time": 71.729097,
+    "instruction": 4,
+    "instruction_label": "Put a propeller on the motor.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I attach a propeller to the motor as instructed?",
+        "answer": "Yes, I put a propeller on the motor."
+      },
+      {
+        "question": "What did I do to the motor according to the task?",
+        "answer": "I placed a propeller on the motor."
+      }
+    ]
+  },
+  {
+    "task_id": "tsumiki",
+    "video_id": "S1750004",
+    "start_time": 66.218705,
+    "end_time": 69.201515,
+    "instruction": -1,
+    "instruction_label": null,
+    "is_error": true,
+    "error_labels": [
+      "grasping wrong objects and releasing them without using"
+    ],
+    "error_caption": "grasp a yellow block",
+    "qa_pairs": [
+      {
+        "question": "What mistake did I make when trying to grasp the blocks?",
+        "answer": "I grasped a yellow block instead of the correct one, which is an example of grasping wrong objects."
+      },
+      {
+        "question": "Why is it important to use the correct block when instructed to grasp a yellow one?",
+        "answer": "Using the correct block ensures I follow the task accurately, avoiding errors like grasping wrong objects and releasing them without purpose."
+      }
+    ]
+  },
+  {
+    "task_id": "electronics",
+    "video_id": "S1790005",
+    "start_time": 27.084153,
+    "end_time": 67.062784,
+    "instruction": 2,
+    "instruction_label": "Connect switch S2 and lamp L1 in parallel.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I connect switch S2 and lamp L1 in parallel as instructed?",
+        "answer": "Yes, I connected switch S2 and lamp L1 in parallel."
+      },
+      {
+        "question": "What did I do to ensure switch S2 and lamp L1 were in parallel?",
+        "answer": "I made sure switch S2 and lamp L1 were connected across the same two points of the circuit."
+      }
+    ]
+  },
+  {
+    "task_id": "tsumiki",
+    "video_id": "S1760003",
+    "start_time": 82.665324,
+    "end_time": 88.974226,
+    "instruction": -1,
+    "instruction_label": null,
+    "is_error": true,
+    "error_labels": [
+      "grasping wrong objects and releasing them without using"
+    ],
+    "error_caption": "graspe blue building blocks",
+    "qa_pairs": [
+      {
+        "question": "What mistake did I make when handling the blue building blocks?",
+        "answer": "I grasped the wrong objects instead of the specified blue building blocks, and then released them without using them."
+      },
+      {
+        "question": "Why is it important to use the correct building blocks?",
+        "answer": "Using the correct blue building blocks ensures I follow the task instructions accurately, which is crucial for completing the activity correctly and efficiently."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810004",
+    "start_time": 405.98032090300774,
+    "end_time": 431.3690011509305,
+    "instruction": 5,
+    "instruction_label": "Adhere the liner with glue.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I use the appropriate type of glue to adhere the liner to the cardboard?",
+        "answer": "Yes, I used the appropriate type of glue as specified."
+      },
+      {
+        "question": "What did I do to ensure the liner was securely attached to the cardboard?",
+        "answer": "I adhered the liner with glue, making sure it was evenly applied and pressed firmly into place."
+      }
+    ]
+  },
+  {
+    "task_id": "tsumiki",
+    "video_id": "S1760005",
+    "start_time": 70.5589,
+    "end_time": 78.851617,
+    "instruction": 6,
+    "instruction_label": "Place two triangular prism blocks on both sides of the blue thick cuboid block from left to right in the order of blue and red.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I place the blue thick cuboid block first, followed by the red triangular prism block on its right?",
+        "answer": "Yes, I placed the blue thick cuboid block on the left side, followed by the red triangular prism block on its right."
+      },
+      {
+        "question": "What did I do after placing the blue thick cuboid block?",
+        "answer": "After placing the blue thick cuboid block, I placed the red triangular prism block next to it on the right side."
+      }
+    ]
+  },
+  {
+    "task_id": "ion",
+    "video_id": "S1720002",
+    "start_time": 61.509436,
+    "end_time": 101.706243,
+    "instruction": -1,
+    "instruction_label": null,
+    "is_error": true,
+    "error_labels": [
+      "others"
+    ],
+    "error_caption": "scatter pieces of zinc\nput three zinc plates on the right column, but should on the center column",
+    "qa_pairs": [
+      {
+        "question": "What did I do incorrectly when placing the zinc plates?",
+        "answer": "I placed three zinc plates on the right column instead of the center column as instructed."
+      },
+      {
+        "question": "Why was it wrong to place the zinc plates on the right column?",
+        "answer": "It was incorrect because the instruction specified that the zinc plates should be placed on the center column, not the right column."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810001",
+    "start_time": 1808.3654990565503,
+    "end_time": 1851.0933106158534,
+    "instruction": 11,
+    "instruction_label": "Put chopsticks through the cutout in the lid to widen the hole.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I put the chopsticks through the cutout in the lid to widen the hole as instructed?",
+        "answer": "Yes, I put the chopsticks through the cutout in the lid to widen the hole."
+      },
+      {
+        "question": "What did I do to ensure the hole was widened for the cardboard box lid?",
+        "answer": "I used chopsticks to widen the hole by putting them through the cutout in the lid."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810008",
+    "start_time": 822.7663450279455,
+    "end_time": 1195.789658533535,
+    "instruction": 7,
+    "instruction_label": "Cut along the auxiliary lines of the shape on the paper.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I carefully cut along the auxiliary lines of the shape on the paper as instructed?",
+        "answer": "Yes, I carefully followed the instructions to cut along the auxiliary lines of the shape on the paper."
+      },
+      {
+        "question": "What did I do to ensure I followed the step correctly when cutting the cardboard?",
+        "answer": "I made sure to precisely follow the auxiliary lines of the shape on the paper by using a sharp pair of scissors or a craft knife."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810006",
+    "start_time": 1412.34246283328,
+    "end_time": 1432.7904741667307,
+    "instruction": 4,
+    "instruction_label": "Fold along the incisions of the fold.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I carefully fold along all the incisions as instructed?",
+        "answer": "Yes, I carefully followed the instructions to fold along all the incisions."
+      },
+      {
+        "question": "What did I do to ensure I folded correctly?",
+        "answer": "I made sure to fold along each incision precisely as specified in the step."
+      }
+    ]
+  },
+  {
+    "task_id": "tsumiki",
+    "video_id": "S1760002",
+    "start_time": 3.052484,
+    "end_time": 11.110749,
+    "instruction": 0,
+    "instruction_label": "Arrange three cube blocks in a row from left to right in the order of blue, green, and yellow.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I arrange the blocks in the order of blue, green, and yellow from left to right?",
+        "answer": "Yes, I arranged the blue block on the left, followed by the green block, and then placed the yellow block on the right."
+      },
+      {
+        "question": "What did I do to ensure the blocks were in the correct sequence?",
+        "answer": "I placed the blue block first, then the green one in the middle, and finally the yellow block on the right to maintain the specified order."
+      }
+    ]
+  },
+  {
+    "task_id": "electronics",
+    "video_id": "S1790001",
+    "start_time": 72.308933,
+    "end_time": 116.153124,
+    "instruction": 2,
+    "instruction_label": "Connect switch S2 and lamp L1 in parallel.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I connect switch S2 and lamp L1 in parallel as instructed?",
+        "answer": "Yes, I connected switch S2 and lamp L1 in parallel."
+      },
+      {
+        "question": "What did I do to ensure switch S2 and lamp L1 were in parallel?",
+        "answer": "I made sure switch S2 and lamp L1 were connected across the same two points of the circuit."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810009",
+    "start_time": 1629.2464750511076,
+    "end_time": 1940.6779532124535,
+    "instruction": 12,
+    "instruction_label": "Adhere the lid and the bottom with glue so that they cover the body.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I ensure that both the lid and the bottom were securely glued to the body of the cardboard box?",
+        "answer": "Yes, I adhered the lid and the bottom with glue to fully cover the body."
+      },
+      {
+        "question": "What did I do to make sure the cardboard box was sealed properly?",
+        "answer": "I glued the lid and the bottom to the body to ensure a tight seal."
+      }
+    ]
+  },
+  {
+    "task_id": "ion",
+    "video_id": "S1730002",
+    "start_time": 279.323135,
+    "end_time": 300.988372,
+    "instruction": 7,
+    "instruction_label": "Put a drop of magnesium sulfate aqueous solution on each last row of the metal plates.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I put a drop of magnesium sulfate aqueous solution on each last row of the metal plates?",
+        "answer": "Yes, I put a drop of magnesium sulfate aqueous solution on each last row of the metal plates."
+      },
+      {
+        "question": "What did I do with the magnesium sulfate aqueous solution?",
+        "answer": "I placed a drop of magnesium sulfate aqueous solution on each last row of the metal plates."
+      }
+    ]
+  },
+  {
+    "task_id": "tsumiki",
+    "video_id": "S1760002",
+    "start_time": 100.730142,
+    "end_time": 104.585828,
+    "instruction": 5,
+    "instruction_label": "Lay one blue thick cuboid block down and stack it in the upper center of the yellow and the red bhick cuboid blocks.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I lay the blue thick cuboid block down and stacking it in the upper center of the yellow and red thick cuboid blocks?",
+        "answer": "Yes, I laid the blue thick cuboid block down and then stacked it in the upper center of the yellow and red thick cuboid blocks."
+      },
+      {
+        "question": "What did I do to position the blue thick cuboid block?",
+        "answer": "I placed the blue thick cuboid block on the lower level and then carefully positioned it in the upper center among the yellow and red thick cuboid blocks."
+      }
+    ]
+  },
+  {
+    "task_id": "electronics",
+    "video_id": "S1790004",
+    "start_time": 119.091883,
+    "end_time": 129.45496,
+    "instruction": 5,
+    "instruction_label": "Put two battery in the battery box.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I put two batteries into the battery box as instructed?",
+        "answer": "Yes, I placed two batteries into the battery box."
+      },
+      {
+        "question": "What did I ensure when putting the batteries in the box?",
+        "answer": "I made sure to insert two batteries into the battery box as specified."
+      }
+    ]
+  },
+  {
+    "task_id": "blacklight",
+    "video_id": "S1800005",
+    "start_time": 275.83211,
+    "end_time": 282.09425,
+    "instruction": 7,
+    "instruction_label": "Check the color of the mixed liquid by shining a black light on it to see if it turns white.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I shine the black light on the mixed liquid to check if it turned white?",
+        "answer": "Yes, I checked the color of the mixed liquid by shining a black light on it to see if it turned white."
+      },
+      {
+        "question": "What did I do to verify the presence of a fluorescent substance in the liquid mixture?",
+        "answer": "I used a black light to illuminate the mixed liquid and observed if it changed to white, indicating the presence of a fluorescent substance."
+      }
+    ]
+  },
+  {
+    "task_id": "tsumiki",
+    "video_id": "S1760001",
+    "start_time": 101.823733,
+    "end_time": 105.570023,
+    "instruction": 5,
+    "instruction_label": "Lay one blue thick cuboid block down and stack it in the upper center of the yellow and the red bhick cuboid blocks.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I lay the blue thick cuboid block down and stacking it in the upper center of the yellow and red thick cuboid blocks?",
+        "answer": "Yes, I laid the blue thick cuboid block down and then stacked it in the upper center of the yellow and red thick cuboid blocks."
+      },
+      {
+        "question": "What did I do to position the blue thick cuboid block?",
+        "answer": "I placed the blue thick cuboid block on the lower level and then carefully positioned it in the upper center among the yellow and red thick cuboid blocks."
+      }
+    ]
+  },
+  {
+    "task_id": "tsumiki",
+    "video_id": "S1760002",
+    "start_time": 73.471693,
+    "end_time": 81.907347,
+    "instruction": 3,
+    "instruction_label": "Bridge two long thin cuboid blocks on the upright blocks from left to right in the order of yellow and red.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I place the yellow block on top of the leftmost upright block before placing the red block on top of the second upright block?",
+        "answer": "Yes, that's correct."
+      },
+      {
+        "question": "What did I do to ensure the bridge was formed by alternating between yellow and red blocks from left to right?",
+        "answer": "I placed the blocks in the specified order, starting with yellow and ending with red."
+      }
+    ]
+  },
+  {
+    "task_id": "tsumiki",
+    "video_id": "S1760004",
+    "start_time": 73.328728,
+    "end_time": 79.379641,
+    "instruction": 4,
+    "instruction_label": "Place two thick cuboid blocks on the bridge, laying them down in order from left to right, yellow to red.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I place the yellow block on the left side of the bridge before placing the red block on the right side?",
+        "answer": "Yes, I placed the yellow block on the left side of the bridge and then placed the red block on the right side."
+      },
+      {
+        "question": "What colors were the blocks I placed on the bridge, and in what order?",
+        "answer": "The blocks were yellow and red, with the yellow block placed first and the red block placed second."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810003",
+    "start_time": 425.85824128493863,
+    "end_time": 484.9849780120601,
+    "instruction": 6,
+    "instruction_label": "Tape a lid paper and a bottom paper to the cardboard to secure them in place.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I tape the lid paper and the bottom paper securely to the cardboard as instructed?",
+        "answer": "Yes, I taped the lid paper and the bottom paper to the cardboard to ensure they were properly secured in place."
+      },
+      {
+        "question": "What did I do to make sure the lid and bottom papers stayed attached to the cardboard?",
+        "answer": "I taped the lid paper and the bottom paper to the cardboard to keep them in place."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810003",
+    "start_time": 375.1269010380376,
+    "end_time": 418.4588701625109,
+    "instruction": 5,
+    "instruction_label": "Adhere the liner with glue.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I use the appropriate type of glue to adhere the liner to the cardboard?",
+        "answer": "Yes, I used the appropriate type of glue as specified."
+      },
+      {
+        "question": "What did I do to ensure the liner was securely attached to the cardboard?",
+        "answer": "I adhered the liner with glue, making sure it was evenly applied and pressed firmly into place."
+      }
+    ]
+  },
+  {
+    "task_id": "blacklight",
+    "video_id": "S1800006",
+    "start_time": 30.781773,
+    "end_time": 55.475397,
+    "instruction": 1,
+    "instruction_label": "Pour about 15mL of water into a cup, dip the tip of a green highlighter in the water and squeeze out a drop.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I pour exactly 15 mL of water into the cup?",
+        "answer": "Yes, I poured about 15 mL of water into the cup."
+      },
+      {
+        "question": "Did I squeeze out a single drop of ink from the green highlighter after dipping its tip in the water?",
+        "answer": "Yes, I squeezed out a drop of ink from the green highlighter after dipping its tip in the water."
+      }
+    ]
+  },
+  {
+    "task_id": "electronics",
+    "video_id": "S1790009",
+    "start_time": 54.122704,
+    "end_time": 116.200476,
+    "instruction": 2,
+    "instruction_label": "Connect switch S2 and lamp L1 in parallel.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I connect switch S2 and lamp L1 in parallel as instructed?",
+        "answer": "Yes, I connected switch S2 and lamp L1 in parallel."
+      },
+      {
+        "question": "What did I do to ensure switch S2 and lamp L1 were in parallel?",
+        "answer": "I made sure switch S2 and lamp L1 were connected across the same two points of the circuit."
+      }
+    ]
+  },
+  {
+    "task_id": "electronics",
+    "video_id": "S1790003",
+    "start_time": 101.358179,
+    "end_time": 106.98762295823434,
+    "instruction": 3,
+    "instruction_label": null,
+    "is_error": true,
+    "error_labels": [
+      "working with wrong objects"
+    ],
+    "error_caption": "use switch s1 but should use switch s2",
+    "qa_pairs": [
+      {
+        "question": "What mistake did I make when using the switch?",
+        "answer": "I used switch S1 instead of switch S2, which is incorrect based on the instructions."
+      }
+    ]
+  },
+  {
+    "task_id": "blacklight",
+    "video_id": "S1800004",
+    "start_time": 205.076015,
+    "end_time": 219.184564,
+    "instruction": 7,
+    "instruction_label": "Check the color of the mixed liquid by shining a black light on it to see if it turns white.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I shine the black light on the mixed liquid to check if it turned white?",
+        "answer": "Yes, I checked the color of the mixed liquid by shining a black light on it to see if it turned white."
+      },
+      {
+        "question": "What did I do to verify the presence of a fluorescent substance in the liquid mixture?",
+        "answer": "I used a black light to illuminate the mixed liquid and observed if it changed to white, indicating the presence of a fluorescent substance."
+      }
+    ]
+  },
+  {
+    "task_id": "ion",
+    "video_id": "S1720005",
+    "start_time": 262.485533,
+    "end_time": 283.744767,
+    "instruction": 8,
+    "instruction_label": "Fill in a table in the worksheet with results, and then write down names of metals in the worksheet frorm the most reactive one.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I fill in the table with the results of the ion experiment as instructed?",
+        "answer": "Yes, I filled in the table with the results of the ion experiment as instructed."
+      },
+      {
+        "question": "What did I do after filling in the table with the results of the ion experiment?",
+        "answer": "After filling in the table, I wrote down the names of the metals from the most reactive one as instructed."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810010",
+    "start_time": 774.7035071365098,
+    "end_time": 783.5134306050315,
+    "instruction": 10,
+    "instruction_label": "Fold along the incisions of the fold.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I carefully fold along all the incisions as instructed?",
+        "answer": "Yes, I carefully followed the instructions to fold along all the incisions."
+      },
+      {
+        "question": "What did I do to ensure I folded correctly?",
+        "answer": "I made sure to fold along each incision precisely as specified in the step."
+      }
+    ]
+  },
+  {
+    "task_id": "tsumiki",
+    "video_id": "S1750001",
+    "start_time": 128.334868,
+    "end_time": 133.787703,
+    "instruction": 3,
+    "instruction_label": null,
+    "is_error": true,
+    "error_labels": [
+      "working in the wrong way or moving"
+    ],
+    "error_caption": "bridge the blocks from left to right in the order of red and yellow but should bridge them in the order of yellow and red",
+    "qa_pairs": [
+      {
+        "question": "What did I do incorrectly when bridging the blocks?",
+        "answer": "I started by placing the red blocks first instead of the yellow ones as required."
+      },
+      {
+        "question": "Why was my approach to bridging the blocks considered incorrect?",
+        "answer": "The task specified to bridge the blocks in the order of yellow and red, but I followed the order of red and yellow, which is why it was incorrect."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810004",
+    "start_time": 174.06428613142018,
+    "end_time": 302.871759778985,
+    "instruction": 1,
+    "instruction_label": "Cut along the auxiliary lines of the shape",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I carefully cut along all the auxiliary lines to form the shape?",
+        "answer": "Yes, I carefully followed each auxiliary line to cut out the shape."
+      },
+      {
+        "question": "What did I do to ensure I cut along the correct lines for the shape?",
+        "answer": "I traced the auxiliary lines precisely before making the cuts to form the shape."
+      }
+    ]
+  },
+  {
+    "task_id": "blacklight",
+    "video_id": "S1800008",
+    "start_time": 268.293791,
+    "end_time": 279.012067,
+    "instruction": 7,
+    "instruction_label": "Check the color of the mixed liquid by shining a black light on it to see if it turns white.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I shine the black light on the mixed liquid to check if it turned white?",
+        "answer": "Yes, I checked the color of the mixed liquid by shining a black light on it to see if it turned white."
+      },
+      {
+        "question": "What did I do to verify the presence of a fluorescent substance in the liquid mixture?",
+        "answer": "I used a black light to illuminate the mixed liquid and observed if it changed to white, indicating the presence of a fluorescent substance."
+      }
+    ]
+  },
+  {
+    "task_id": "ion",
+    "video_id": "S1720005",
+    "start_time": 132.795674,
+    "end_time": 183.442082,
+    "instruction": 4,
+    "instruction_label": "Put three magnesium plates on the right column of the microplate using the pair of tweezers.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I use the pair of tweezers to place three magnesium plates on the right column of the microplate?",
+        "answer": "Yes, I used the pair of tweezers to carefully place three magnesium plates on the right column of the microplate."
+      },
+      {
+        "question": "What did I do to ensure the correct placement of the magnesium plates?",
+        "answer": "I used the pair of tweezers to precisely put three magnesium plates on the right column of the microplate."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810001",
+    "start_time": 1768.4642599652889,
+    "end_time": 1805.5169894987996,
+    "instruction": 10,
+    "instruction_label": "Fold along the incisions of the fold.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I carefully fold along all the incisions as instructed?",
+        "answer": "Yes, I carefully followed the instructions to fold along all the incisions."
+      },
+      {
+        "question": "What did I do to ensure I folded correctly?",
+        "answer": "I made sure to fold along each incision precisely as specified in the step."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810010",
+    "start_time": 814.7594310149934,
+    "end_time": 822.4189112219686,
+    "instruction": 10,
+    "instruction_label": "Fold along the incisions of the fold.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I carefully fold along all the incisions as instructed?",
+        "answer": "Yes, I carefully followed the instructions to fold along all the incisions."
+      },
+      {
+        "question": "What did I do to ensure I folded correctly?",
+        "answer": "I made sure to fold along each incision precisely as specified in the step."
+      }
+    ]
+  },
+  {
+    "task_id": "tsumiki",
+    "video_id": "S1760003",
+    "start_time": 113.675586,
+    "end_time": 119.965773,
+    "instruction": -1,
+    "instruction_label": null,
+    "is_error": true,
+    "error_labels": [
+      "correction of mistake actions"
+    ],
+    "error_caption": "correct error in step 6",
+    "qa_pairs": [
+      {
+        "question": "What is the significance of what I am doing right now? ",
+        "answer": "I have corrected the mistake that previously occurred."
+      }
+    ]
+  },
+  {
+    "task_id": "blacklight",
+    "video_id": "S1800005",
+    "start_time": 1.408185,
+    "end_time": 63.813095,
+    "instruction": 0,
+    "instruction_label": null,
+    "is_error": true,
+    "error_labels": [
+      "others"
+    ],
+    "error_caption": "pour much water but should pour about 15 ml\nknock over an empty cup",
+    "qa_pairs": [
+      {
+        "question": "What mistake did I make when pouring water for the blacklight experiment?",
+        "answer": "I poured too much water instead of the recommended 15 ml, which could affect the experiment's results and waste resources."
+      },
+      {
+        "question": "Why was knocking over an empty cup considered an error in the blacklight procedure?",
+        "answer": "Knocking over an empty cup is an unnecessary action that could lead to potential cleanup issues and does not contribute to the experiment's objectives."
+      }
+    ]
+  },
+  {
+    "task_id": "blacklight",
+    "video_id": "S1800005",
+    "start_time": 201.056544,
+    "end_time": 231.047642,
+    "instruction": 4,
+    "instruction_label": null,
+    "is_error": true,
+    "error_labels": [
+      "working with wrong objects"
+    ],
+    "error_caption": "shine on green liquid, yellow liquid, and red liquid but should also shine on powdered detergent",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when shining the blacklight?",
+        "answer": "I shone the blacklight on green liquid, yellow liquid, and red liquid instead of focusing on the powdered detergent as required."
+      },
+      {
+        "question": "Why was it incorrect to shine the blacklight on liquids?",
+        "answer": "It was incorrect because the task specified to shine the blacklight on powdered detergent, not on any liquids."
+      }
+    ]
+  },
+  {
+    "task_id": "blacklight",
+    "video_id": "S1800008",
+    "start_time": 193.079586,
+    "end_time": 207.875657,
+    "instruction": 4,
+    "instruction_label": "Shine a black light on each liquid to examine its luminescence color.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I shine a black light on each liquid to check for luminescence?",
+        "answer": "Yes, I shone a black light on each liquid to examine their luminescence color."
+      },
+      {
+        "question": "What did I do to each liquid sample using the black light?",
+        "answer": "I used the black light to observe the luminescence color of each liquid sample."
+      }
+    ]
+  },
+  {
+    "task_id": "electronics",
+    "video_id": "S1790001",
+    "start_time": 43.46184,
+    "end_time": 54.770191,
+    "instruction": 1,
+    "instruction_label": "Connect the switch S1 and motor in series.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I connect the switch S1 and the motor in series as instructed?",
+        "answer": "Yes, I connected the switch S1 and the motor in series."
+      },
+      {
+        "question": "What did I do to ensure the switch S1 and the motor were in series?",
+        "answer": "I made sure the switch S1 and the motor were connected end-to-end in a single loop."
+      }
+    ]
+  },
+  {
+    "task_id": "electronics",
+    "video_id": "S1790005",
+    "start_time": 17.745301,
+    "end_time": 22.975751,
+    "instruction": 1,
+    "instruction_label": "Connect the switch S1 and motor in series.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I connect the switch S1 and the motor in series as instructed?",
+        "answer": "Yes, I connected the switch S1 and the motor in series."
+      },
+      {
+        "question": "What did I do to ensure the switch S1 and the motor were in series?",
+        "answer": "I made sure the switch S1 and the motor were connected end-to-end in a single loop."
+      }
+    ]
+  },
+  {
+    "task_id": "tsumiki",
+    "video_id": "S1750004",
+    "start_time": 103.349526,
+    "end_time": 116.10933,
+    "instruction": 6,
+    "instruction_label": "Place two triangular prism blocks on both sides of the blue thick cuboid block from left to right in the order of blue and red.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I place the blue thick cuboid block first, followed by the red triangular prism block on its right?",
+        "answer": "Yes, I placed the blue thick cuboid block on the left side, followed by the red triangular prism block on its right."
+      },
+      {
+        "question": "What did I do after placing the blue thick cuboid block?",
+        "answer": "After placing the blue thick cuboid block, I placed the red triangular prism block next to it on the right side."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810010",
+    "start_time": 822.8284293626114,
+    "end_time": 920.5044934640883,
+    "instruction": 12,
+    "instruction_label": null,
+    "is_error": true,
+    "error_labels": [
+      "working with wrong objects"
+    ],
+    "error_caption": "use tape but should use glue",
+    "qa_pairs": [
+      {
+        "question": "What should I have used instead of tape to stick the cardboard pieces together?",
+        "answer": "I should have used glue to stick the cardboard pieces together, as glue provides a stronger and more durable bond compared to tape."
+      },
+      {
+        "question": "Why was using tape incorrect for this task involving cardboard?",
+        "answer": "Using tape was incorrect because it doesn't adhere as well as glue and can peel off over time, especially if the cardboard is subjected to bending or moisture, which could compromise the integrity of the project."
+      }
+    ]
+  },
+  {
+    "task_id": "blacklight",
+    "video_id": "S1800003",
+    "start_time": 6.247199,
+    "end_time": 41.199318,
+    "instruction": 0,
+    "instruction_label": "Pour about 15mL of water into a cup, dip the tip of a red highlighter in the water and squeeze out a drop.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I pour exactly 15 mL of water into the cup?",
+        "answer": "Yes, I poured about 15 mL of water into the cup."
+      },
+      {
+        "question": "Did I squeeze out a single drop of red ink after dipping the highlighter in the water?",
+        "answer": "Yes, I squeezed out a drop of red ink after dipping the tip of the highlighter in the water."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810006",
+    "start_time": 929.5599813339668,
+    "end_time": 948.9608686391257,
+    "instruction": 8,
+    "instruction_label": "Make a cross-shaped incision in the lid.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I make a precise cross-shaped incision in the lid of the cardboard container?",
+        "answer": "Yes, I made a precise cross-shaped incision in the lid."
+      },
+      {
+        "question": "What did I do to the lid of the cardboard box?",
+        "answer": "I made a cross-shaped incision in the lid of the cardboard box."
+      }
+    ]
+  },
+  {
+    "task_id": "electronics",
+    "video_id": "S1790012",
+    "start_time": 1.552707,
+    "end_time": 23.925244,
+    "instruction": 5,
+    "instruction_label": "Put two battery in the battery box.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I put two batteries into the battery box as instructed?",
+        "answer": "Yes, I placed two batteries into the battery box."
+      },
+      {
+        "question": "What did I ensure when putting the batteries in the box?",
+        "answer": "I made sure to insert two batteries into the battery box as specified."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810005",
+    "start_time": 934.0486622746042,
+    "end_time": 953.3602314935666,
+    "instruction": 8,
+    "instruction_label": "Make a cross-shaped incision in the lid.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I make a precise cross-shaped incision in the lid of the cardboard container?",
+        "answer": "Yes, I made a precise cross-shaped incision in the lid."
+      },
+      {
+        "question": "What did I do to the lid of the cardboard box?",
+        "answer": "I made a cross-shaped incision in the lid of the cardboard box."
+      }
+    ]
+  },
+  {
+    "task_id": "tsumiki",
+    "video_id": "S1760006",
+    "start_time": 38.551111,
+    "end_time": 49.196369,
+    "instruction": 3,
+    "instruction_label": "Bridge two long thin cuboid blocks on the upright blocks from left to right in the order of yellow and red.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I place the yellow block on top of the leftmost upright block before placing the red block on top of the second upright block?",
+        "answer": "Yes, that's correct."
+      },
+      {
+        "question": "What did I do to ensure the bridge was formed by alternating between yellow and red blocks from left to right?",
+        "answer": "I placed the blocks in the specified order, starting with yellow and ending with red."
+      }
+    ]
+  },
+  {
+    "task_id": "tsumiki",
+    "video_id": "S1760005",
+    "start_time": 46.418645,
+    "end_time": 53.901079,
+    "instruction": 3,
+    "instruction_label": "Bridge two long thin cuboid blocks on the upright blocks from left to right in the order of yellow and red.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I place the yellow block on top of the leftmost upright block before placing the red block on top of the second upright block?",
+        "answer": "Yes, that's correct."
+      },
+      {
+        "question": "What did I do to ensure the bridge was formed by alternating between yellow and red blocks from left to right?",
+        "answer": "I placed the blocks in the specified order, starting with yellow and ending with red."
+      }
+    ]
+  },
+  {
+    "task_id": "ion",
+    "video_id": "S1720005",
+    "start_time": 211.652404,
+    "end_time": 233.639527,
+    "instruction": 6,
+    "instruction_label": "Put a drop of zinc sulfate aqueous solution on each middle row of the metal plates.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I put a drop of zinc sulfate aqueous solution on each middle row of the metal plates?",
+        "answer": "Yes, I placed a drop of zinc sulfate aqueous solution on each middle row of the metal plates."
+      },
+      {
+        "question": "What did I do to ensure I followed the instruction correctly?",
+        "answer": "I carefully applied a drop of zinc sulfate aqueous solution to each metal plate in the middle row as instructed."
+      }
+    ]
+  },
+  {
+    "task_id": "blacklight",
+    "video_id": "S1800005",
+    "start_time": 271.291483,
+    "end_time": 275.376993,
+    "instruction": 6,
+    "instruction_label": "Mix powdered detergent and yellow liquid in a cup.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I mix the powdered detergent and yellow liquid together in a cup as instructed?",
+        "answer": "Yes, I mixed the powdered detergent and yellow liquid together in a cup."
+      },
+      {
+        "question": "What did I do to prepare for the blacklight experiment by combining the detergent and yellow substance?",
+        "answer": "I combined the powdered detergent and yellow liquid in a cup."
+      }
+    ]
+  },
+  {
+    "task_id": "ion",
+    "video_id": "S1730002",
+    "start_time": 308.58304,
+    "end_time": 358.183978,
+    "instruction": 8,
+    "instruction_label": "Fill in a table in the worksheet with results, and then write down names of metals in the worksheet frorm the most reactive one.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I fill in the table with the results of the ion experiment as instructed?",
+        "answer": "Yes, I filled in the table with the results of the ion experiment as instructed."
+      },
+      {
+        "question": "What did I do after filling in the table with the results of the ion experiment?",
+        "answer": "After filling in the table, I wrote down the names of the metals from the most reactive one as instructed."
+      }
+    ]
+  },
+  {
+    "task_id": "tsumiki",
+    "video_id": "S1750001",
+    "start_time": 154.942413,
+    "end_time": 156.775155,
+    "instruction": -1,
+    "instruction_label": null,
+    "is_error": true,
+    "error_labels": [
+      "grasping wrong objects and releasing them without using"
+    ],
+    "error_caption": "grasp a red triangular prism",
+    "qa_pairs": [
+      {
+        "question": "What did I do incorrectly when trying to grasp the red triangular prism?",
+        "answer": "I grasped the wrong object, which is classified as an error of grasping wrong objects. I should have focused on picking up the red triangular prism specifically."
+      },
+      {
+        "question": "Why was it incorrect to release the red triangular prism without using it?",
+        "answer": "It was incorrect because the task required I to grasp the red triangular prism, implying that I needed to use it for the next step. Releasing it without using it would mean I didn't follow through with the intended action."
+      }
+    ]
+  },
+  {
+    "task_id": "tsumiki",
+    "video_id": "S1750003",
+    "start_time": 35.673019,
+    "end_time": 44.992807,
+    "instruction": 3,
+    "instruction_label": "Bridge two long thin cuboid blocks on the upright blocks from left to right in the order of yellow and red.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I place the yellow block on top of the leftmost upright block before placing the red block on top of the second upright block?",
+        "answer": "Yes, that's correct."
+      },
+      {
+        "question": "What did I do to ensure the bridge was formed by alternating between yellow and red blocks from left to right?",
+        "answer": "I placed the blocks in the specified order, starting with yellow and ending with red."
+      }
+    ]
+  },
+  {
+    "task_id": "ion",
+    "video_id": "S1720001",
+    "start_time": 178.992782,
+    "end_time": 210.054414,
+    "instruction": 5,
+    "instruction_label": "Put a drop of copper sulfate aqueous solution on each first row of the metal plates.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I put a drop of copper sulfate aqueous solution on each of the metal plates in the first row?",
+        "answer": "Yes, I put a drop of copper sulfate aqueous solution on each of the metal plates in the first row."
+      },
+      {
+        "question": "What did I do with the copper sulfate solution and the metal plates?",
+        "answer": "I placed a drop of copper sulfate aqueous solution on every metal plate located in the first row."
+      }
+    ]
+  },
+  {
+    "task_id": "electronics",
+    "video_id": "S1790003",
+    "start_time": 186.0965,
+    "end_time": 188.605659,
+    "instruction": 6,
+    "instruction_label": null,
+    "is_error": true,
+    "error_labels": [
+      "others"
+    ],
+    "error_caption": "after turning on the switch s1, turn off it",
+    "qa_pairs": [
+      {
+        "question": "What mistake did I make when dealing with switch S1?",
+        "answer": "I turned off switch S1 after turning it on, which is incorrect because I should have left it on as instructed."
+      }
+    ]
+  },
+  {
+    "task_id": "electronics",
+    "video_id": "S1790009",
+    "start_time": 120.636286,
+    "end_time": 132.843671,
+    "instruction": 3,
+    "instruction_label": "Connect the switch S2 in series with the motor and the battery box.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I connect the switch S2 in series between the motor and the battery box as instructed?",
+        "answer": "Yes, I connected the switch S2 in series with the motor and the battery box."
+      },
+      {
+        "question": "What did I do to ensure the switch S2 is correctly placed in the circuit?",
+        "answer": "I placed the switch S2 in series between the motor and the battery box to follow the instruction."
+      }
+    ]
+  },
+  {
+    "task_id": "tsumiki",
+    "video_id": "S1750003",
+    "start_time": 23.958443,
+    "end_time": 33.411741,
+    "instruction": 2,
+    "instruction_label": "Stand three short thin cuboid blocks equally spaced from left to right in the order of blue, green, and yellow.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I place the blocks in the correct order of blue, green, and yellow?",
+        "answer": "Yes, I placed the blocks in the order of blue, green, and yellow."
+      },
+      {
+        "question": "Were the blocks spaced equally apart from each other?",
+        "answer": "Yes, the blocks were spaced equally apart from each other."
+      }
+    ]
+  },
+  {
+    "task_id": "blacklight",
+    "video_id": "S1800005",
+    "start_time": 234.74023,
+    "end_time": 259.112798,
+    "instruction": 5,
+    "instruction_label": null,
+    "is_error": true,
+    "error_labels": [
+      "working in the wrong way or moving"
+    ],
+    "error_caption": "mix red liquid and green liquid with detergent individually but should mix all in a cup",
+    "qa_pairs": [
+      {
+        "question": "What did I do incorrectly when mixing the liquids?",
+        "answer": "I mixed the red liquid and green liquid separately with detergent instead of combining all the liquids in one cup as instructed."
+      },
+      {
+        "question": "Why was it wrong to mix the red and green liquids separately with detergent?",
+        "answer": "It was incorrect because I should have mixed all the liquids together in a single cup according to the correct procedure."
+      }
+    ]
+  },
+  {
+    "task_id": "blacklight",
+    "video_id": "S1800006",
+    "start_time": 57.943346,
+    "end_time": 65.070048,
+    "instruction": -1,
+    "instruction_label": null,
+    "is_error": true,
+    "error_labels": [
+      "grasping wrong objects and releasing them without using"
+    ],
+    "error_caption": "grasp a yellow highlighter",
+    "qa_pairs": [
+      {
+        "question": "What mistake did I make when trying to use a blacklight?",
+        "answer": "I mistakenly grasped a yellow highlighter instead of the appropriate object for the task, which is likely a specific item to be illuminated by the blacklight."
+      },
+      {
+        "question": "Why was it incorrect to grasp a yellow highlighter in this scenario?",
+        "answer": "It was incorrect because the task required I to use a specific object that would react to the blacklight, and a yellow highlighter does not serve this purpose and could interfere with the intended observation."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810006",
+    "start_time": 1601.0959072503422,
+    "end_time": 1647.2514659495898,
+    "instruction": 11,
+    "instruction_label": "Put chopsticks through the cutout in the lid to widen the hole.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I put the chopsticks through the cutout in the lid to widen the hole as instructed?",
+        "answer": "Yes, I put the chopsticks through the cutout in the lid to widen the hole."
+      },
+      {
+        "question": "What did I do to ensure the hole was widened for the cardboard box lid?",
+        "answer": "I used chopsticks to widen the hole by putting them through the cutout in the lid."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810007",
+    "start_time": 454.4305576404945,
+    "end_time": 497.9149199004757,
+    "instruction": 6,
+    "instruction_label": "Tape a lid paper and a bottom paper to the cardboard to secure them in place.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I tape the lid paper and the bottom paper securely to the cardboard as instructed?",
+        "answer": "Yes, I taped the lid paper and the bottom paper to the cardboard to ensure they were properly secured in place."
+      },
+      {
+        "question": "What did I do to make sure the lid and bottom papers stayed attached to the cardboard?",
+        "answer": "I taped the lid paper and the bottom paper to the cardboard to keep them in place."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810010",
+    "start_time": 177.5467395999952,
+    "end_time": 211.69264052558586,
+    "instruction": 3,
+    "instruction_label": "Make incisions on the auxiliary lines of the fold.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I make precise incisions along the designated fold lines on the cardboard?",
+        "answer": "Yes, I made precise incisions along the designated fold lines on the cardboard."
+      },
+      {
+        "question": "What did I do to ensure the cuts were accurate for folding?",
+        "answer": "I carefully made incisions on the auxiliary lines of the fold to ensure they were accurate for folding."
+      }
+    ]
+  },
+  {
+    "task_id": "ion",
+    "video_id": "S1730005",
+    "start_time": 238.407464,
+    "end_time": 255.663587,
+    "instruction": 6,
+    "instruction_label": "Put a drop of zinc sulfate aqueous solution on each middle row of the metal plates.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I put a drop of zinc sulfate aqueous solution on each middle row of the metal plates?",
+        "answer": "Yes, I placed a drop of zinc sulfate aqueous solution on each middle row of the metal plates."
+      },
+      {
+        "question": "What did I do to ensure I followed the instruction correctly?",
+        "answer": "I carefully applied a drop of zinc sulfate aqueous solution to each metal plate in the middle row as instructed."
+      }
+    ]
+  },
+  {
+    "task_id": "electronics",
+    "video_id": "S1790003",
+    "start_time": 141.214682,
+    "end_time": 147.387864,
+    "instruction": 2,
+    "instruction_label": null,
+    "is_error": true,
+    "error_labels": [
+      "working with wrong objects"
+    ],
+    "error_caption": "use switch s1 but should use switch s2",
+    "qa_pairs": [
+      {
+        "question": "What mistake did I make when using the switch?",
+        "answer": "I used switch S1 instead of switch S2, which is incorrect based on the instructions."
+      },
+      {
+        "question": "Why was using switch S1 wrong?",
+        "answer": "Using switch S1 was wrong because the task specified to use switch S2, indicating that S1 was not the correct choice for this step."
+      }
+    ]
+  },
+  {
+    "task_id": "ion",
+    "video_id": "S1730005",
+    "start_time": 7.296843,
+    "end_time": 24.430883,
+    "instruction": 1,
+    "instruction_label": "Take a pair of tweezers out of a bag.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I use the right tool to take out the tweezers?",
+        "answer": "Yes, I used a pair of tweezers to take them out."
+      },
+      {
+        "question": "What did I do to get the tweezers out of the bag?",
+        "answer": "I took a pair of tweezers out of the bag using my hands."
+      }
+    ]
+  },
+  {
+    "task_id": "electronics",
+    "video_id": "S1790006",
+    "start_time": 72.783801,
+    "end_time": 74.427403,
+    "instruction": 6,
+    "instruction_label": "Turn on the switch S1.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I turn on switch S1 as instructed?",
+        "answer": "Yes, I turned on switch S1."
+      },
+      {
+        "question": "What did I do to execute the step correctly?",
+        "answer": "I turned on the switch S1."
+      }
+    ]
+  },
+  {
+    "task_id": "blacklight",
+    "video_id": "S1800004",
+    "start_time": 26.148671,
+    "end_time": 49.757933,
+    "instruction": 1,
+    "instruction_label": "Pour about 15mL of water into a cup, dip the tip of a green highlighter in the water and squeeze out a drop.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I pour exactly 15 mL of water into the cup?",
+        "answer": "Yes, I poured about 15 mL of water into the cup."
+      },
+      {
+        "question": "Did I squeeze out a single drop of ink from the green highlighter after dipping its tip in the water?",
+        "answer": "Yes, I squeezed out a drop of ink from the green highlighter after dipping its tip in the water."
+      }
+    ]
+  },
+  {
+    "task_id": "tsumiki",
+    "video_id": "S1750005",
+    "start_time": 93.063437,
+    "end_time": 105.328099,
+    "instruction": 6,
+    "instruction_label": "Place two triangular prism blocks on both sides of the blue thick cuboid block from left to right in the order of blue and red.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I place the blue thick cuboid block first, followed by the red triangular prism block on its right?",
+        "answer": "Yes, I placed the blue thick cuboid block on the left side, followed by the red triangular prism block on its right."
+      },
+      {
+        "question": "What did I do after placing the blue thick cuboid block?",
+        "answer": "After placing the blue thick cuboid block, I placed the red triangular prism block next to it on the right side."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810002",
+    "start_time": 1289.4643571819972,
+    "end_time": 1302.8669168375927,
+    "instruction": 11,
+    "instruction_label": "Put chopsticks through the cutout in the lid to widen the hole.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I put the chopsticks through the cutout in the lid to widen the hole as instructed?",
+        "answer": "Yes, I put the chopsticks through the cutout in the lid to widen the hole."
+      },
+      {
+        "question": "What did I do to ensure the hole was widened for the cardboard box lid?",
+        "answer": "I used chopsticks to widen the hole by putting them through the cutout in the lid."
+      }
+    ]
+  },
+  {
+    "task_id": "tsumiki",
+    "video_id": "S1760006",
+    "start_time": 62.025634,
+    "end_time": 64.600886,
+    "instruction": 5,
+    "instruction_label": "Lay one blue thick cuboid block down and stack it in the upper center of the yellow and the red bhick cuboid blocks.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I lay the blue thick cuboid block down and stacking it in the upper center of the yellow and red thick cuboid blocks?",
+        "answer": "Yes, I laid the blue thick cuboid block down and then stacked it in the upper center of the yellow and red thick cuboid blocks."
+      },
+      {
+        "question": "What did I do to position the blue thick cuboid block?",
+        "answer": "I placed the blue thick cuboid block on the lower level and then carefully positioned it in the upper center among the yellow and red thick cuboid blocks."
+      }
+    ]
+  },
+  {
+    "task_id": "ion",
+    "video_id": "S1730002",
+    "start_time": 234.74387,
+    "end_time": 259.380409,
+    "instruction": 5,
+    "instruction_label": "Put a drop of copper sulfate aqueous solution on each first row of the metal plates.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I put a drop of copper sulfate aqueous solution on each of the metal plates in the first row?",
+        "answer": "Yes, I put a drop of copper sulfate aqueous solution on each of the metal plates in the first row."
+      },
+      {
+        "question": "What did I do with the copper sulfate solution and the metal plates?",
+        "answer": "I placed a drop of copper sulfate aqueous solution on every metal plate located in the first row."
+      }
+    ]
+  },
+  {
+    "task_id": "tsumiki",
+    "video_id": "S1760004",
+    "start_time": 85.187688,
+    "end_time": 92.88687,
+    "instruction": 6,
+    "instruction_label": "Place two triangular prism blocks on both sides of the blue thick cuboid block from left to right in the order of blue and red.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I place the blue thick cuboid block first, followed by the red triangular prism block on its right?",
+        "answer": "Yes, I placed the blue thick cuboid block on the left side, followed by the red triangular prism block on its right."
+      },
+      {
+        "question": "What did I do after placing the blue thick cuboid block?",
+        "answer": "After placing the blue thick cuboid block, I placed the red triangular prism block next to it on the right side."
+      }
+    ]
+  },
+  {
+    "task_id": "blacklight",
+    "video_id": "S1800004",
+    "start_time": 4.385759,
+    "end_time": 25.444874,
+    "instruction": 0,
+    "instruction_label": null,
+    "is_error": true,
+    "error_labels": [
+      "unintended actions"
+    ],
+    "error_caption": "knock over an empty cup",
+    "qa_pairs": [
+      {
+        "question": "What mistake did I make when knocking over an empty cup?",
+        "answer": "I performed an unintended action by knocking over an empty cup, which could have caused a spill or mess."
+      }
+    ]
+  },
+  {
+    "task_id": "blacklight",
+    "video_id": "S1800009",
+    "start_time": 84.423161,
+    "end_time": 109.519063,
+    "instruction": 2,
+    "instruction_label": "Pour about 15mL of water into a cup, dip the tip of a yellow highlighter in the water and squeeze out a drop.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I pour exactly 15 mL of water into the cup?",
+        "answer": "Yes, I poured about 15 mL of water into the cup."
+      },
+      {
+        "question": "Did I squeeze out a single drop of yellow ink after dipping the highlighter in the water?",
+        "answer": "Yes, I squeezed out a drop of yellow ink after dipping the tip of the highlighter in the water."
+      }
+    ]
+  },
+  {
+    "task_id": "ion",
+    "video_id": "S1730005",
+    "start_time": 27.408083,
+    "end_time": 93.260198,
+    "instruction": 2,
+    "instruction_label": "Put three copper plates on the left column of the microplate using the pair of tweezers.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I use the pair of tweezers to place three copper plates on the left column of the microplate?",
+        "answer": "Yes, I used the pair of tweezers to carefully place three copper plates on the left column of the microplate."
+      },
+      {
+        "question": "What did I do to ensure the correct placement of the copper plates?",
+        "answer": "I used the pair of tweezers to precisely put three copper plates on the left column of the microplate."
+      }
+    ]
+  },
+  {
+    "task_id": "tsumiki",
+    "video_id": "S1760004",
+    "start_time": 37.991808,
+    "end_time": 51.479478,
+    "instruction": 2,
+    "instruction_label": "Stand three short thin cuboid blocks equally spaced from left to right in the order of blue, green, and yellow.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I place the blocks in the correct order of blue, green, and yellow?",
+        "answer": "Yes, I placed the blocks in the order of blue, green, and yellow."
+      },
+      {
+        "question": "Were the blocks spaced equally apart from each other?",
+        "answer": "Yes, the blocks were spaced equally apart from each other."
+      }
+    ]
+  },
+  {
+    "task_id": "tsumiki",
+    "video_id": "S1760002",
+    "start_time": 69.167251,
+    "end_time": 72.639929,
+    "instruction": 2,
+    "instruction_label": "Stand three short thin cuboid blocks equally spaced from left to right in the order of blue, green, and yellow.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I place the blocks in the correct order of blue, green, and yellow?",
+        "answer": "Yes, I placed the blocks in the order of blue, green, and yellow."
+      },
+      {
+        "question": "Were the blocks spaced equally apart from each other?",
+        "answer": "Yes, the blocks were spaced equally apart from each other."
+      }
+    ]
+  },
+  {
+    "task_id": "electronics",
+    "video_id": "S1790003",
+    "start_time": 182.581603,
+    "end_time": 185.076667,
+    "instruction": 7,
+    "instruction_label": "Turn on the switch S2.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I turn on the switch S2 as instructed?",
+        "answer": "Yes, I turned on the switch S2."
+      },
+      {
+        "question": "What did I do to execute the step correctly?",
+        "answer": "I turned on the switch S2."
+      }
+    ]
+  },
+  {
+    "task_id": "blacklight",
+    "video_id": "S1800010",
+    "start_time": 1.893482,
+    "end_time": 28.478748,
+    "instruction": 0,
+    "instruction_label": "Pour about 15mL of water into a cup, dip the tip of a red highlighter in the water and squeeze out a drop.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I pour exactly 15 mL of water into the cup?",
+        "answer": "Yes, I poured about 15 mL of water into the cup."
+      },
+      {
+        "question": "Did I squeeze out a single drop of red ink after dipping the highlighter in the water?",
+        "answer": "Yes, I squeezed out a drop of red ink after dipping the tip of the highlighter in the water."
+      }
+    ]
+  },
+  {
+    "task_id": "ion",
+    "video_id": "S1730002",
+    "start_time": 23.657597,
+    "end_time": 25.361398,
+    "instruction": -1,
+    "instruction_label": null,
+    "is_error": true,
+    "error_labels": [
+      "grasping wrong objects and releasing them without using"
+    ],
+    "error_caption": "grasp case of zinc plates",
+    "qa_pairs": [
+      {
+        "question": "What mistake did I make when handling the zinc plates?",
+        "answer": "I grasped the case of zinc plates and then released them without using them for their intended purpose."
+      },
+      {
+        "question": "Why is it incorrect to grasp the case of zinc plates instead of the plates directly?",
+        "answer": "Grasping the case can lead to improper handling and potential damage to the zinc plates, whereas directly handling the plates ensures they are used correctly for their intended application."
+      }
+    ]
+  },
+  {
+    "task_id": "tsumiki",
+    "video_id": "S1750001",
+    "start_time": 10.977283,
+    "end_time": 26.114744,
+    "instruction": 0,
+    "instruction_label": "Arrange three cube blocks in a row from left to right in the order of blue, green, and yellow.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I arrange the blocks in the order of blue, green, and yellow from left to right?",
+        "answer": "Yes, I arranged the blue block on the left, followed by the green block, and then placed the yellow block on the right."
+      },
+      {
+        "question": "What did I do to ensure the blocks were in the correct sequence?",
+        "answer": "I placed the blue block first, then the green one in the middle, and finally the yellow block on the right to maintain the specified order."
+      }
+    ]
+  },
+  {
+    "task_id": "tsumiki",
+    "video_id": "S1750001",
+    "start_time": 114.909594,
+    "end_time": 124.949293,
+    "instruction": 2,
+    "instruction_label": "Stand three short thin cuboid blocks equally spaced from left to right in the order of blue, green, and yellow.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I place the blocks in the correct order of blue, green, and yellow?",
+        "answer": "Yes, I placed the blocks in the order of blue, green, and yellow."
+      },
+      {
+        "question": "Were the blocks spaced equally apart from each other?",
+        "answer": "Yes, the blocks were spaced equally apart from each other."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810009",
+    "start_time": 576.8089160129867,
+    "end_time": 627.0779189616528,
+    "instruction": 4,
+    "instruction_label": "Fold along the incisions of the fold.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I carefully fold along all the incisions as instructed?",
+        "answer": "Yes, I carefully followed the instructions to fold along all the incisions."
+      },
+      {
+        "question": "What did I do to ensure I folded correctly?",
+        "answer": "I made sure to fold along each incision precisely as specified in the step."
+      }
+    ]
+  },
+  {
+    "task_id": "electronics",
+    "video_id": "S1790013",
+    "start_time": 18.440117,
+    "end_time": 39.820432,
+    "instruction": 1,
+    "instruction_label": "Connect the switch S1 and motor in series.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I connect the switch S1 and the motor in series as instructed?",
+        "answer": "Yes, I connected the switch S1 and the motor in series."
+      },
+      {
+        "question": "What did I do to ensure the switch S1 and the motor were in series?",
+        "answer": "I made sure the switch S1 and the motor were connected end-to-end in a single loop."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810005",
+    "start_time": 1000.2992526109152,
+    "end_time": 1033.8972757615256,
+    "instruction": 9,
+    "instruction_label": "Make incisions on the auxiliary lines of the fold on the paper.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I make precise incisions along the auxiliary lines designated for folding on the paper?",
+        "answer": "Yes, I made precise incisions along the auxiliary lines designated for folding on the paper."
+      },
+      {
+        "question": "What did I do to prepare the paper for folding?",
+        "answer": "I made incisions on the auxiliary lines of the fold on the paper to prepare it for folding."
+      }
+    ]
+  },
+  {
+    "task_id": "tsumiki",
+    "video_id": "S1750004",
+    "start_time": 83.477685,
+    "end_time": 92.359863,
+    "instruction": 4,
+    "instruction_label": "Place two thick cuboid blocks on the bridge, laying them down in order from left to right, yellow to red.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I place the yellow block on the left side of the bridge before placing the red block on the right side?",
+        "answer": "Yes, I placed the yellow block on the left side of the bridge and then placed the red block on the right side."
+      },
+      {
+        "question": "What colors were the blocks I placed on the bridge, and in what order?",
+        "answer": "The blocks were yellow and red, with the yellow block placed first and the red block placed second."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810009",
+    "start_time": 782.8282196591138,
+    "end_time": 1072.8847211261123,
+    "instruction": 7,
+    "instruction_label": "Cut along the auxiliary lines of the shape on the paper.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I carefully cut along the auxiliary lines of the shape on the paper as instructed?",
+        "answer": "Yes, I carefully followed the instructions to cut along the auxiliary lines of the shape on the paper."
+      },
+      {
+        "question": "What did I do to ensure I followed the step correctly when cutting the cardboard?",
+        "answer": "I made sure to precisely follow the auxiliary lines of the shape on the paper by using a sharp pair of scissors or a craft knife."
+      }
+    ]
+  },
+  {
+    "task_id": "electronics",
+    "video_id": "S1790005",
+    "start_time": 68.46892,
+    "end_time": 84.993874,
+    "instruction": 3,
+    "instruction_label": "Connect the switch S2 in series with the motor and the battery box.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I connect the switch S2 in series between the motor and the battery box as instructed?",
+        "answer": "Yes, I connected the switch S2 in series with the motor and the battery box."
+      },
+      {
+        "question": "What did I do to ensure the switch S2 is correctly placed in the circuit?",
+        "answer": "I placed the switch S2 in series between the motor and the battery box to follow the instruction."
+      }
+    ]
+  },
+  {
+    "task_id": "blacklight",
+    "video_id": "S1800008",
+    "start_time": 93.756873,
+    "end_time": 135.327504,
+    "instruction": 2,
+    "instruction_label": "Pour about 15mL of water into a cup, dip the tip of a yellow highlighter in the water and squeeze out a drop.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I pour exactly 15 mL of water into the cup?",
+        "answer": "Yes, I poured about 15 mL of water into the cup."
+      },
+      {
+        "question": "Did I squeeze out a single drop of yellow ink after dipping the highlighter in the water?",
+        "answer": "Yes, I squeezed out a drop of yellow ink after dipping the tip of the highlighter in the water."
+      }
+    ]
+  },
+  {
+    "task_id": "tsumiki",
+    "video_id": "S1760001",
+    "start_time": 46.074014,
+    "end_time": 60.078668,
+    "instruction": 2,
+    "instruction_label": "Stand three short thin cuboid blocks equally spaced from left to right in the order of blue, green, and yellow.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I place the blocks in the correct order of blue, green, and yellow?",
+        "answer": "Yes, I placed the blocks in the order of blue, green, and yellow."
+      },
+      {
+        "question": "Were the blocks spaced equally apart from each other?",
+        "answer": "Yes, the blocks were spaced equally apart from each other."
+      }
+    ]
+  },
+  {
+    "task_id": "blacklight",
+    "video_id": "S1800006",
+    "start_time": 1.080956,
+    "end_time": 30.091227,
+    "instruction": 0,
+    "instruction_label": "Pour about 15mL of water into a cup, dip the tip of a red highlighter in the water and squeeze out a drop.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I pour exactly 15 mL of water into the cup?",
+        "answer": "Yes, I poured about 15 mL of water into the cup."
+      },
+      {
+        "question": "Did I squeeze out a single drop of red ink after dipping the highlighter in the water?",
+        "answer": "Yes, I squeezed out a drop of red ink after dipping the tip of the highlighter in the water."
+      }
+    ]
+  },
+  {
+    "task_id": "ion",
+    "video_id": "S1730002",
+    "start_time": 27.317968,
+    "end_time": 84.871945,
+    "instruction": 4,
+    "instruction_label": null,
+    "is_error": true,
+    "error_labels": [
+      "working in the wrong way or moving"
+    ],
+    "error_caption": "put three magnesium plates on the bottom row of the microplate but should put them on the right column",
+    "qa_pairs": [
+      {
+        "question": "What did I do incorrectly when placing the magnesium plates?",
+        "answer": "I placed the three magnesium plates on the bottom row of the microplate instead of the right column as instructed."
+      },
+      {
+        "question": "Why was putting the magnesium plates on the bottom row considered an error?",
+        "answer": "It was incorrect because the procedure specified to place the plates on the right column, not the bottom row."
+      }
+    ]
+  },
+  {
+    "task_id": "ion",
+    "video_id": "S1720002",
+    "start_time": 199.186761,
+    "end_time": 262.934215,
+    "instruction": 8,
+    "instruction_label": "Fill in a table in the worksheet with results, and then write down names of metals in the worksheet frorm the most reactive one.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I fill in the table with the results of the ion experiment as instructed?",
+        "answer": "Yes, I filled in the table with the results of the ion experiment as instructed."
+      },
+      {
+        "question": "What did I do after filling in the table with the results of the ion experiment?",
+        "answer": "After filling in the table, I wrote down the names of the metals from the most reactive one as instructed."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810002",
+    "start_time": 614.0764624239276,
+    "end_time": 743.2081234864947,
+    "instruction": 6,
+    "instruction_label": "Tape a lid paper and a bottom paper to the cardboard to secure them in place.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I tape the lid paper and the bottom paper securely to the cardboard as instructed?",
+        "answer": "Yes, I taped the lid paper and the bottom paper to the cardboard to ensure they were properly secured in place."
+      },
+      {
+        "question": "What did I do to make sure the lid and bottom papers stayed attached to the cardboard?",
+        "answer": "I taped the lid paper and the bottom paper to the cardboard to keep them in place."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810005",
+    "start_time": 5.70747036129656,
+    "end_time": 203.7323382505378,
+    "instruction": 0,
+    "instruction_label": "Draw auxiliary lines of the shape and the fold on cardboard according to dimensional drawings.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I draw the necessary auxiliary lines for the shape and folds on the cardboard as per the dimensional drawings?",
+        "answer": "Yes, I drew the auxiliary lines of the shape and the fold on the cardboard according to the provided dimensional drawings."
+      },
+      {
+        "question": "What did I do to ensure the accuracy of the fold lines on the cardboard?",
+        "answer": "I carefully drew auxiliary lines for the shape and the fold on the cardboard based on the detailed dimensional drawings to ensure accuracy."
+      }
+    ]
+  },
+  {
+    "task_id": "electronics",
+    "video_id": "S1790004",
+    "start_time": 60.431565,
+    "end_time": 91.255487,
+    "instruction": 2,
+    "instruction_label": "Connect switch S2 and lamp L1 in parallel.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I connect switch S2 and lamp L1 in parallel as instructed?",
+        "answer": "Yes, I connected switch S2 and lamp L1 in parallel."
+      },
+      {
+        "question": "What did I do to ensure switch S2 and lamp L1 were in parallel?",
+        "answer": "I made sure switch S2 and lamp L1 were connected across the same two points of the circuit."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810007",
+    "start_time": 254.24317177047723,
+    "end_time": 295.0338433610975,
+    "instruction": -1,
+    "instruction_label": null,
+    "is_error": true,
+    "error_labels": [
+      "unintended actions"
+    ],
+    "error_caption": "cut off the ends of the liner",
+    "qa_pairs": [
+      {
+        "question": "What mistake did I make when cutting the cardboard liner?",
+        "answer": "I cut off the ends of the liner, which is an unintended action. This could disrupt the structural integrity of the liner and may not serve its intended purpose."
+      }
+    ]
+  },
+  {
+    "task_id": "tsumiki",
+    "video_id": "S1750001",
+    "start_time": 80.210015,
+    "end_time": 86.189463,
+    "instruction": -1,
+    "instruction_label": null,
+    "is_error": true,
+    "error_labels": [
+      "grasping wrong objects and releasing them without using"
+    ],
+    "error_caption": "grasp a red long thin cuboid block",
+    "qa_pairs": [
+      {
+        "question": "What did I do incorrectly when trying to grasp the red long thin cuboid block?",
+        "answer": "I grasped the wrong object, which is not a red long thin cuboid block, and did not use the block after picking it up."
+      },
+      {
+        "question": "Why was it incorrect to grasp a non-red long thin cuboid block?",
+        "answer": "It was incorrect because the task specifically required I to grasp a red long thin cuboid block, and grasping any other object does not fulfill the task requirements."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810005",
+    "start_time": 479.7143402,
+    "end_time": 548.3791795741082,
+    "instruction": 6,
+    "instruction_label": "Tape a lid paper and a bottom paper to the cardboard to secure them in place.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I tape the lid paper and the bottom paper securely to the cardboard as instructed?",
+        "answer": "Yes, I taped the lid paper and the bottom paper to the cardboard to ensure they were properly secured in place."
+      },
+      {
+        "question": "What did I do to make sure the lid and bottom papers stayed attached to the cardboard?",
+        "answer": "I taped the lid paper and the bottom paper to the cardboard to keep them in place."
+      }
+    ]
+  },
+  {
+    "task_id": "blacklight",
+    "video_id": "S1800010",
+    "start_time": 170.474106,
+    "end_time": 181.014167,
+    "instruction": 7,
+    "instruction_label": "Check the color of the mixed liquid by shining a black light on it to see if it turns white.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I shine the black light on the mixed liquid to check if it turned white?",
+        "answer": "Yes, I checked the color of the mixed liquid by shining a black light on it to see if it turned white."
+      },
+      {
+        "question": "What did I do to verify the presence of a fluorescent substance in the liquid mixture?",
+        "answer": "I used a black light to illuminate the mixed liquid and observed if it changed to white, indicating the presence of a fluorescent substance."
+      }
+    ]
+  },
+  {
+    "task_id": "electronics",
+    "video_id": "S1790013",
+    "start_time": 190.555386,
+    "end_time": 192.796788,
+    "instruction": 6,
+    "instruction_label": "Turn on the switch S1.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I turn on switch S1 as instructed?",
+        "answer": "Yes, I turned on switch S1."
+      },
+      {
+        "question": "What did I do to execute the step correctly?",
+        "answer": "I turned on the switch S1."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810010",
+    "start_time": 784.1455355570445,
+    "end_time": 814.0639207264525,
+    "instruction": 9,
+    "instruction_label": "Make incisions on the auxiliary lines of the fold on the paper.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I make precise incisions along the auxiliary lines designated for folding on the paper?",
+        "answer": "Yes, I made precise incisions along the auxiliary lines designated for folding on the paper."
+      },
+      {
+        "question": "What did I do to prepare the paper for folding?",
+        "answer": "I made incisions on the auxiliary lines of the fold on the paper to prepare it for folding."
+      }
+    ]
+  },
+  {
+    "task_id": "electronics",
+    "video_id": "S1790012",
+    "start_time": 248.437203,
+    "end_time": 249.387106,
+    "instruction": 6,
+    "instruction_label": "Turn on the switch S1.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I turn on switch S1 as instructed?",
+        "answer": "Yes, I turned on switch S1."
+      },
+      {
+        "question": "What did I do to execute the step correctly?",
+        "answer": "I turned on the switch S1."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810005",
+    "start_time": 958.2884544440195,
+    "end_time": 988.1100268004054,
+    "instruction": 9,
+    "instruction_label": "Make incisions on the auxiliary lines of the fold on the paper.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I make precise incisions along the auxiliary lines designated for folding on the paper?",
+        "answer": "Yes, I made precise incisions along the auxiliary lines designated for folding on the paper."
+      },
+      {
+        "question": "What did I do to prepare the paper for folding?",
+        "answer": "I made incisions on the auxiliary lines of the fold on the paper to prepare it for folding."
+      }
+    ]
+  },
+  {
+    "task_id": "blacklight",
+    "video_id": "S1800007",
+    "start_time": 1.976935,
+    "end_time": 30.986227,
+    "instruction": 0,
+    "instruction_label": "Pour about 15mL of water into a cup, dip the tip of a red highlighter in the water and squeeze out a drop.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I pour exactly 15 mL of water into the cup?",
+        "answer": "Yes, I poured about 15 mL of water into the cup."
+      },
+      {
+        "question": "Did I squeeze out a single drop of red ink after dipping the highlighter in the water?",
+        "answer": "Yes, I squeezed out a drop of red ink after dipping the tip of the highlighter in the water."
+      }
+    ]
+  },
+  {
+    "task_id": "tsumiki",
+    "video_id": "S1750001",
+    "start_time": 150.815111,
+    "end_time": 154.386916,
+    "instruction": 5,
+    "instruction_label": "Lay one blue thick cuboid block down and stack it in the upper center of the yellow and the red bhick cuboid blocks.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I lay the blue thick cuboid block down and stacking it in the upper center of the yellow and red thick cuboid blocks?",
+        "answer": "Yes, I laid the blue thick cuboid block down and then stacked it in the upper center of the yellow and red thick cuboid blocks."
+      },
+      {
+        "question": "What did I do to position the blue thick cuboid block?",
+        "answer": "I placed the blue thick cuboid block on the lower level and then carefully positioned it in the upper center among the yellow and red thick cuboid blocks."
+      }
+    ]
+  },
+  {
+    "task_id": "blacklight",
+    "video_id": "S1800006",
+    "start_time": 222.687647,
+    "end_time": 238.180268,
+    "instruction": 7,
+    "instruction_label": "Check the color of the mixed liquid by shining a black light on it to see if it turns white.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I shine the black light on the mixed liquid to check if it turned white?",
+        "answer": "Yes, I checked the color of the mixed liquid by shining a black light on it to see if it turned white."
+      },
+      {
+        "question": "What did I do to verify the presence of a fluorescent substance in the liquid mixture?",
+        "answer": "I used a black light to illuminate the mixed liquid and observed if it changed to white, indicating the presence of a fluorescent substance."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810005",
+    "start_time": 363.4426402129471,
+    "end_time": 383.8263671,
+    "instruction": 3,
+    "instruction_label": "Make incisions on the auxiliary lines of the fold.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I make precise incisions along the designated fold lines on the cardboard?",
+        "answer": "Yes, I made precise incisions along the designated fold lines on the cardboard."
+      },
+      {
+        "question": "What did I do to ensure the cuts were accurate for folding?",
+        "answer": "I carefully made incisions on the auxiliary lines of the fold to ensure they were accurate for folding."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810006",
+    "start_time": 302.96845062594394,
+    "end_time": 421.48367299291755,
+    "instruction": 2,
+    "instruction_label": "Leave the ends of the liner for gluing.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I leave the ends of the liner intact for gluing as instructed?",
+        "answer": "Yes, I left the ends of the liner for gluing."
+      },
+      {
+        "question": "What did I ensure to do with the liner's ends before proceeding with the glue?",
+        "answer": "I ensured to leave the ends of the liner for gluing."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810006",
+    "start_time": 694.2422634497025,
+    "end_time": 925.6656827,
+    "instruction": 7,
+    "instruction_label": "Cut along the auxiliary lines of the shape on the paper.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I carefully cut along the auxiliary lines of the shape on the paper as instructed?",
+        "answer": "Yes, I carefully followed the instructions to cut along the auxiliary lines of the shape on the paper."
+      },
+      {
+        "question": "What did I do to ensure I followed the step correctly when cutting the cardboard?",
+        "answer": "I made sure to precisely follow the auxiliary lines of the shape on the paper by using a sharp pair of scissors or a craft knife."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810009",
+    "start_time": 1092.327919443625,
+    "end_time": 1136.5168367006072,
+    "instruction": 6,
+    "instruction_label": "Tape a lid paper and a bottom paper to the cardboard to secure them in place.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I tape the lid paper and the bottom paper securely to the cardboard as instructed?",
+        "answer": "Yes, I taped the lid paper and the bottom paper to the cardboard to ensure they were properly secured in place."
+      },
+      {
+        "question": "What did I do to make sure the lid and bottom papers stayed attached to the cardboard?",
+        "answer": "I taped the lid paper and the bottom paper to the cardboard to keep them in place."
+      }
+    ]
+  },
+  {
+    "task_id": "cardboard",
+    "video_id": "S1810001",
+    "start_time": 1005.3256064098271,
+    "end_time": 1049.188545189649,
+    "instruction": 8,
+    "instruction_label": "Make a cross-shaped incision in the lid.",
+    "is_error": false,
+    "error_labels": [],
+    "error_caption": "",
+    "qa_pairs": [
+      {
+        "question": "Did I make a precise cross-shaped incision in the lid of the cardboard container?",
+        "answer": "Yes, I made a precise cross-shaped incision in the lid."
+      },
+      {
+        "question": "What did I do to the lid of the cardboard box?",
+        "answer": "I made a cross-shaped incision in the lid of the cardboard box."
+      }
+    ]
+  }
+]

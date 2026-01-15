@@ -1,0 +1,4402 @@
+[
+  {
+    "subject_id": "2",
+    "action_label": "4",
+    "str_GoPro_ts": "00:00:17:21",
+    "end_GoPro_ts": "00:00:41:48",
+    "action_annotation": "instruction",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly insert the poles into the tent's sleeves before unfolding the tent?",
+        "answer": "Yes, I inserted the poles into the tent's sleeves before unfolding the tent."
+      },
+      {
+        "question": "Have I completed the full instruction?",
+        "answer": "Yes, I have completed the full instruction."
+      }
+    ],
+    "video_id": "2",
+    "start_time": 17.7,
+    "end_time": 42.6,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "2",
+    "action_label": "7",
+    "str_GoPro_ts": "00:00:46:40",
+    "end_GoPro_ts": "00:00:58:16",
+    "action_annotation": "pickup/open tentbag",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I check if the tent bag was securely closed before opening it?",
+        "answer": "Yes, I made sure the tent bag was fully closed and zipped before opening it."
+      },
+      {
+        "question": "What did I do after picking up the tent bag to ensure all contents were accessible?",
+        "answer": "I opened the tent bag completely to access all the tent components inside."
+      }
+    ],
+    "video_id": "2",
+    "start_time": 47.333333333333336,
+    "end_time": 58.53333333333333,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "2",
+    "action_label": "10",
+    "str_GoPro_ts": "00:00:59:12",
+    "end_GoPro_ts": "00:01:02:16",
+    "action_annotation": "spread tent",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I lay out the tent floor properly before setting up the poles?",
+        "answer": "Yes, I laid out the tent floor flat on the ground, ensuring it was centered."
+      },
+      {
+        "question": "What did I do to ensure the tent's footprint was visible?",
+        "answer": "I spread the tent's footprint sheet over the ground, making sure all corners were aligned with the tent's layout."
+      }
+    ],
+    "video_id": "2",
+    "start_time": 59.4,
+    "end_time": 62.53333333333333,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "2",
+    "action_label": "6",
+    "str_GoPro_ts": "00:01:02:46",
+    "end_GoPro_ts": "00:01:03:10",
+    "action_annotation": "pickup/open supportbag",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I carefully pick up the support bag containing the tent poles?",
+        "answer": "Yes, I picked up the support bag containing the tent poles."
+      }
+    ],
+    "video_id": "2",
+    "start_time": 63.53333333333333,
+    "end_time": 63.333333333333336,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "2",
+    "action_label": "10",
+    "str_GoPro_ts": "00:01:06:36",
+    "end_GoPro_ts": "00:01:28:46",
+    "action_annotation": "spread tent",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "What did I do to ensure the tent's footprint was visible?",
+        "answer": "I spread the tent's footprint sheet over the ground, making sure all corners were aligned with the tent's layout."
+      },
+      {
+        "question": "Did I check if the tent's base was completely unfolded and spread out?",
+        "answer": "Yes, I checked and confirmed that the tent's base was fully spread out without any folds or creases."
+      }
+    ],
+    "video_id": "2",
+    "start_time": 67.2,
+    "end_time": 89.53333333333333,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "2",
+    "action_label": "6",
+    "str_GoPro_ts": "00:01:32:57",
+    "end_GoPro_ts": "00:01:47:52",
+    "action_annotation": "pickup/open supportbag",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I carefully pick up the support bag containing the tent poles?",
+        "answer": "Yes, I picked up the support bag containing the tent poles."
+      },
+      {
+        "question": "What did I do after picking up the support bag?",
+        "answer": "I opened the support bag to access the tent poles inside."
+      }
+    ],
+    "video_id": "2",
+    "start_time": 93.9,
+    "end_time": 108.73333333333333,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "2",
+    "action_label": "0",
+    "str_GoPro_ts": "00:01:48:08",
+    "end_GoPro_ts": "00:02:06:15",
+    "action_annotation": "assemble support",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly place the tent poles into the designated holes at the corners of the tent floor?",
+        "answer": "Yes, I placed the tent poles into the designated holes at the corners of the tent floor."
+      },
+      {
+        "question": "What did I do to ensure the tent poles were straight and aligned with each other before securing them?",
+        "answer": "I made sure the tent poles were straight and aligned with each other by checking their positions and adjusting if necessary."
+      },
+      {
+        "question": "Did I check if all four corners of the tent were stable after assembling the support poles?",
+        "answer": "Yes, I checked and confirmed that all four corners of the tent were stable after assembling the support poles."
+      }
+    ],
+    "video_id": "2",
+    "start_time": 108.26666666666667,
+    "end_time": 126.5,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "2",
+    "action_label": "2",
+    "str_GoPro_ts": "00:02:06:30",
+    "end_GoPro_ts": "00:02:23:33",
+    "action_annotation": "insert support",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly insert the support pole into the designated hole at the center of the tent floor?",
+        "answer": "Yes, I inserted the support pole into the designated hole at the center of the tent floor."
+      },
+      {
+        "question": "What did I do after placing the tent floor on the ground to ensure proper setup?",
+        "answer": "I inserted the support pole into the designated hole at the center of the tent floor."
+      }
+    ],
+    "video_id": "2",
+    "start_time": 127.0,
+    "end_time": 144.1,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "2",
+    "action_label": "10",
+    "str_GoPro_ts": "00:02:07:08",
+    "end_GoPro_ts": "00:02:08:32",
+    "action_annotation": "spread tent",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I lay out the tent floor properly before setting up the poles?",
+        "answer": "Yes, I laid out the tent floor flat on the ground, ensuring it was centered."
+      },
+      {
+        "question": "What did I do to ensure the tent's footprint was visible?",
+        "answer": "I spread the tent's footprint sheet over the ground, making sure all corners were aligned with the tent's layout."
+      },
+      {
+        "question": "Did I check if the tent's base was completely unfolded and spread out?",
+        "answer": "Yes, I checked and confirmed that the tent's base was fully spread out without any folds or creases."
+      }
+    ],
+    "video_id": "2",
+    "start_time": 127.26666666666667,
+    "end_time": 129.06666666666666,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "2",
+    "action_label": "2",
+    "str_GoPro_ts": "00:03:06:43",
+    "end_GoPro_ts": "00:03:56:29",
+    "action_annotation": "insert support",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly insert the support pole into the designated hole at the center of the tent floor?",
+        "answer": "Yes, I inserted the support pole into the designated hole at the center of the tent floor."
+      },
+      {
+        "question": "What did I do after placing the tent floor on the ground to ensure proper setup?",
+        "answer": "I inserted the support pole into the designated hole at the center of the tent floor."
+      },
+      {
+        "question": "Did I make sure the support was straight and vertical before continuing with the tent assembly?",
+        "answer": "Yes, I made sure the support was straight and vertical before continuing with the tent assembly."
+      }
+    ],
+    "video_id": "2",
+    "start_time": 187.43333333333334,
+    "end_time": 236.96666666666667,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "2",
+    "action_label": "3",
+    "str_GoPro_ts": "00:03:56:59",
+    "end_GoPro_ts": "00:04:01:30",
+    "action_annotation": "insert support tab",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly insert the support tab into the designated slot on the tent frame?",
+        "answer": "Yes, I inserted the support tab into the designated slot on the tent frame."
+      },
+      {
+        "question": "What did I do to ensure the support tab was securely in place before moving on to the next step?",
+        "answer": "I made sure the support tab was fully inserted and felt secure in its slot before proceeding."
+      },
+      {
+        "question": "Did I miss any key steps when I was inserting the support tab?",
+        "answer": "No, I completed this step very well."
+      }
+    ],
+    "video_id": "2",
+    "start_time": 237.96666666666667,
+    "end_time": 242.0,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "2",
+    "action_label": "3",
+    "str_GoPro_ts": "00:04:06:34",
+    "end_GoPro_ts": "00:04:18:53",
+    "action_annotation": "insert support tab",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly insert the support tab into the designated slot on the tent frame?",
+        "answer": "Yes, I inserted the support tab into the designated slot on the tent frame."
+      },
+      {
+        "question": "What did I do to ensure the support tab was securely in place before moving on to the next step?",
+        "answer": "I made sure the support tab was fully inserted and felt secure in its slot before proceeding."
+      }
+    ],
+    "video_id": "2",
+    "start_time": 247.13333333333333,
+    "end_time": 259.76666666666665,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "2",
+    "action_label": "0",
+    "str_GoPro_ts": "00:04:24:11",
+    "end_GoPro_ts": "00:04:38:19",
+    "action_annotation": "assemble support",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly place the tent poles into the designated holes at the corners of the tent floor?",
+        "answer": "Yes, I placed the tent poles into the designated holes at the corners of the tent floor."
+      },
+      {
+        "question": "What did I do to ensure the tent poles were straight and aligned with each other before securing them?",
+        "answer": "I made sure the tent poles were straight and aligned with each other by checking their positions and adjusting if necessary."
+      }
+    ],
+    "video_id": "2",
+    "start_time": 264.3666666666667,
+    "end_time": 278.6333333333333,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "2",
+    "action_label": "2",
+    "str_GoPro_ts": "00:04:43:01",
+    "end_GoPro_ts": "00:06:12:13",
+    "action_annotation": "insert support",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly insert the support pole into the designated hole at the center of the tent floor?",
+        "answer": "Yes, I inserted the support pole into the designated hole at the center of the tent floor."
+      },
+      {
+        "question": "What did I do after placing the tent floor on the ground to ensure proper setup?",
+        "answer": "I inserted the support pole into the designated hole at the center of the tent floor."
+      }
+    ],
+    "video_id": "2",
+    "start_time": 283.03333333333336,
+    "end_time": 372.43333333333334,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "2",
+    "action_label": "3",
+    "str_GoPro_ts": "00:06:13:03",
+    "end_GoPro_ts": "00:06:16:39",
+    "action_annotation": "insert support tab",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly insert the support tab into the designated slot on the tent frame?",
+        "answer": "Yes, I inserted the support tab into the designated slot on the tent frame."
+      },
+      {
+        "question": "What did I do to ensure the support tab was securely in place before moving on to the next step?",
+        "answer": "I made sure the support tab was fully inserted and felt secure in its slot before proceeding."
+      },
+      {
+        "question": "Did I miss any steps before inserting the support tab?",
+        "answer": "No, I did not miss any steps."
+      }
+    ],
+    "video_id": "2",
+    "start_time": 373.1,
+    "end_time": 377.3,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "2",
+    "action_label": "3",
+    "str_GoPro_ts": "00:06:21:47",
+    "end_GoPro_ts": "00:06:29:47",
+    "action_annotation": "insert support tab",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly insert the support tab into the designated slot on the tent frame?",
+        "answer": "Yes, I inserted the support tab into the designated slot on the tent frame."
+      },
+      {
+        "question": "What did I do to ensure the support tab was securely in place before moving on to the next step?",
+        "answer": "I made sure the support tab was fully inserted and felt secure in its slot before proceeding."
+      },
+      {
+        "question": "Did I miss any steps before inserting the support tab?",
+        "answer": "No, I did not miss any steps."
+      }
+    ],
+    "video_id": "2",
+    "start_time": 382.56666666666666,
+    "end_time": 390.56666666666666,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "2",
+    "action_label": "5",
+    "str_GoPro_ts": "00:06:46:20",
+    "end_GoPro_ts": "00:06:59:05",
+    "action_annotation": "pickup/open stakebag",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I pick up the stakebag containing the tent stakes?",
+        "answer": "Yes, I picked up the stakebag."
+      },
+      {
+        "question": "Did I open the stakebag to access the tent stakes?",
+        "answer": "Yes, I opened the stakebag."
+      },
+      {
+        "question": "Did I ensure the stakebag was fully open before removing the stakes?",
+        "answer": "Yes, I made sure the stakebag was fully open."
+      }
+    ],
+    "video_id": "2",
+    "start_time": 406.6666666666667,
+    "end_time": 419.1666666666667,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "2",
+    "action_label": "9",
+    "str_GoPro_ts": "00:07:02:11",
+    "end_GoPro_ts": "00:07:21:51",
+    "action_annotation": "place guyline",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly identify and locate the guyline before attaching it to the tent poles?",
+        "answer": "Yes, I identified and located the correct guyline and attached it securely to the tent poles."
+      },
+      {
+        "question": "What did I do after placing the guyline to ensure it was properly secured?",
+        "answer": "I ensured the guyline was taut and securely fastened to the ground stake."
+      },
+      {
+        "question": "Did I place the guyline completely without missing any steps?",
+        "answer": "Yes, I completed this step fully without missing any steps."
+      }
+    ],
+    "video_id": "2",
+    "start_time": 422.3666666666667,
+    "end_time": 442.7,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "2",
+    "action_label": "1",
+    "str_GoPro_ts": "00:07:26:17",
+    "end_GoPro_ts": "00:07:33:06",
+    "action_annotation": "insert stake",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly insert the stake into the designated hole on the tent frame?",
+        "answer": "Yes, I inserted the stake firmly into the designated hole on the tent frame."
+      },
+      {
+        "question": "What did I do to ensure the stake was secure in the ground?",
+        "answer": "I pushed the stake down until it was securely anchored in the ground."
+      },
+      {
+        "question": "Did I check if the stake was level before securing it?",
+        "answer": "Yes, I checked and adjusted the stake to make sure it was level before securing it."
+      }
+    ],
+    "video_id": "2",
+    "start_time": 446.56666666666666,
+    "end_time": 453.2,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "2",
+    "action_label": "1",
+    "str_GoPro_ts": "00:07:37:54",
+    "end_GoPro_ts": "00:07:42:30",
+    "action_annotation": "insert stake",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly insert the stake into the designated hole on the tent frame?",
+        "answer": "Yes, I inserted the stake firmly into the designated hole on the tent frame."
+      },
+      {
+        "question": "What did I do to ensure the stake was secure in the ground?",
+        "answer": "I pushed the stake down until it was securely anchored in the ground."
+      }
+    ],
+    "video_id": "2",
+    "start_time": 458.8,
+    "end_time": 463.0,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "2",
+    "action_label": "9",
+    "str_GoPro_ts": "00:07:45:01",
+    "end_GoPro_ts": "00:08:06:57",
+    "action_annotation": "place guyline",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly identify and locate the guyline before attaching it to the tent poles?",
+        "answer": "Yes, I identified and located the correct guyline and attached it securely to the tent poles."
+      },
+      {
+        "question": "What did I do after placing the guyline to ensure it was properly secured?",
+        "answer": "I ensured the guyline was taut and securely fastened to the ground stake."
+      },
+      {
+        "question": "Did I do anything unnecessary when I was placing the guyline?",
+        "answer": "No, I did not do anything unnecessary."
+      }
+    ],
+    "video_id": "2",
+    "start_time": 465.03333333333336,
+    "end_time": 487.9,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "2",
+    "action_label": "1",
+    "str_GoPro_ts": "00:08:08:37",
+    "end_GoPro_ts": "00:08:13:03",
+    "action_annotation": "insert stake",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly insert the stake into the designated hole on the tent frame?",
+        "answer": "Yes, I inserted the stake firmly into the designated hole on the tent frame."
+      },
+      {
+        "question": "What did I do to ensure the stake was secure in the ground?",
+        "answer": "I pushed the stake down until it was securely anchored in the ground."
+      },
+      {
+        "question": "Did I check if the stake was level before securing it?",
+        "answer": "Yes, I checked and adjusted the stake to make sure it was level before securing it."
+      }
+    ],
+    "video_id": "2",
+    "start_time": 489.23333333333335,
+    "end_time": 493.1,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "2",
+    "action_label": "1",
+    "str_GoPro_ts": "00:08:15:37",
+    "end_GoPro_ts": "00:08:19:27",
+    "action_annotation": "insert stake",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly insert the stake into the designated hole on the tent frame?",
+        "answer": "Yes, I inserted the stake firmly into the designated hole on the tent frame."
+      },
+      {
+        "question": "What did I do to ensure the stake was secure in the ground?",
+        "answer": "I pushed the stake down until it was securely anchored in the ground."
+      },
+      {
+        "question": "Did I check if the stake was level before securing it?",
+        "answer": "Yes, I checked and adjusted the stake to make sure it was level before securing it."
+      }
+    ],
+    "video_id": "2",
+    "start_time": 496.23333333333335,
+    "end_time": 499.9,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "2",
+    "action_label": "8",
+    "str_GoPro_ts": "00:08:25:09",
+    "end_GoPro_ts": "00:08:25:29",
+    "action_annotation": "pickup/place ventcover",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly place the ventcover on the tent's ventilation opening?",
+        "answer": "Yes, I placed the ventcover on the tent's ventilation opening as instructed."
+      },
+      {
+        "question": "What did I do after picking up the ventcover?",
+        "answer": "I placed the ventcover onto the designated opening on the tent."
+      },
+      {
+        "question": "Did I ensure the ventcover was securely fastened to the tent?",
+        "answer": "Yes, I made sure the ventcover was securely fastened to the tent following the assembly instructions."
+      }
+    ],
+    "video_id": "2",
+    "start_time": 505.3,
+    "end_time": 505.96666666666664,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "2",
+    "action_label": "6",
+    "str_GoPro_ts": "00:08:25:23",
+    "end_GoPro_ts": "00:08:27:45",
+    "action_annotation": "pickup/open supportbag",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I carefully pick up the support bag containing the tent poles?",
+        "answer": "Yes, I picked up the support bag containing the tent poles."
+      },
+      {
+        "question": "What did I do after picking up the support bag?",
+        "answer": "I opened the support bag to access the tent poles inside."
+      },
+      {
+        "question": "Did I do anything unnecessary when picking up or opening the support bag?",
+        "answer": "No, I did not do anything unnecessary."
+      }
+    ],
+    "video_id": "2",
+    "start_time": 505.76666666666665,
+    "end_time": 508.5,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "2",
+    "action_label": "5",
+    "str_GoPro_ts": "00:08:27:31",
+    "end_GoPro_ts": "00:08:38:18",
+    "action_annotation": "pickup/open stakebag",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I pick up the stakebag containing the tent stakes?",
+        "answer": "Yes, I picked up the stakebag."
+      },
+      {
+        "question": "Did I open the stakebag to access the tent stakes?",
+        "answer": "Yes, I opened the stakebag."
+      }
+    ],
+    "video_id": "2",
+    "start_time": 508.03333333333336,
+    "end_time": 518.6,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "2",
+    "action_label": "6",
+    "str_GoPro_ts": "00:08:32:23",
+    "end_GoPro_ts": "00:08:38:18",
+    "action_annotation": "pickup/open supportbag",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I carefully pick up the support bag containing the tent poles?",
+        "answer": "Yes, I picked up the support bag containing the tent poles."
+      },
+      {
+        "question": "What did I do after picking up the support bag?",
+        "answer": "I opened the support bag to access the tent poles inside."
+      },
+      {
+        "question": "Did I ensure the support bag was fully open before removing the tent poles?",
+        "answer": "Yes, I made sure the support bag was fully open before removing the tent poles."
+      }
+    ],
+    "video_id": "2",
+    "start_time": 512.7666666666667,
+    "end_time": 518.6,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "2",
+    "action_label": "8",
+    "str_GoPro_ts": "00:08:39:02",
+    "end_GoPro_ts": "00:09:29:46",
+    "action_annotation": "pickup/place ventcover",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly place the ventcover on the tent's ventilation opening?",
+        "answer": "Yes, I placed the ventcover on the tent's ventilation opening as instructed."
+      },
+      {
+        "question": "What did I do after picking up the ventcover?",
+        "answer": "I placed the ventcover onto the designated opening on the tent."
+      },
+      {
+        "question": "Did I ensure the ventcover was securely fastened to the tent?",
+        "answer": "Yes, I made sure the ventcover was securely fastened to the tent following the assembly instructions."
+      }
+    ],
+    "video_id": "2",
+    "start_time": 519.0666666666667,
+    "end_time": 570.5333333333333,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "2",
+    "action_label": "11",
+    "str_GoPro_ts": "00:08:51:40",
+    "end_GoPro_ts": "00:09:01:34",
+    "action_annotation": "tie top",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly tie the top corners of the tent to secure it?",
+        "answer": "Yes, I tied the top corners securely to ensure the tent is stable."
+      },
+      {
+        "question": "What did I do to fasten the tent's top edge after setting up the poles?",
+        "answer": "I tied the top edge of the tent to the poles to keep it in place."
+      },
+      {
+        "question": "Did I use the provided cord to tie off the tent's peak after pitching it?",
+        "answer": "Yes, I used the cord to tie off the tent's peak for added stability."
+      }
+    ],
+    "video_id": "2",
+    "start_time": 532.3333333333334,
+    "end_time": 542.1333333333333,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "4",
+    "action_label": "4",
+    "str_GoPro_ts": "00:00:14:08",
+    "end_GoPro_ts": "00:00:21:22",
+    "action_annotation": "instruction",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly insert the poles into the tent's sleeves before unfolding the tent?",
+        "answer": "Yes, I inserted the poles into the tent's sleeves before unfolding the tent."
+      },
+      {
+        "question": "Have I completed the full instruction?",
+        "answer": "Yes, I have completed the full instruction."
+      }
+    ],
+    "video_id": "4",
+    "start_time": 14.266666666666667,
+    "end_time": 21.733333333333334,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "4",
+    "action_label": "7",
+    "str_GoPro_ts": "00:00:23:32",
+    "end_GoPro_ts": "00:00:30:41",
+    "action_annotation": "pickup/open tentbag",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I check if the tent bag was securely closed before opening it?",
+        "answer": "Yes, I made sure the tent bag was fully closed and zipped before opening it."
+      },
+      {
+        "question": "What did I do after picking up the tent bag to ensure all contents were accessible?",
+        "answer": "I opened the tent bag completely to access all the tent components inside."
+      }
+    ],
+    "video_id": "4",
+    "start_time": 24.066666666666666,
+    "end_time": 31.366666666666667,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "4",
+    "action_label": "10",
+    "str_GoPro_ts": "00:00:30:43",
+    "end_GoPro_ts": "00:00:59:55",
+    "action_annotation": "spread tent",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "What did I do to ensure the tent's footprint was visible?",
+        "answer": "I spread the tent's footprint sheet over the ground, making sure all corners were aligned with the tent's layout."
+      },
+      {
+        "question": "Did I complete the action of spreading the tent, and was it done fully?",
+        "answer": "I completed this action fully and correctly."
+      }
+    ],
+    "video_id": "4",
+    "start_time": 31.433333333333334,
+    "end_time": 60.833333333333336,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "4",
+    "action_label": "6",
+    "str_GoPro_ts": "00:01:01:01",
+    "end_GoPro_ts": "00:01:24:16",
+    "action_annotation": "pickup/open supportbag",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I carefully pick up the support bag containing the tent poles?",
+        "answer": "Yes, I picked up the support bag containing the tent poles."
+      },
+      {
+        "question": "What did I do after picking up the support bag?",
+        "answer": "I opened the support bag to access the tent poles inside."
+      },
+      {
+        "question": "Did I do anything unnecessary when picking up or opening the support bag?",
+        "answer": "No, I did not do anything unnecessary."
+      }
+    ],
+    "video_id": "4",
+    "start_time": 61.03333333333333,
+    "end_time": 84.53333333333333,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "4",
+    "action_label": "4",
+    "str_GoPro_ts": "00:01:23:45",
+    "end_GoPro_ts": "00:01:32:03",
+    "action_annotation": "instruction",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly insert the poles into the tent's sleeves before unfolding the tent?",
+        "answer": "Yes, I inserted the poles into the tent's sleeves before unfolding the tent."
+      },
+      {
+        "question": "What did I do to ensure the tent floor was completely laid out flat before securing the stakes?",
+        "answer": "I carefully laid out the tent floor flat on the ground before securing the stakes."
+      },
+      {
+        "question": "Did I check if all the tent doors and windows were correctly aligned after assembling the frame?",
+        "answer": "Yes, I checked and confirmed that all the tent doors and windows were correctly aligned after assembling the frame."
+      }
+    ],
+    "video_id": "4",
+    "start_time": 84.5,
+    "end_time": 92.1,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "4",
+    "action_label": "0",
+    "str_GoPro_ts": "00:01:33:15",
+    "end_GoPro_ts": "00:01:51:47",
+    "action_annotation": "assemble support",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly place the tent poles into the designated holes at the corners of the tent floor?",
+        "answer": "Yes, I placed the tent poles into the designated holes at the corners of the tent floor."
+      },
+      {
+        "question": "What did I do to ensure the tent poles were straight and aligned with each other before securing them?",
+        "answer": "I made sure the tent poles were straight and aligned with each other by checking their positions and adjusting if necessary."
+      },
+      {
+        "question": "Did I check if all four corners of the tent were stable after assembling the support poles?",
+        "answer": "Yes, I checked and confirmed that all four corners of the tent were stable after assembling the support poles."
+      }
+    ],
+    "video_id": "4",
+    "start_time": 93.5,
+    "end_time": 112.56666666666666,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "4",
+    "action_label": "0",
+    "str_GoPro_ts": "00:01:51:29",
+    "end_GoPro_ts": "00:02:09:43",
+    "action_annotation": "assemble support",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly place the tent poles into the designated holes at the corners of the tent floor?",
+        "answer": "Yes, I placed the tent poles into the designated holes at the corners of the tent floor."
+      },
+      {
+        "question": "What did I do to ensure the tent poles were straight and aligned with each other before securing them?",
+        "answer": "I made sure the tent poles were straight and aligned with each other by checking their positions and adjusting if necessary."
+      },
+      {
+        "question": "Did I complete the assemble support step fully?",
+        "answer": "Yes, I completed the assemble support step fully without missing any steps."
+      }
+    ],
+    "video_id": "4",
+    "start_time": 111.96666666666667,
+    "end_time": 130.43333333333334,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "4",
+    "action_label": "2",
+    "str_GoPro_ts": "00:02:10:29",
+    "end_GoPro_ts": "00:03:01:16",
+    "action_annotation": "insert support",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly insert the support pole into the designated hole at the center of the tent floor?",
+        "answer": "Yes, I inserted the support pole into the designated hole at the center of the tent floor."
+      },
+      {
+        "question": "What did I do after placing the tent floor on the ground to ensure proper setup?",
+        "answer": "I inserted the support pole into the designated hole at the center of the tent floor."
+      },
+      {
+        "question": "Did I make sure the support was straight and vertical before continuing with the tent assembly?",
+        "answer": "Yes, I made sure the support was straight and vertical before continuing with the tent assembly."
+      }
+    ],
+    "video_id": "4",
+    "start_time": 130.96666666666667,
+    "end_time": 181.53333333333333,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "4",
+    "action_label": "3",
+    "str_GoPro_ts": "00:03:01:30",
+    "end_GoPro_ts": "00:03:08:55",
+    "action_annotation": "insert support tab",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly insert the support tab into the designated slot on the tent frame?",
+        "answer": "Yes, I inserted the support tab into the designated slot on the tent frame."
+      }
+    ],
+    "video_id": "4",
+    "start_time": 182.0,
+    "end_time": 189.83333333333334,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "4",
+    "action_label": "3",
+    "str_GoPro_ts": "00:03:16:04",
+    "end_GoPro_ts": "00:03:27:51",
+    "action_annotation": "insert support tab",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly insert the support tab into the designated slot on the tent frame?",
+        "answer": "Yes, I inserted the support tab into the designated slot on the tent frame."
+      },
+      {
+        "question": "What did I do to ensure the support tab was securely in place before moving on to the next step?",
+        "answer": "I made sure the support tab was fully inserted and felt secure in its slot before proceeding."
+      }
+    ],
+    "video_id": "4",
+    "start_time": 196.13333333333333,
+    "end_time": 208.7,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "4",
+    "action_label": "2",
+    "str_GoPro_ts": "00:03:32:34",
+    "end_GoPro_ts": "00:04:58:19",
+    "action_annotation": "insert support",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly insert the support pole into the designated hole at the center of the tent floor?",
+        "answer": "Yes, I inserted the support pole into the designated hole at the center of the tent floor."
+      },
+      {
+        "question": "What did I do after placing the tent floor on the ground to ensure proper setup?",
+        "answer": "I inserted the support pole into the designated hole at the center of the tent floor."
+      }
+    ],
+    "video_id": "4",
+    "start_time": 213.13333333333333,
+    "end_time": 298.6333333333333,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "4",
+    "action_label": "3",
+    "str_GoPro_ts": "00:04:58:47",
+    "end_GoPro_ts": "00:05:02:08",
+    "action_annotation": "insert support tab",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly insert the support tab into the designated slot on the tent frame?",
+        "answer": "Yes, I inserted the support tab into the designated slot on the tent frame."
+      },
+      {
+        "question": "What did I do to ensure the support tab was securely in place before moving on to the next step?",
+        "answer": "I made sure the support tab was fully inserted and felt secure in its slot before proceeding."
+      }
+    ],
+    "video_id": "4",
+    "start_time": 299.56666666666666,
+    "end_time": 302.26666666666665,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "4",
+    "action_label": "3",
+    "str_GoPro_ts": "00:05:07:34",
+    "end_GoPro_ts": "00:05:15:17",
+    "action_annotation": "insert support tab",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly insert the support tab into the designated slot on the tent frame?",
+        "answer": "Yes, I inserted the support tab into the designated slot on the tent frame."
+      },
+      {
+        "question": "What did I do to ensure the support tab was securely in place before moving on to the next step?",
+        "answer": "I made sure the support tab was fully inserted and felt secure in its slot before proceeding."
+      },
+      {
+        "question": "Did I insert the support tab correctly and completely?",
+        "answer": "Yes, based on the current situation, it appears to be complete and correct."
+      }
+    ],
+    "video_id": "4",
+    "start_time": 308.1333333333333,
+    "end_time": 315.56666666666666,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "4",
+    "action_label": "4",
+    "str_GoPro_ts": "00:05:24:38",
+    "end_GoPro_ts": "00:05:33:07",
+    "action_annotation": "instruction",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly insert the poles into the tent's sleeves before unfolding the tent?",
+        "answer": "Yes, I inserted the poles into the tent's sleeves before unfolding the tent."
+      },
+      {
+        "question": "What did I do to ensure the tent floor was completely laid out flat before securing the stakes?",
+        "answer": "I carefully laid out the tent floor flat on the ground before securing the stakes."
+      }
+    ],
+    "video_id": "4",
+    "start_time": 325.26666666666665,
+    "end_time": 333.23333333333335,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "4",
+    "action_label": "5",
+    "str_GoPro_ts": "00:05:39:36",
+    "end_GoPro_ts": "00:05:49:07",
+    "action_annotation": "pickup/open stakebag",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I pick up the stakebag containing the tent stakes?",
+        "answer": "Yes, I picked up the stakebag."
+      },
+      {
+        "question": "Did I open the stakebag to access the tent stakes?",
+        "answer": "Yes, I opened the stakebag."
+      },
+      {
+        "question": "Did I ensure the stakebag was fully open before removing the stakes?",
+        "answer": "Yes, I made sure the stakebag was fully open."
+      }
+    ],
+    "video_id": "4",
+    "start_time": 340.2,
+    "end_time": 349.23333333333335,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "4",
+    "action_label": "9",
+    "str_GoPro_ts": "00:05:52:22",
+    "end_GoPro_ts": "00:07:10:59",
+    "action_annotation": "place guyline",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly identify and locate the guyline before attaching it to the tent poles?",
+        "answer": "Yes, I identified and located the correct guyline and attached it securely to the tent poles."
+      },
+      {
+        "question": "What did I do after placing the guyline to ensure it was properly secured?",
+        "answer": "I ensured the guyline was taut and securely fastened to the ground stake."
+      },
+      {
+        "question": "Did I do anything unnecessary when I was placing the guyline?",
+        "answer": "No, I did not do anything unnecessary."
+      }
+    ],
+    "video_id": "4",
+    "start_time": 352.73333333333335,
+    "end_time": 431.96666666666664,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "4",
+    "action_label": "4",
+    "str_GoPro_ts": "00:06:35:33",
+    "end_GoPro_ts": "00:06:58:05",
+    "action_annotation": "instruction",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly insert the poles into the tent's sleeves before unfolding the tent?",
+        "answer": "Yes, I inserted the poles into the tent's sleeves before unfolding the tent."
+      },
+      {
+        "question": "Have I completed the full instruction?",
+        "answer": "Yes, I have completed the full instruction."
+      }
+    ],
+    "video_id": "4",
+    "start_time": 396.1,
+    "end_time": 418.1666666666667,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "4",
+    "action_label": "1",
+    "str_GoPro_ts": "00:07:03:47",
+    "end_GoPro_ts": "00:07:18:03",
+    "action_annotation": "insert stake",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly insert the stake into the designated hole on the tent frame?",
+        "answer": "Yes, I inserted the stake firmly into the designated hole on the tent frame."
+      },
+      {
+        "question": "Did I insert the stake correctly and completely?",
+        "answer": "Yes, based on the current situation, it appears to be complete and correct."
+      }
+    ],
+    "video_id": "4",
+    "start_time": 424.56666666666666,
+    "end_time": 438.1,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "4",
+    "action_label": "1",
+    "str_GoPro_ts": "00:07:23:11",
+    "end_GoPro_ts": "00:07:30:06",
+    "action_annotation": "insert stake",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly insert the stake into the designated hole on the tent frame?",
+        "answer": "Yes, I inserted the stake firmly into the designated hole on the tent frame."
+      },
+      {
+        "question": "What did I do to ensure the stake was secure in the ground?",
+        "answer": "I pushed the stake down until it was securely anchored in the ground."
+      },
+      {
+        "question": "Did I insert the stake correctly and completely?",
+        "answer": "Yes, based on the current situation, it appears to be complete and correct."
+      }
+    ],
+    "video_id": "4",
+    "start_time": 443.3666666666667,
+    "end_time": 450.2,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "4",
+    "action_label": "1",
+    "str_GoPro_ts": "00:07:34:07",
+    "end_GoPro_ts": "00:07:54:39",
+    "action_annotation": "insert stake",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly insert the stake into the designated hole on the tent frame?",
+        "answer": "Yes, I inserted the stake firmly into the designated hole on the tent frame."
+      },
+      {
+        "question": "Did I insert the stake correctly and completely?",
+        "answer": "Yes, based on the current situation, it appears to be complete and correct."
+      }
+    ],
+    "video_id": "4",
+    "start_time": 454.23333333333335,
+    "end_time": 475.3,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "4",
+    "action_label": "1",
+    "str_GoPro_ts": "00:07:58:38",
+    "end_GoPro_ts": "00:08:09:35",
+    "action_annotation": "insert stake",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly insert the stake into the designated hole on the tent frame?",
+        "answer": "Yes, I inserted the stake firmly into the designated hole on the tent frame."
+      },
+      {
+        "question": "Did I check if the stake was level before securing it?",
+        "answer": "Yes, I checked and adjusted the stake to make sure it was level before securing it."
+      }
+    ],
+    "video_id": "4",
+    "start_time": 479.26666666666665,
+    "end_time": 490.1666666666667,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "4",
+    "action_label": "5",
+    "str_GoPro_ts": "00:08:11:23",
+    "end_GoPro_ts": "00:08:14:08",
+    "action_annotation": "pickup/open stakebag",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I pick up the stakebag containing the tent stakes?",
+        "answer": "Yes, I picked up the stakebag."
+      },
+      {
+        "question": "Did I open the stakebag to access the tent stakes?",
+        "answer": "Yes, I opened the stakebag."
+      }
+    ],
+    "video_id": "4",
+    "start_time": 491.76666666666665,
+    "end_time": 494.26666666666665,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "4",
+    "action_label": "9",
+    "str_GoPro_ts": "00:08:21:49",
+    "end_GoPro_ts": "00:09:13:14",
+    "action_annotation": "place guyline",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly identify and locate the guyline before attaching it to the tent poles?",
+        "answer": "Yes, I identified and located the correct guyline and attached it securely to the tent poles."
+      },
+      {
+        "question": "Did I do the step of placing the guyline correctly?",
+        "answer": "Yes, I ensured the guyline was taut and securely fastened to the ground stake."
+      },
+      {
+        "question": "Did I do anything unnecessary when I was placing the guyline?",
+        "answer": "No, I did not do anything unnecessary."
+      }
+    ],
+    "video_id": "4",
+    "start_time": 502.6333333333333,
+    "end_time": 553.4666666666667,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "4",
+    "action_label": "9",
+    "str_GoPro_ts": "00:09:16:28",
+    "end_GoPro_ts": "00:11:04:39",
+    "action_annotation": "place guyline",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly identify and locate the guyline before attaching it to the tent poles?",
+        "answer": "Yes, I identified and located the correct guyline and attached it securely to the tent poles."
+      },
+      {
+        "question": "Did I do the step of placing the guyline correctly?",
+        "answer": "Yes, I ensured the guyline was taut and securely fastened to the ground stake."
+      },
+      {
+        "question": "Did I do anything unnecessary when I was placing the guyline?",
+        "answer": "No, I did not do anything unnecessary."
+      }
+    ],
+    "video_id": "4",
+    "start_time": 556.9333333333333,
+    "end_time": 665.3,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "4",
+    "action_label": "9",
+    "str_GoPro_ts": "00:11:07:47",
+    "end_GoPro_ts": "00:11:33:03",
+    "action_annotation": "place guyline",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly identify and locate the guyline before attaching it to the tent poles?",
+        "answer": "Yes, I identified and located the correct guyline and attached it securely to the tent poles."
+      }
+    ],
+    "video_id": "4",
+    "start_time": 668.5666666666667,
+    "end_time": 693.1,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "4",
+    "action_label": "9",
+    "str_GoPro_ts": "00:11:38:03",
+    "end_GoPro_ts": "00:12:00:21",
+    "action_annotation": "place guyline",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly identify and locate the guyline before attaching it to the tent poles?",
+        "answer": "Yes, I identified and located the correct guyline and attached it securely to the tent poles."
+      },
+      {
+        "question": "Did I do the step of placing the guyline correctly?",
+        "answer": "Yes, I ensured the guyline was taut and securely fastened to the ground stake."
+      },
+      {
+        "question": "Did I do anything unnecessary when I was placing the guyline?",
+        "answer": "No, I did not do anything unnecessary."
+      }
+    ],
+    "video_id": "4",
+    "start_time": 698.1,
+    "end_time": 720.7,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "4",
+    "str_GoPro_ts": "00:00:10:17",
+    "end_GoPro_ts": "00:00:22:08",
+    "action_annotation": "instruction",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly insert the poles into the tent's sleeves before unfolding the tent?",
+        "answer": "Yes, I inserted the poles into the tent's sleeves before unfolding the tent."
+      },
+      {
+        "question": "Have I completed the full instruction?",
+        "answer": "Yes, I have completed the full instruction."
+      },
+      {
+        "question": "Did I check if all the tent doors and windows were correctly aligned after assembling the frame?",
+        "answer": "Yes, I checked and confirmed that all the tent doors and windows were correctly aligned after assembling the frame."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 10.566666666666666,
+    "end_time": 22.266666666666666,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "7",
+    "str_GoPro_ts": "00:00:22:34",
+    "end_GoPro_ts": "00:00:33:33",
+    "action_annotation": "pickup/open tentbag",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "What did I do after picking up the tent bag to ensure all contents were accessible?",
+        "answer": "I opened the tent bag completely to access all the tent components inside."
+      },
+      {
+        "question": "Did I check if the tent bag was securely closed before opening it?",
+        "answer": "Yes, I made sure the tent bag was fully closed and zipped before opening it."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 23.133333333333333,
+    "end_time": 34.1,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "4",
+    "str_GoPro_ts": "00:00:23:46",
+    "end_GoPro_ts": "00:00:31:01",
+    "action_annotation": "instruction",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly insert the poles into the tent's sleeves before unfolding the tent?",
+        "answer": "Yes, I inserted the poles into the tent's sleeves before unfolding the tent."
+      },
+      {
+        "question": "Did I do anything that was not part of the instructions?",
+        "answer": "No, I did not do anything that was not part of the instructions."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 24.533333333333335,
+    "end_time": 31.033333333333335,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "10",
+    "str_GoPro_ts": "00:00:33:43",
+    "end_GoPro_ts": "00:00:58:07",
+    "action_annotation": "spread tent",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I lay out the tent floor properly before setting up the poles?",
+        "answer": "Yes, I laid out the tent floor flat on the ground, ensuring it was centered."
+      },
+      {
+        "question": "What did I do to ensure the tent's footprint was visible?",
+        "answer": "I spread the tent's footprint sheet over the ground, making sure all corners were aligned with the tent's layout."
+      },
+      {
+        "question": "Did I skip any steps when I was spreading the tent?",
+        "answer": "No, I did not skip any steps."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 34.43333333333333,
+    "end_time": 58.233333333333334,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "4",
+    "str_GoPro_ts": "00:00:59:03",
+    "end_GoPro_ts": "00:01:09:49",
+    "action_annotation": "instruction",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly insert the poles into the tent's sleeves before unfolding the tent?",
+        "answer": "Yes, I inserted the poles into the tent's sleeves before unfolding the tent."
+      },
+      {
+        "question": "What did I do to ensure the tent floor was completely laid out flat before securing the stakes?",
+        "answer": "I carefully laid out the tent floor flat on the ground before securing the stakes."
+      },
+      {
+        "question": "Did I check if all the tent doors and windows were correctly aligned after assembling the frame?",
+        "answer": "Yes, I checked and confirmed that all the tent doors and windows were correctly aligned after assembling the frame."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 59.1,
+    "end_time": 70.63333333333334,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "6",
+    "str_GoPro_ts": "00:01:07:35",
+    "end_GoPro_ts": "00:01:30:47",
+    "action_annotation": "pickup/open supportbag",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I carefully pick up the support bag containing the tent poles?",
+        "answer": "Yes, I picked up the support bag containing the tent poles."
+      },
+      {
+        "question": "What did I do after picking up the support bag?",
+        "answer": "I opened the support bag to access the tent poles inside."
+      },
+      {
+        "question": "Did I ensure the support bag was fully open before removing the tent poles?",
+        "answer": "Yes, I made sure the support bag was fully open before removing the tent poles."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 68.16666666666667,
+    "end_time": 91.56666666666666,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "5",
+    "str_GoPro_ts": "00:01:12:47",
+    "end_GoPro_ts": "00:01:13:53",
+    "action_annotation": "pickup/open stakebag",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I pick up the stakebag containing the tent stakes?",
+        "answer": "Yes, I picked up the stakebag."
+      },
+      {
+        "question": "Did I open the stakebag to access the tent stakes?",
+        "answer": "Yes, I opened the stakebag."
+      },
+      {
+        "question": "Did I ensure the stakebag was fully open before removing the stakes?",
+        "answer": "Yes, I made sure the stakebag was fully open."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 73.56666666666666,
+    "end_time": 74.76666666666667,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "5",
+    "str_GoPro_ts": "00:01:15:11",
+    "end_GoPro_ts": "00:01:16:53",
+    "action_annotation": "pickup/open stakebag",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I pick up the stakebag containing the tent stakes?",
+        "answer": "Yes, I picked up the stakebag."
+      },
+      {
+        "question": "Did I open the stakebag to access the tent stakes?",
+        "answer": "Yes, I opened the stakebag."
+      },
+      {
+        "question": "Did I ensure the stakebag was fully open before removing the stakes?",
+        "answer": "Yes, I made sure the stakebag was fully open."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 75.36666666666666,
+    "end_time": 77.76666666666667,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "4",
+    "str_GoPro_ts": "00:01:17:11",
+    "end_GoPro_ts": "00:01:17:31",
+    "action_annotation": "instruction",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly insert the poles into the tent's sleeves before unfolding the tent?",
+        "answer": "Yes, I inserted the poles into the tent's sleeves before unfolding the tent."
+      },
+      {
+        "question": "Did I do anything that was not part of the instructions?",
+        "answer": "No, I did not do anything that was not part of the instructions."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 77.36666666666666,
+    "end_time": 78.03333333333333,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "4",
+    "str_GoPro_ts": "00:01:20:57",
+    "end_GoPro_ts": "00:01:22:10",
+    "action_annotation": "instruction",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly insert the poles into the tent's sleeves before unfolding the tent?",
+        "answer": "Yes, I inserted the poles into the tent's sleeves before unfolding the tent."
+      },
+      {
+        "question": "Did I do anything that was not part of the instructions?",
+        "answer": "No, I did not do anything that was not part of the instructions."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 81.9,
+    "end_time": 82.33333333333333,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "4",
+    "str_GoPro_ts": "00:01:23:12",
+    "end_GoPro_ts": "00:01:25:01",
+    "action_annotation": "instruction",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly insert the poles into the tent's sleeves before unfolding the tent?",
+        "answer": "Yes, I inserted the poles into the tent's sleeves before unfolding the tent."
+      },
+      {
+        "question": "Did I do anything that was not part of the instructions?",
+        "answer": "No, I did not do anything that was not part of the instructions."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 83.4,
+    "end_time": 85.03333333333333,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "0",
+    "str_GoPro_ts": "00:01:30:49",
+    "end_GoPro_ts": "00:01:50:46",
+    "action_annotation": "assemble support",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly place the tent poles into the designated holes at the corners of the tent floor?",
+        "answer": "Yes, I placed the tent poles into the designated holes at the corners of the tent floor."
+      },
+      {
+        "question": "Did I check if all four corners of the tent were stable after assembling the support poles?",
+        "answer": "Yes, I checked and confirmed that all four corners of the tent were stable after assembling the support poles."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 91.63333333333334,
+    "end_time": 111.53333333333333,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "4",
+    "str_GoPro_ts": "00:01:47:57",
+    "end_GoPro_ts": "00:01:49:01",
+    "action_annotation": "instruction",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly insert the poles into the tent's sleeves before unfolding the tent?",
+        "answer": "Yes, I inserted the poles into the tent's sleeves before unfolding the tent."
+      },
+      {
+        "question": "Did I do anything that was not part of the instructions?",
+        "answer": "No, I did not do anything that was not part of the instructions."
+      },
+      {
+        "question": "Have I completed the full instruction?",
+        "answer": "Yes, I have completed the full instruction."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 108.9,
+    "end_time": 109.03333333333333,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "4",
+    "str_GoPro_ts": "00:01:51:28",
+    "end_GoPro_ts": "00:01:55:12",
+    "action_annotation": "instruction",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly insert the poles into the tent's sleeves before unfolding the tent?",
+        "answer": "Yes, I inserted the poles into the tent's sleeves before unfolding the tent."
+      },
+      {
+        "question": "Have I followed the instructions in what I did?",
+        "answer": "Yes, everything I have done follows the procedures."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 111.93333333333334,
+    "end_time": 115.4,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "0",
+    "str_GoPro_ts": "00:01:53:06",
+    "end_GoPro_ts": "00:02:13:20",
+    "action_annotation": "assemble support",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly place the tent poles into the designated holes at the corners of the tent floor?",
+        "answer": "Yes, I placed the tent poles into the designated holes at the corners of the tent floor."
+      },
+      {
+        "question": "Did I do something wrong when I was doing the assemble support step?",
+        "answer": "No, I completed this step correctly."
+      },
+      {
+        "question": "Did I complete the assemble support step fully?",
+        "answer": "Yes, I completed the assemble support step fully without missing any steps."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 113.2,
+    "end_time": 133.66666666666666,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "4",
+    "str_GoPro_ts": "00:02:12:48",
+    "end_GoPro_ts": "00:02:23:58",
+    "action_annotation": "instruction",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly insert the poles into the tent's sleeves before unfolding the tent?",
+        "answer": "Yes, I inserted the poles into the tent's sleeves before unfolding the tent."
+      },
+      {
+        "question": "Have I followed the instructions in what I did?",
+        "answer": "Yes, everything I have done follows the procedures."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 133.6,
+    "end_time": 144.93333333333334,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "2",
+    "str_GoPro_ts": "00:02:28:38",
+    "end_GoPro_ts": "00:03:17:35",
+    "action_annotation": "insert support",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly insert the support pole into the designated hole at the center of the tent floor?",
+        "answer": "Yes, I inserted the support pole into the designated hole at the center of the tent floor."
+      },
+      {
+        "question": "Did I do something wrong when I was doing the insert support step?",
+        "answer": "No, I completed this step correctly."
+      },
+      {
+        "question": "Did I do anything unnecessary when inserting the support?",
+        "answer": "No, I did not do anything unnecessary."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 149.26666666666668,
+    "end_time": 198.16666666666666,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "3",
+    "str_GoPro_ts": "00:03:21:28",
+    "end_GoPro_ts": "00:03:26:58",
+    "action_annotation": "insert support tab",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly insert the support tab into the designated slot on the tent frame?",
+        "answer": "Yes, I inserted the support tab into the designated slot on the tent frame."
+      },
+      {
+        "question": "Did I do something wrong when I was doing the insert support tab step?",
+        "answer": "No, I completed this step correctly."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 201.93333333333334,
+    "end_time": 207.93333333333334,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "3",
+    "str_GoPro_ts": "00:03:32:01",
+    "end_GoPro_ts": "00:04:06:49",
+    "action_annotation": "insert support tab",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly insert the support tab into the designated slot on the tent frame?",
+        "answer": "Yes, I inserted the support tab into the designated slot on the tent frame."
+      },
+      {
+        "question": "Did I do something wrong when I was doing the insert support tab step?",
+        "answer": "No, I completed this step correctly."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 212.03333333333333,
+    "end_time": 247.63333333333333,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "3",
+    "str_GoPro_ts": "00:04:11:55",
+    "end_GoPro_ts": "00:04:14:19",
+    "action_annotation": "insert support tab",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly insert the support tab into the designated slot on the tent frame?",
+        "answer": "Yes, I inserted the support tab into the designated slot on the tent frame."
+      },
+      {
+        "question": "Did I do something wrong when I was doing the insert support tab step?",
+        "answer": "No, I completed this step correctly."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 252.83333333333334,
+    "end_time": 254.63333333333333,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "2",
+    "str_GoPro_ts": "00:04:16:51",
+    "end_GoPro_ts": "00:05:15:22",
+    "action_annotation": "insert support",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly insert the support pole into the designated hole at the center of the tent floor?",
+        "answer": "Yes, I inserted the support pole into the designated hole at the center of the tent floor."
+      },
+      {
+        "question": "Did I make sure the support was straight and vertical before continuing with the tent assembly?",
+        "answer": "Yes, I made sure the support was straight and vertical before continuing with the tent assembly."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 257.7,
+    "end_time": 315.73333333333335,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "3",
+    "str_GoPro_ts": "00:05:16:00",
+    "end_GoPro_ts": "00:05:38:06",
+    "action_annotation": "insert support tab",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly insert the support tab into the designated slot on the tent frame?",
+        "answer": "Yes, I inserted the support tab into the designated slot on the tent frame."
+      },
+      {
+        "question": "Did I miss any steps when inserting the support tab?",
+        "answer": "No, I completed this step correctly, without missing any steps."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 316.0,
+    "end_time": 338.2,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "3",
+    "str_GoPro_ts": "00:05:43:24",
+    "end_GoPro_ts": "00:06:09:08",
+    "action_annotation": "insert support tab",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly insert the support tab into the designated slot on the tent frame?",
+        "answer": "Yes, I inserted the support tab into the designated slot on the tent frame."
+      },
+      {
+        "question": "Did I miss any steps when inserting the support tab?",
+        "answer": "No, I completed this step correctly, without missing any steps."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 343.8,
+    "end_time": 369.26666666666665,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "3",
+    "str_GoPro_ts": "00:06:49:23",
+    "end_GoPro_ts": "00:07:03:59",
+    "action_annotation": "insert support tab",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly insert the support tab into the designated slot on the tent frame?",
+        "answer": "Yes, I inserted the support tab into the designated slot on the tent frame."
+      },
+      {
+        "question": "Did I miss any steps when inserting the support tab?",
+        "answer": "No, I completed this step correctly, without missing any steps."
+      },
+      {
+        "question": "Did I check if the support tab was aligned properly with the notches on the tent frame before finalizing the assembly?",
+        "answer": "Yes, I checked and confirmed that the support tab was aligned properly with the notches on the tent frame."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 409.76666666666665,
+    "end_time": 424.96666666666664,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "4",
+    "str_GoPro_ts": "00:07:26:29",
+    "end_GoPro_ts": "00:07:34:49",
+    "action_annotation": "instruction",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly insert the poles into the tent's sleeves before unfolding the tent?",
+        "answer": "Yes, I inserted the poles into the tent's sleeves before unfolding the tent."
+      },
+      {
+        "question": "Did I check if all the tent doors and windows were correctly aligned after assembling the frame?",
+        "answer": "Yes, I checked and confirmed that all the tent doors and windows were correctly aligned after assembling the frame."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 446.96666666666664,
+    "end_time": 455.6333333333333,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "4",
+    "str_GoPro_ts": "00:07:43:36",
+    "end_GoPro_ts": "00:07:48:51",
+    "action_annotation": "instruction",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly insert the poles into the tent's sleeves before unfolding the tent?",
+        "answer": "Yes, I inserted the poles into the tent's sleeves before unfolding the tent."
+      },
+      {
+        "question": "Did I check if all the tent doors and windows were correctly aligned after assembling the frame?",
+        "answer": "Yes, I checked and confirmed that all the tent doors and windows were correctly aligned after assembling the frame."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 464.2,
+    "end_time": 469.7,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "4",
+    "str_GoPro_ts": "00:07:52:29",
+    "end_GoPro_ts": "00:08:00:36",
+    "action_annotation": "instruction",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly insert the poles into the tent's sleeves before unfolding the tent?",
+        "answer": "Yes, I inserted the poles into the tent's sleeves before unfolding the tent."
+      },
+      {
+        "question": "Have I followed the instructions in what I did?",
+        "answer": "Yes, everything I have done follows the procedures."
+      },
+      {
+        "question": "Did I check if all the tent doors and windows were correctly aligned after assembling the frame?",
+        "answer": "Yes, I checked and confirmed that all the tent doors and windows were correctly aligned after assembling the frame."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 472.96666666666664,
+    "end_time": 481.2,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "5",
+    "str_GoPro_ts": "00:08:00:54",
+    "end_GoPro_ts": "00:08:09:51",
+    "action_annotation": "pickup/open stakebag",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I pick up the stakebag containing the tent stakes?",
+        "answer": "Yes, I picked up the stakebag."
+      },
+      {
+        "question": "Did I open the stakebag to access the tent stakes?",
+        "answer": "Yes, I opened the stakebag."
+      },
+      {
+        "question": "Did I ensure the stakebag was fully open before removing the stakes?",
+        "answer": "Yes, I made sure the stakebag was fully open."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 481.8,
+    "end_time": 490.7,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "4",
+    "str_GoPro_ts": "00:08:03:40",
+    "end_GoPro_ts": "00:08:08:07",
+    "action_annotation": "instruction",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly insert the poles into the tent's sleeves before unfolding the tent?",
+        "answer": "Yes, I inserted the poles into the tent's sleeves before unfolding the tent."
+      },
+      {
+        "question": "Have I followed the instructions in what I did?",
+        "answer": "Yes, everything I have done follows the procedures."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 484.3333333333333,
+    "end_time": 488.23333333333335,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "1",
+    "str_GoPro_ts": "00:08:16:10",
+    "end_GoPro_ts": "00:08:23:03",
+    "action_annotation": "insert stake",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly insert the stake into the designated hole on the tent frame?",
+        "answer": "Yes, I inserted the stake firmly into the designated hole on the tent frame."
+      },
+      {
+        "question": "Have I completed the full step of inserting stake?",
+        "answer": "Yes, I have completed the full step."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 496.3333333333333,
+    "end_time": 503.1,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "1",
+    "str_GoPro_ts": "00:08:26:14",
+    "end_GoPro_ts": "00:08:33:54",
+    "action_annotation": "insert stake",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly insert the stake into the designated hole on the tent frame?",
+        "answer": "Yes, I inserted the stake firmly into the designated hole on the tent frame."
+      },
+      {
+        "question": "Have I completed the full step of inserting stake?",
+        "answer": "Yes, I have completed the full step."
+      },
+      {
+        "question": "Did I check if the stake was level before securing it?",
+        "answer": "Yes, I checked and adjusted the stake to make sure it was level before securing it."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 506.46666666666664,
+    "end_time": 514.8,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "1",
+    "str_GoPro_ts": "00:08:37:34",
+    "end_GoPro_ts": "00:08:41:38",
+    "action_annotation": "insert stake",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly insert the stake into the designated hole on the tent frame?",
+        "answer": "Yes, I inserted the stake firmly into the designated hole on the tent frame."
+      },
+      {
+        "question": "Have I completed the full step of inserting stake?",
+        "answer": "Yes, I have completed the full step."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 518.1333333333333,
+    "end_time": 522.2666666666667,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "1",
+    "str_GoPro_ts": "00:08:44:56",
+    "end_GoPro_ts": "00:08:51:22",
+    "action_annotation": "insert stake",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly insert the stake into the designated hole on the tent frame?",
+        "answer": "Yes, I inserted the stake firmly into the designated hole on the tent frame."
+      },
+      {
+        "question": "Have I completed the full step of inserting stake?",
+        "answer": "Yes, I have completed the full step."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 525.8666666666667,
+    "end_time": 531.7333333333333,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "9",
+    "str_GoPro_ts": "00:08:57:36",
+    "end_GoPro_ts": "00:09:05:16",
+    "action_annotation": "place guyline",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly identify and locate the guyline before attaching it to the tent poles?",
+        "answer": "Yes, I identified and located the correct guyline and attached it securely to the tent poles."
+      },
+      {
+        "question": "Did I do something wrong when placing the guyline?",
+        "answer": "No, I performed this action correctly."
+      },
+      {
+        "question": "Have I completed the full step of placing guyline?",
+        "answer": "Yes, I have completed the full step."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 538.2,
+    "end_time": 545.5333333333333,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "9",
+    "str_GoPro_ts": "00:09:07:30",
+    "end_GoPro_ts": "00:09:14:28",
+    "action_annotation": "place guyline",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly identify and locate the guyline before attaching it to the tent poles?",
+        "answer": "Yes, I identified and located the correct guyline and attached it securely to the tent poles."
+      },
+      {
+        "question": "Did I do something wrong when placing the guyline?",
+        "answer": "No, I performed this action correctly."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 548.0,
+    "end_time": 554.9333333333333,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "9",
+    "str_GoPro_ts": "00:09:19:20",
+    "end_GoPro_ts": "00:09:40:47",
+    "action_annotation": "place guyline",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly identify and locate the guyline before attaching it to the tent poles?",
+        "answer": "Yes, I identified and located the correct guyline and attached it securely to the tent poles."
+      },
+      {
+        "question": "Have I completed the full step of placing guyline?",
+        "answer": "Yes, I have completed the full step."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 559.6666666666666,
+    "end_time": 581.5666666666667,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "9",
+    "str_GoPro_ts": "00:09:50:00",
+    "end_GoPro_ts": "00:09:57:01",
+    "action_annotation": "place guyline",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly identify and locate the guyline before attaching it to the tent poles?",
+        "answer": "Yes, I identified and located the correct guyline and attached it securely to the tent poles."
+      },
+      {
+        "question": "What did I do after placing the guyline to ensure it was properly secured?",
+        "answer": "I ensured the guyline was taut and securely fastened to the ground stake."
+      },
+      {
+        "question": "Have I completed the full step of placing guyline?",
+        "answer": "Yes, I have completed the full step."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 590.0,
+    "end_time": 597.0333333333333,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "7",
+    "str_GoPro_ts": "-1:-1:-1:-1",
+    "end_GoPro_ts": "-1:-1:-1:-1",
+    "action_annotation": "pickup/open tentbag",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "What did I do after picking up the tent bag to ensure all contents were accessible?",
+        "answer": "I opened the tent bag completely to access all the tent components inside."
+      }
+    ],
+    "video_id": "6",
+    "start_time": -3661.0333333333333,
+    "end_time": -3661.0333333333333,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "10",
+    "str_GoPro_ts": "00:00:08:28",
+    "end_GoPro_ts": "00:00:10:10",
+    "action_annotation": "spread tent",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I lay out the tent floor properly before setting up the poles?",
+        "answer": "Yes, I laid out the tent floor flat on the ground, ensuring it was centered."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 8.933333333333334,
+    "end_time": 10.333333333333334,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "6",
+    "str_GoPro_ts": "00:00:10:36",
+    "end_GoPro_ts": "00:00:11:52",
+    "action_annotation": "pickup/open supportbag",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I carefully pick up the support bag containing the tent poles?",
+        "answer": "Yes, I picked up the support bag containing the tent poles."
+      },
+      {
+        "question": "What did I do after picking up the support bag?",
+        "answer": "I opened the support bag to access the tent poles inside."
+      },
+      {
+        "question": "Did I ensure the support bag was fully open before removing the tent poles?",
+        "answer": "Yes, I made sure the support bag was fully open before removing the tent poles."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 11.2,
+    "end_time": 12.733333333333334,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "5",
+    "str_GoPro_ts": "00:00:10:38",
+    "end_GoPro_ts": "00:00:11:54",
+    "action_annotation": "pickup/open stakebag",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I pick up the stakebag containing the tent stakes?",
+        "answer": "Yes, I picked up the stakebag."
+      },
+      {
+        "question": "Did I open the stakebag to access the tent stakes?",
+        "answer": "Yes, I opened the stakebag."
+      },
+      {
+        "question": "Did I ensure the stakebag was fully open before removing the stakes?",
+        "answer": "Yes, I made sure the stakebag was fully open."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 11.266666666666666,
+    "end_time": 12.8,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "10",
+    "str_GoPro_ts": "00:00:12:06",
+    "end_GoPro_ts": "00:00:29:25",
+    "action_annotation": "spread tent",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "What did I do to ensure the tent's footprint was visible?",
+        "answer": "I spread the tent's footprint sheet over the ground, making sure all corners were aligned with the tent's layout."
+      },
+      {
+        "question": "Should I spread the tent at this step?",
+        "answer": "Yes, you did nothing wrong at this step."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 12.2,
+    "end_time": 29.833333333333332,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "6",
+    "str_GoPro_ts": "00:00:30:21",
+    "end_GoPro_ts": "00:00:41:03",
+    "action_annotation": "pickup/open supportbag",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I carefully pick up the support bag containing the tent poles?",
+        "answer": "Yes, I picked up the support bag containing the tent poles."
+      },
+      {
+        "question": "What did I do after picking up the support bag?",
+        "answer": "I opened the support bag to access the tent poles inside."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 30.7,
+    "end_time": 41.1,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "0",
+    "str_GoPro_ts": "00:00:48:21",
+    "end_GoPro_ts": "00:00:49:45",
+    "action_annotation": "assemble support",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly place the tent poles into the designated holes at the corners of the tent floor?",
+        "answer": "Yes, I placed the tent poles into the designated holes at the corners of the tent floor."
+      },
+      {
+        "question": "What did I do to ensure the tent poles were straight and aligned with each other before securing them?",
+        "answer": "I made sure the tent poles were straight and aligned with each other by checking their positions and adjusting if necessary."
+      },
+      {
+        "question": "Did I do something wrong while assembling support?",
+        "answer": "No, you followed the steps correctly."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 48.7,
+    "end_time": 50.5,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "0",
+    "str_GoPro_ts": "00:00:50:05",
+    "end_GoPro_ts": "00:00:56:45",
+    "action_annotation": "assemble support",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly place the tent poles into the designated holes at the corners of the tent floor?",
+        "answer": "Yes, I placed the tent poles into the designated holes at the corners of the tent floor."
+      },
+      {
+        "question": "Did I do something wrong while assembling support?",
+        "answer": "No, you followed the steps correctly."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 50.166666666666664,
+    "end_time": 57.5,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "2",
+    "str_GoPro_ts": "00:00:59:23",
+    "end_GoPro_ts": "00:01:49:04",
+    "action_annotation": "insert support",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly insert the support pole into the designated hole at the center of the tent floor?",
+        "answer": "Yes, I inserted the support pole into the designated hole at the center of the tent floor."
+      },
+      {
+        "question": "What did I do after placing the tent floor on the ground to ensure proper setup?",
+        "answer": "I inserted the support pole into the designated hole at the center of the tent floor."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 59.766666666666666,
+    "end_time": 109.13333333333334,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "0",
+    "str_GoPro_ts": "00:01:37:22",
+    "end_GoPro_ts": "00:01:46:58",
+    "action_annotation": "assemble support",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly place the tent poles into the designated holes at the corners of the tent floor?",
+        "answer": "Yes, I placed the tent poles into the designated holes at the corners of the tent floor."
+      },
+      {
+        "question": "Did I do something wrong while assembling support?",
+        "answer": "No, you followed the steps correctly."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 97.73333333333333,
+    "end_time": 107.93333333333334,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "0",
+    "str_GoPro_ts": "00:01:50:16",
+    "end_GoPro_ts": "00:02:01:06",
+    "action_annotation": "assemble support",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly place the tent poles into the designated holes at the corners of the tent floor?",
+        "answer": "Yes, I placed the tent poles into the designated holes at the corners of the tent floor."
+      },
+      {
+        "question": "Did I do something wrong while assembling support?",
+        "answer": "No, you followed the steps correctly."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 110.53333333333333,
+    "end_time": 121.2,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "2",
+    "str_GoPro_ts": "00:02:04:48",
+    "end_GoPro_ts": "00:02:46:27",
+    "action_annotation": "insert support",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly insert the support pole into the designated hole at the center of the tent floor?",
+        "answer": "Yes, I inserted the support pole into the designated hole at the center of the tent floor."
+      },
+      {
+        "question": "Did I do something wrong while inserting support?",
+        "answer": "No, you followed the steps correctly."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 125.6,
+    "end_time": 166.9,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "0",
+    "str_GoPro_ts": "00:02:27:59",
+    "end_GoPro_ts": "00:02:46:19",
+    "action_annotation": "assemble support",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly place the tent poles into the designated holes at the corners of the tent floor?",
+        "answer": "Yes, I placed the tent poles into the designated holes at the corners of the tent floor."
+      },
+      {
+        "question": "Did I do something wrong while assembling support?",
+        "answer": "No, you followed the steps correctly."
+      },
+      {
+        "question": "Did I check if all four corners of the tent were stable after assembling the support poles?",
+        "answer": "Yes, I checked and confirmed that all four corners of the tent were stable after assembling the support poles."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 148.96666666666667,
+    "end_time": 166.63333333333333,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "3",
+    "str_GoPro_ts": "00:02:49:49",
+    "end_GoPro_ts": "00:02:53:59",
+    "action_annotation": "insert support tab",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly insert the support tab into the designated slot on the tent frame?",
+        "answer": "Yes, I inserted the support tab into the designated slot on the tent frame."
+      },
+      {
+        "question": "Did I miss any steps before inserting the support tab?",
+        "answer": "No, you followed the steps correctly."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 170.63333333333333,
+    "end_time": 174.96666666666667,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "3",
+    "str_GoPro_ts": "00:02:59:22",
+    "end_GoPro_ts": "00:03:07:55",
+    "action_annotation": "insert support tab",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly insert the support tab into the designated slot on the tent frame?",
+        "answer": "Yes, I inserted the support tab into the designated slot on the tent frame."
+      },
+      {
+        "question": "Did I miss any steps before inserting the support tab?",
+        "answer": "No, you followed the steps correctly."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 179.73333333333332,
+    "end_time": 188.83333333333334,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "3",
+    "str_GoPro_ts": "00:03:09:49",
+    "end_GoPro_ts": "00:03:14:48",
+    "action_annotation": "insert support tab",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly insert the support tab into the designated slot on the tent frame?",
+        "answer": "Yes, I inserted the support tab into the designated slot on the tent frame."
+      },
+      {
+        "question": "Is the step where I inserted the support tab necessary?",
+        "answer": "Yes, inserting the support tab is a necessary step to ensure the tent frame is properly supported."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 190.63333333333333,
+    "end_time": 195.6,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "3",
+    "str_GoPro_ts": "00:03:18:30",
+    "end_GoPro_ts": "00:03:27:00",
+    "action_annotation": "insert support tab",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly insert the support tab into the designated slot on the tent frame?",
+        "answer": "Yes, I inserted the support tab into the designated slot on the tent frame."
+      },
+      {
+        "question": "Is the step where I inserted the support tab necessary?",
+        "answer": "Yes, inserting the support tab is a necessary step to ensure the tent frame is properly supported."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 199.0,
+    "end_time": 207.0,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "8",
+    "str_GoPro_ts": "00:03:29:22",
+    "end_GoPro_ts": "00:04:01:48",
+    "action_annotation": "pickup/place ventcover",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly place the ventcover on the tent's ventilation opening?",
+        "answer": "Yes, I placed the ventcover on the tent's ventilation opening as instructed."
+      },
+      {
+        "question": "What did I do after picking up the ventcover?",
+        "answer": "I placed the ventcover onto the designated opening on the tent."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 209.73333333333332,
+    "end_time": 242.6,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "9",
+    "str_GoPro_ts": "00:04:08:59",
+    "end_GoPro_ts": "00:04:34:59",
+    "action_annotation": "place guyline",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly identify and locate the guyline before attaching it to the tent poles?",
+        "answer": "Yes, I identified and located the correct guyline and attached it securely to the tent poles."
+      },
+      {
+        "question": "Is the step where I placed the guyline necessary?",
+        "answer": "Yes, placing the guyline is a necessary step to ensure the tent frame is properly supported."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 249.96666666666667,
+    "end_time": 275.96666666666664,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "5",
+    "str_GoPro_ts": "00:04:11:32",
+    "end_GoPro_ts": "00:04:20:03",
+    "action_annotation": "pickup/open stakebag",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I pick up the stakebag containing the tent stakes?",
+        "answer": "Yes, I picked up the stakebag."
+      },
+      {
+        "question": "Did I open the stakebag to access the tent stakes?",
+        "answer": "Yes, I opened the stakebag."
+      },
+      {
+        "question": "Did I ensure the stakebag was fully open before removing the stakes?",
+        "answer": "Yes, I made sure the stakebag was fully open."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 252.06666666666666,
+    "end_time": 260.1,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "9",
+    "str_GoPro_ts": "00:04:38:39",
+    "end_GoPro_ts": "00:04:52:13",
+    "action_annotation": "place guyline",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly identify and locate the guyline before attaching it to the tent poles?",
+        "answer": "Yes, I identified and located the correct guyline and attached it securely to the tent poles."
+      },
+      {
+        "question": "Is the step where I placed the guyline necessary?",
+        "answer": "Yes, placing the guyline is a necessary step to ensure the tent frame is properly supported."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 279.3,
+    "end_time": 292.43333333333334,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "1",
+    "str_GoPro_ts": "00:04:59:12",
+    "end_GoPro_ts": "00:05:04:33",
+    "action_annotation": "insert stake",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly insert the stake into the designated hole on the tent frame?",
+        "answer": "Yes, I inserted the stake firmly into the designated hole on the tent frame."
+      },
+      {
+        "question": "Is the step where I inserted the stake necessary?",
+        "answer": "Yes, inserting the stake is a necessary step to ensure the tent frame is properly supported."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 299.4,
+    "end_time": 305.1,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "9",
+    "str_GoPro_ts": "00:05:06:26",
+    "end_GoPro_ts": "00:05:12:36",
+    "action_annotation": "place guyline",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly identify and locate the guyline before attaching it to the tent poles?",
+        "answer": "Yes, I identified and located the correct guyline and attached it securely to the tent poles."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 306.8666666666667,
+    "end_time": 313.2,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "1",
+    "str_GoPro_ts": "00:05:14:34",
+    "end_GoPro_ts": "00:05:19:34",
+    "action_annotation": "insert stake",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly insert the stake into the designated hole on the tent frame?",
+        "answer": "Yes, I inserted the stake firmly into the designated hole on the tent frame."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 315.1333333333333,
+    "end_time": 320.1333333333333,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "9",
+    "str_GoPro_ts": "00:05:29:24",
+    "end_GoPro_ts": "00:05:43:32",
+    "action_annotation": "place guyline",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly identify and locate the guyline before attaching it to the tent poles?",
+        "answer": "Yes, I identified and located the correct guyline and attached it securely to the tent poles."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 329.8,
+    "end_time": 344.06666666666666,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "1",
+    "str_GoPro_ts": "00:05:46:09",
+    "end_GoPro_ts": "00:05:52:06",
+    "action_annotation": "insert stake",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly insert the stake into the designated hole on the tent frame?",
+        "answer": "Yes, I inserted the stake firmly into the designated hole on the tent frame."
+      },
+      {
+        "question": "Did I take the wrong item during inserting the stake?",
+        "answer": "No, I took the right item."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 346.3,
+    "end_time": 352.2,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "9",
+    "str_GoPro_ts": "00:05:55:00",
+    "end_GoPro_ts": "00:06:12:27",
+    "action_annotation": "place guyline",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly identify and locate the guyline before attaching it to the tent poles?",
+        "answer": "Yes, I identified and located the correct guyline and attached it securely to the tent poles."
+      },
+      {
+        "question": "Did I take the wrong item during placing the guyline?",
+        "answer": "No, I took the right item."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 355.0,
+    "end_time": 372.9,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "1",
+    "str_GoPro_ts": "00:06:14:59",
+    "end_GoPro_ts": "00:06:19:11",
+    "action_annotation": "insert stake",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I properly insert the stake into the designated hole on the tent frame?",
+        "answer": "Yes, I inserted the stake firmly into the designated hole on the tent frame."
+      },
+      {
+        "question": "Did I take the wrong item during inserting the stake?",
+        "answer": "No, I took the right item."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 375.96666666666664,
+    "end_time": 379.3666666666667,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "9",
+    "str_GoPro_ts": "00:06:22:08",
+    "end_GoPro_ts": "00:06:37:10",
+    "action_annotation": "place guyline",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly identify and locate the guyline before attaching it to the tent poles?",
+        "answer": "Yes, I identified and located the correct guyline and attached it securely to the tent poles."
+      },
+      {
+        "question": "Did I take the wrong item during placing the guyline?",
+        "answer": "No, I took the right item."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 382.26666666666665,
+    "end_time": 397.3333333333333,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "9",
+    "str_GoPro_ts": "00:06:41:33",
+    "end_GoPro_ts": "00:06:51:02",
+    "action_annotation": "place guyline",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly identify and locate the guyline before attaching it to the tent poles?",
+        "answer": "Yes, I identified and located the correct guyline and attached it securely to the tent poles."
+      },
+      {
+        "question": "Did I take the wrong item during placing the guyline?",
+        "answer": "No, I took the right item."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 402.1,
+    "end_time": 411.06666666666666,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "9",
+    "str_GoPro_ts": "00:06:55:40",
+    "end_GoPro_ts": "00:06:58:23",
+    "action_annotation": "place guyline",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly identify and locate the guyline before attaching it to the tent poles?",
+        "answer": "Yes, I identified and located the correct guyline and attached it securely to the tent poles."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 416.3333333333333,
+    "end_time": 418.76666666666665,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "9",
+    "str_GoPro_ts": "00:07:04:24",
+    "end_GoPro_ts": "00:07:24:36",
+    "action_annotation": "place guyline",
+    "is_error": false,
+    "qa_pairs": [
+      {
+        "question": "Did I correctly identify and locate the guyline before attaching it to the tent poles?",
+        "answer": "Yes, I identified and located the correct guyline and attached it securely to the tent poles."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 424.8,
+    "end_time": 445.2,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "2",
+    "action_label": "3",
+    "str_GoPro_ts": "00:04:14:29",
+    "end_GoPro_ts": "00:04:16:49",
+    "action_annotation": "insert support tab",
+    "is_error": true,
+    "error_label_main": "0",
+    "error_annotation_main": "motor error",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when inserting the support tab?",
+        "answer": "I encountered a motor error, which means the mechanism for inserting the support tab wasn't functioning correctly."
+      },
+      {
+        "question": "Did I encounter some unexpected situations when inserting the support tab?",
+        "answer": "Yes, a motor error has occurred."
+      }
+    ],
+    "video_id": "2",
+    "start_time": 254.96666666666667,
+    "end_time": 257.6333333333333,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "2",
+    "action_label": "5",
+    "str_GoPro_ts": "00:06:34:45",
+    "end_GoPro_ts": "00:06:43:54",
+    "action_annotation": "pickup/open stakebag",
+    "is_error": true,
+    "error_label_main": "5",
+    "error_annotation_main": "searching for an item",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when picking up the stakebag?",
+        "answer": "You were searching for an item inside the stakebag instead of just opening it."
+      },
+      {
+        "question": "Why is it incorrect to search for an item while opening the stakebag?",
+        "answer": "It's incorrect because the task is simply to open the stakebag, not to look for specific items within it."
+      },
+      {
+        "question": "What should I have done instead of searching for an item?",
+        "answer": "You should have opened the stakebag without looking for any specific items inside it."
+      }
+    ],
+    "video_id": "2",
+    "start_time": 395.5,
+    "end_time": 404.8,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "2",
+    "action_label": "9",
+    "str_GoPro_ts": "00:07:53:02",
+    "end_GoPro_ts": "00:07:56:46",
+    "action_annotation": "place guyline",
+    "is_error": true,
+    "error_label_main": "0",
+    "error_annotation_main": "motor error",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when placing the guyline for the tent assembly?",
+        "answer": "I encountered a motor error, which likely means the mechanism to place the guyline was not functioning properly."
+      }
+    ],
+    "video_id": "2",
+    "start_time": 473.06666666666666,
+    "end_time": 477.53333333333336,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "2",
+    "action_label": "3",
+    "str_GoPro_ts": "00:03:56:59",
+    "end_GoPro_ts": "00:04:01:30",
+    "action_annotation": "insert support tab",
+    "is_error": true,
+    "error_label_main": "2",
+    "error_annotation_main": "steps out of order",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when assembling the tent?",
+        "answer": "I inserted the support tab before attaching the roof panel, which is out of order."
+      },
+      {
+        "question": "Why is inserting the support tab before attaching the roof panel incorrect?",
+        "answer": "The support tab should be inserted after the roof panel is attached to ensure proper alignment and stability of the tent structure."
+      },
+      {
+        "question": "What should I have done instead of inserting the support tab?",
+        "answer": "I should have first attached the roof panel to the tent frame before inserting the support tab into its designated slot."
+      }
+    ],
+    "video_id": "2",
+    "start_time": 237.96666666666667,
+    "end_time": 242.0,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "2",
+    "action_label": "2",
+    "str_GoPro_ts": "00:04:43:01",
+    "end_GoPro_ts": "00:06:12:13",
+    "action_annotation": "insert support",
+    "is_error": true,
+    "error_label_main": "2",
+    "error_annotation_main": "steps out of order",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when assembling the tent?",
+        "answer": "I inserted the support poles before setting up the tent frame, which is incorrect because the frame needs to be assembled first."
+      },
+      {
+        "question": "Why is inserting the support poles before setting up the tent frame incorrect?",
+        "answer": "Inserting the support poles before the frame can cause the poles to bend or break, as they need to fit into the pre-made slots in the frame."
+      },
+      {
+        "question": "What should I have done instead of inserting the support poles?",
+        "answer": "I should have first assembled the tent frame according to the instructions before inserting the support poles into their designated slots."
+      }
+    ],
+    "video_id": "2",
+    "start_time": 283.03333333333336,
+    "end_time": 372.43333333333334,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "2",
+    "action_label": "3",
+    "str_GoPro_ts": "00:04:06:34",
+    "end_GoPro_ts": "00:04:18:53",
+    "action_annotation": "insert support tab",
+    "is_error": true,
+    "error_label_main": "0",
+    "error_annotation_main": "motor error",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when inserting the support tab?",
+        "answer": "I encountered a motor error, which means the mechanism for inserting the support tab wasn't functioning correctly."
+      },
+      {
+        "question": "Why was inserting the support tab considered incorrect due to a motor error?",
+        "answer": "The motor error indicates that the device or mechanism responsible for guiding the support tab into place malfunctioned, preventing proper assembly."
+      },
+      {
+        "question": "What should I have done instead of trying to insert the support tab manually when there was a motor error?",
+        "answer": "I should have stopped the process, checked if the motor needed repair or replacement, and sought assistance or used an alternative method to complete the tent assembly."
+      }
+    ],
+    "video_id": "2",
+    "start_time": 247.13333333333333,
+    "end_time": 259.76666666666665,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "2",
+    "action_label": "9",
+    "str_GoPro_ts": "00:07:02:11",
+    "end_GoPro_ts": "00:07:21:51",
+    "action_annotation": "place guyline",
+    "is_error": true,
+    "error_label_main": "1",
+    "error_annotation_main": "misuse of equipment",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when placing the guyline for the tent assembly?",
+        "answer": "I misused the guyline by attaching it to the wrong anchor point, which could compromise the stability of the tent."
+      },
+      {
+        "question": "Did I attach the guyline to the correct spot during the tent assembly process?",
+        "answer": "No, I mistakenly attached the guyline to an inappropriate anchor point, leading to potential instability."
+      }
+    ],
+    "video_id": "2",
+    "start_time": 422.3666666666667,
+    "end_time": 442.7,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "2",
+    "action_label": "9",
+    "str_GoPro_ts": "00:07:45:01",
+    "end_GoPro_ts": "00:08:06:57",
+    "action_annotation": "place guyline",
+    "is_error": true,
+    "error_label_main": "1",
+    "error_annotation_main": "misuse of equipment",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when placing the guyline for the tent assembly?",
+        "answer": "I misused the guyline by attaching it to the wrong anchor point, which could compromise the stability of the tent."
+      },
+      {
+        "question": "Did I attach the guyline to the correct spot during the tent assembly process?",
+        "answer": "No, I mistakenly attached the guyline to an inappropriate anchor point, leading to potential instability."
+      }
+    ],
+    "video_id": "2",
+    "start_time": 465.03333333333336,
+    "end_time": 487.9,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "2",
+    "action_label": "8",
+    "str_GoPro_ts": "00:08:39:02",
+    "end_GoPro_ts": "00:09:29:46",
+    "action_annotation": "pickup/place ventcover",
+    "is_error": true,
+    "error_label_main": "1",
+    "error_annotation_main": "misuse of equipment",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when picking up the ventcover?",
+        "answer": "You misused the equipment by not handling the ventcover properly, which could damage it."
+      },
+      {
+        "question": "What should I have done instead when placing the ventcover?",
+        "answer": "You should have used the correct technique to place the ventcover securely, ensuring it fits properly without any damage to the material."
+      }
+    ],
+    "video_id": "2",
+    "start_time": 519.0666666666667,
+    "end_time": 570.5333333333333,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "4",
+    "action_label": "3",
+    "str_GoPro_ts": "00:03:24:03",
+    "end_GoPro_ts": "00:03:26:27",
+    "action_annotation": "insert support tab",
+    "is_error": true,
+    "error_label_main": "0",
+    "error_annotation_main": "motor error",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when inserting the support tab?",
+        "answer": "I encountered a motor error, which means the mechanism for inserting the support tab wasn't functioning correctly."
+      },
+      {
+        "question": "Why was inserting the support tab considered incorrect due to a motor error?",
+        "answer": "The motor error indicates that the device or mechanism responsible for guiding the support tab into place malfunctioned, preventing proper assembly."
+      },
+      {
+        "question": "What should I have done instead of trying to insert the support tab manually when there was a motor error?",
+        "answer": "I should have stopped the process, checked if the motor needed repair or replacement, and sought assistance or used an alternative method to complete the tent assembly."
+      }
+    ],
+    "video_id": "4",
+    "start_time": 204.1,
+    "end_time": 206.9,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "4",
+    "action_label": "9",
+    "str_GoPro_ts": "00:05:57:58",
+    "end_GoPro_ts": "00:06:29:11",
+    "action_annotation": "place guyline",
+    "is_error": true,
+    "error_label_main": "1",
+    "error_annotation_main": "misuse of equipment",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when placing the guyline for the tent assembly?",
+        "answer": "I misused the guyline by attaching it to the wrong anchor point, which could compromise the stability of the tent."
+      },
+      {
+        "question": "Did I attach the guyline to the correct spot during the tent assembly process?",
+        "answer": "No, I mistakenly attached the guyline to an inappropriate anchor point, leading to potential instability."
+      }
+    ],
+    "video_id": "4",
+    "start_time": 358.93333333333334,
+    "end_time": 389.3666666666667,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "4",
+    "action_label": "9",
+    "str_GoPro_ts": "00:08:26:29",
+    "end_GoPro_ts": "00:08:46:42",
+    "action_annotation": "place guyline",
+    "is_error": true,
+    "error_label_main": "1",
+    "error_annotation_main": "misuse of equipment",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when placing the guyline for the tent assembly?",
+        "answer": "I misused the guyline by attaching it to the wrong anchor point, which could compromise the stability of the tent."
+      },
+      {
+        "question": "Did I attach the guyline to the correct spot during the tent assembly process?",
+        "answer": "No, I mistakenly attached the guyline to an inappropriate anchor point, leading to potential instability."
+      },
+      {
+        "question": "Have I completed the step of placing the guyline?",
+        "answer": "No, you used the wrong equipment."
+      }
+    ],
+    "video_id": "4",
+    "start_time": 506.96666666666664,
+    "end_time": 527.4,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "4",
+    "action_label": "9",
+    "str_GoPro_ts": "00:09:20:00",
+    "end_GoPro_ts": "00:10:11:16",
+    "action_annotation": "place guyline",
+    "is_error": true,
+    "error_label_main": "1",
+    "error_annotation_main": "misuse of equipment",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when placing the guyline for the tent assembly?",
+        "answer": "I misused the guyline by attaching it to the wrong anchor point, which could compromise the stability of the tent."
+      },
+      {
+        "question": "Did I attach the guyline to the correct spot during the tent assembly process?",
+        "answer": "No, I mistakenly attached the guyline to an inappropriate anchor point, leading to potential instability."
+      },
+      {
+        "question": "Have I completed the step of placing the guyline?",
+        "answer": "No, you used the wrong equipment."
+      }
+    ],
+    "video_id": "4",
+    "start_time": 560.0,
+    "end_time": 611.5333333333333,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "4",
+    "action_label": "9",
+    "str_GoPro_ts": "00:10:27:37",
+    "end_GoPro_ts": "00:10:53:02",
+    "action_annotation": "place guyline",
+    "is_error": true,
+    "error_label_main": "3",
+    "error_annotation_main": "equipment failure",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when placing the guyline for the tent assembly?",
+        "answer": "I experienced equipment failure, which means the guyline might not have been properly attached or may have broken during use."
+      }
+    ],
+    "video_id": "4",
+    "start_time": 628.2333333333333,
+    "end_time": 653.0666666666667,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "4",
+    "action_label": "3",
+    "str_GoPro_ts": "00:03:25:23",
+    "end_GoPro_ts": "00:03:27:27",
+    "action_annotation": "insert support tab",
+    "is_error": true,
+    "error_label_main": "0",
+    "error_annotation_main": "motor error",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when inserting the support tab?",
+        "answer": "I encountered a motor error, which means the mechanism for inserting the support tab wasn't functioning correctly."
+      },
+      {
+        "question": "Why was inserting the support tab considered incorrect due to a motor error?",
+        "answer": "The motor error indicates that the device or mechanism responsible for guiding the support tab into place malfunctioned, preventing proper assembly."
+      },
+      {
+        "question": "What should I have done instead of trying to insert the support tab manually when there was a motor error?",
+        "answer": "I should have stopped the process, checked if the motor needed repair or replacement, and sought assistance or used an alternative method to complete the tent assembly."
+      }
+    ],
+    "video_id": "4",
+    "start_time": 205.76666666666668,
+    "end_time": 207.9,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "4",
+    "action_label": "1",
+    "str_GoPro_ts": "00:07:44:54",
+    "end_GoPro_ts": "00:07:54:49",
+    "action_annotation": "insert stake",
+    "is_error": true,
+    "error_label_main": "0",
+    "error_annotation_main": "motor error",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when inserting the stake?",
+        "answer": "You encountered a motor error, which likely means the motorized assembly tool malfunctioned or was improperly used."
+      },
+      {
+        "question": "Were there any abnormal situations when placing the guyline?",
+        "answer": "Yes, there was a motor error."
+      }
+    ],
+    "video_id": "4",
+    "start_time": 465.8,
+    "end_time": 475.6333333333333,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "4",
+    "action_label": "9",
+    "str_GoPro_ts": "00:09:42:10",
+    "end_GoPro_ts": "00:10:02:22",
+    "action_annotation": "place guyline",
+    "is_error": true,
+    "error_label_main": "3",
+    "error_annotation_main": "equipment failure",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when placing the guyline for the tent assembly?",
+        "answer": "I experienced equipment failure, which means the guyline might not have been properly attached or may have broken during use."
+      },
+      {
+        "question": "Why was it incorrect to place the guyline during the tent assembly process?",
+        "answer": "The equipment failure indicates that the guyline was either damaged or malfunctioned, making it ineffective for securing the tent properly."
+      },
+      {
+        "question": "What should I have done instead of trying to place the guyline when there was equipment failure?",
+        "answer": "I should have checked the condition of the guyline before attempting to use it and replaced it with a functional one if necessary."
+      }
+    ],
+    "video_id": "4",
+    "start_time": 582.3333333333334,
+    "end_time": 602.7333333333333,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "4",
+    "action_label": "9",
+    "str_GoPro_ts": "00:12:00:23",
+    "end_GoPro_ts": "00:12:00:25",
+    "action_annotation": "place guyline",
+    "is_error": true,
+    "error_label_main": "4",
+    "error_annotation_main": "omission of a step",
+    "qa_pairs": [
+      {
+        "question": "Did I forget to attach the guyline to the tent pole and stake?",
+        "answer": "Yes, you should have attached the guyline to both the tent pole and a stake to secure the tent properly."
+      },
+      {
+        "question": "What did I do wrong when assembling the tent?",
+        "answer": "I omitted the step of placing the guyline, which is crucial for stabilizing the tent and preventing it from being blown away by strong winds."
+      }
+    ],
+    "video_id": "4",
+    "start_time": 720.7666666666667,
+    "end_time": 720.8333333333334,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "4",
+    "action_label": "9",
+    "str_GoPro_ts": "00:12:00:23",
+    "end_GoPro_ts": "00:12:00:25",
+    "action_annotation": "place guyline",
+    "is_error": true,
+    "error_label_main": "4",
+    "error_annotation_main": "omission of a step",
+    "qa_pairs": [
+      {
+        "question": "Did I forget to attach the guyline to the tent pole and stake?",
+        "answer": "Yes, you should have attached the guyline to both the tent pole and a stake to secure the tent properly."
+      },
+      {
+        "question": "What did I do wrong when assembling the tent?",
+        "answer": "I omitted the step of placing the guyline, which is crucial for stabilizing the tent and preventing it from being blown away by strong winds."
+      }
+    ],
+    "video_id": "4",
+    "start_time": 720.7666666666667,
+    "end_time": 720.8333333333334,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "4",
+    "action_label": "3",
+    "str_GoPro_ts": "00:03:01:30",
+    "end_GoPro_ts": "00:03:08:55",
+    "action_annotation": "insert support tab",
+    "is_error": true,
+    "error_label_main": "2",
+    "error_annotation_main": "steps out of order",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when assembling the tent?",
+        "answer": "I inserted the support tab before attaching the roof panel, which is out of order."
+      },
+      {
+        "question": "What should I have done instead of inserting the support tab?",
+        "answer": "I should have first attached the roof panel to the tent frame before inserting the support tab into its designated slot."
+      }
+    ],
+    "video_id": "4",
+    "start_time": 182.0,
+    "end_time": 189.83333333333334,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "4",
+    "action_label": "3",
+    "str_GoPro_ts": "00:03:16:04",
+    "end_GoPro_ts": "00:03:27:51",
+    "action_annotation": "insert support tab",
+    "is_error": true,
+    "error_label_main": "2",
+    "error_annotation_main": "steps out of order",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when assembling the tent?",
+        "answer": "I inserted the support tab before attaching the roof panel, which is out of order."
+      },
+      {
+        "question": "Why is inserting the support tab before attaching the roof panel incorrect?",
+        "answer": "The support tab should be inserted after the roof panel is attached to ensure proper alignment and stability of the tent structure."
+      },
+      {
+        "question": "What should I have done instead of inserting the support tab?",
+        "answer": "I should have first attached the roof panel to the tent frame before inserting the support tab into its designated slot."
+      }
+    ],
+    "video_id": "4",
+    "start_time": 196.13333333333333,
+    "end_time": 208.7,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "4",
+    "action_label": "2",
+    "str_GoPro_ts": "00:03:32:34",
+    "end_GoPro_ts": "00:04:58:19",
+    "action_annotation": "insert support",
+    "is_error": true,
+    "error_label_main": "2",
+    "error_annotation_main": "steps out of order",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when assembling the tent?",
+        "answer": "I inserted the support poles before setting up the tent frame, which is incorrect because the frame needs to be assembled first."
+      },
+      {
+        "question": "Why is inserting the support poles before setting up the tent frame incorrect?",
+        "answer": "Inserting the support poles before the frame can cause the poles to bend or break, as they need to fit into the pre-made slots in the frame."
+      },
+      {
+        "question": "What should I have done instead of inserting the support poles?",
+        "answer": "I should have first assembled the tent frame according to the instructions before inserting the support poles into their designated slots."
+      }
+    ],
+    "video_id": "4",
+    "start_time": 213.13333333333333,
+    "end_time": 298.6333333333333,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "4",
+    "action_label": "3",
+    "str_GoPro_ts": "00:04:58:47",
+    "end_GoPro_ts": "00:05:02:08",
+    "action_annotation": "insert support tab",
+    "is_error": true,
+    "error_label_main": "2",
+    "error_annotation_main": "steps out of order",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when assembling the tent?",
+        "answer": "I inserted the support tab before attaching the roof panel, which is out of order."
+      },
+      {
+        "question": "Why is inserting the support tab before attaching the roof panel incorrect?",
+        "answer": "The support tab should be inserted after the roof panel is attached to ensure proper alignment and stability of the tent structure."
+      },
+      {
+        "question": "What should I have done instead of inserting the support tab?",
+        "answer": "I should have first attached the roof panel to the tent frame before inserting the support tab into its designated slot."
+      }
+    ],
+    "video_id": "4",
+    "start_time": 299.56666666666666,
+    "end_time": 302.26666666666665,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "4",
+    "action_label": "3",
+    "str_GoPro_ts": "00:05:07:34",
+    "end_GoPro_ts": "00:05:15:17",
+    "action_annotation": "insert support tab",
+    "is_error": true,
+    "error_label_main": "2",
+    "error_annotation_main": "steps out of order",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when assembling the tent?",
+        "answer": "I inserted the support tab before attaching the roof panel, which is out of order."
+      },
+      {
+        "question": "Why is inserting the support tab before attaching the roof panel incorrect?",
+        "answer": "The support tab should be inserted after the roof panel is attached to ensure proper alignment and stability of the tent structure."
+      },
+      {
+        "question": "What should I have done instead of inserting the support tab?",
+        "answer": "I should have first attached the roof panel to the tent frame before inserting the support tab into its designated slot."
+      }
+    ],
+    "video_id": "4",
+    "start_time": 308.1333333333333,
+    "end_time": 315.56666666666666,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "4",
+    "action_label": "9",
+    "str_GoPro_ts": "00:05:52:22",
+    "end_GoPro_ts": "00:07:10:59",
+    "action_annotation": "place guyline",
+    "is_error": true,
+    "error_label_main": "1",
+    "error_annotation_main": "misuse of equipment",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when placing the guyline for the tent assembly?",
+        "answer": "I misused the guyline by attaching it to the wrong anchor point, which could compromise the stability of the tent."
+      },
+      {
+        "question": "Did I attach the guyline to the correct spot during the tent assembly process?",
+        "answer": "No, I mistakenly attached the guyline to an inappropriate anchor point, leading to potential instability."
+      }
+    ],
+    "video_id": "4",
+    "start_time": 352.73333333333335,
+    "end_time": 431.96666666666664,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "4",
+    "action_label": "9",
+    "str_GoPro_ts": "00:05:52:22",
+    "end_GoPro_ts": "00:07:10:59",
+    "action_annotation": "place guyline",
+    "is_error": true,
+    "error_label_main": "2",
+    "error_annotation_main": "steps out of order",
+    "qa_pairs": [
+      {
+        "question": "Did I forget to attach the guyline to the correct points on the tent and stake it into the ground?",
+        "answer": "No, you placed the guyline before attaching the tent to its poles, which is incorrect because the tent structure needs to be fully assembled first."
+      },
+      {
+        "question": "What did I do wrong when assembling the tent's guyline?",
+        "answer": "I should have waited until the tent frame was completely set up and all poles were properly attached before placing the guyline."
+      },
+      {
+        "question": "Why is it important to assemble the tent frame before placing the guyline?",
+        "answer": "It ensures the tent is stable and the guyline can provide additional support without compromising the integrity of the tent structure."
+      }
+    ],
+    "video_id": "4",
+    "start_time": 352.73333333333335,
+    "end_time": 431.96666666666664,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "3",
+    "str_GoPro_ts": "00:05:33:18",
+    "end_GoPro_ts": "00:05:37:58",
+    "action_annotation": "insert support tab",
+    "is_error": true,
+    "error_label_main": "0",
+    "error_annotation_main": "motor error",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when inserting the support tab?",
+        "answer": "I encountered a motor error, which means the mechanism for inserting the support tab wasn't functioning correctly."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 333.6,
+    "end_time": 338.93333333333334,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "3",
+    "str_GoPro_ts": "00:06:58:28",
+    "end_GoPro_ts": "00:07:01:31",
+    "action_annotation": "insert support tab",
+    "is_error": true,
+    "error_label_main": "0",
+    "error_annotation_main": "motor error",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when inserting the support tab?",
+        "answer": "I encountered a motor error, which means the mechanism for inserting the support tab wasn't functioning correctly."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 418.93333333333334,
+    "end_time": 422.03333333333336,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "9",
+    "str_GoPro_ts": "00:09:27:51",
+    "end_GoPro_ts": "00:09:40:39",
+    "action_annotation": "place guyline",
+    "is_error": true,
+    "error_label_main": "0",
+    "error_annotation_main": "motor error",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when placing the guyline for the tent assembly?",
+        "answer": "I encountered a motor error, which likely means the mechanism to place the guyline was not functioning properly."
+      },
+      {
+        "question": "Were there any abnormal situations when placing the guyline?",
+        "answer": "Yes, there was a motor error."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 568.7,
+    "end_time": 581.3,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "2",
+    "str_GoPro_ts": "00:03:10:30",
+    "end_GoPro_ts": "00:03:15:49",
+    "action_annotation": "insert support",
+    "is_error": true,
+    "error_label_main": "0",
+    "error_annotation_main": "motor error",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when assembling the tent support?",
+        "answer": "I encountered a motor error, which means I likely tried to use an electric motor to insert the support poles instead of manually inserting them."
+      },
+      {
+        "question": "Were there any abnormal situations when assembling the tent support?",
+        "answer": "Yes, there was a motor error."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 191.0,
+    "end_time": 196.63333333333333,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "2",
+    "str_GoPro_ts": "00:04:35:03",
+    "end_GoPro_ts": "00:04:41:36",
+    "action_annotation": "insert support",
+    "is_error": true,
+    "error_label_main": "0",
+    "error_annotation_main": "motor error",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when assembling the tent support?",
+        "answer": "I encountered a motor error, which means I likely tried to use an electric motor to insert the support poles instead of manually inserting them."
+      },
+      {
+        "question": "Were there any abnormal situations when assembling the tent support?",
+        "answer": "Yes, there was a motor error."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 275.1,
+    "end_time": 282.2,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "3",
+    "str_GoPro_ts": "00:05:34:57",
+    "end_GoPro_ts": "00:05:38:06",
+    "action_annotation": "insert support tab",
+    "is_error": true,
+    "error_label_main": "0",
+    "error_annotation_main": "motor error",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when inserting the support tab?",
+        "answer": "I encountered a motor error, which means the mechanism for inserting the support tab wasn't functioning correctly."
+      },
+      {
+        "question": "Were there any abnormal situations when inserting the support tab?",
+        "answer": "Yes, there was a motor error."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 335.9,
+    "end_time": 338.2,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "3",
+    "str_GoPro_ts": "00:06:59:32",
+    "end_GoPro_ts": "00:07:03:35",
+    "action_annotation": "insert support tab",
+    "is_error": true,
+    "error_label_main": "0",
+    "error_annotation_main": "motor error",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when inserting the support tab?",
+        "answer": "I encountered a motor error, which means the mechanism for inserting the support tab wasn't functioning correctly."
+      },
+      {
+        "question": "Were there any abnormal situations when inserting the support tab?",
+        "answer": "Yes, there was a motor error."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 420.06666666666666,
+    "end_time": 424.1666666666667,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "9",
+    "str_GoPro_ts": "00:09:29:16",
+    "end_GoPro_ts": "00:09:41:31",
+    "action_annotation": "place guyline",
+    "is_error": true,
+    "error_label_main": "0",
+    "error_annotation_main": "motor error",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when placing the guyline for the tent assembly?",
+        "answer": "I encountered a motor error, which likely means the mechanism to place the guyline was not functioning properly."
+      },
+      {
+        "question": "Have I completed the step of placing the guyline?",
+        "answer": "No, it is not complete because a motor error occurred."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 569.5333333333333,
+    "end_time": 582.0333333333333,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "9",
+    "str_GoPro_ts": "00:09:50:00",
+    "end_GoPro_ts": "00:09:57:01",
+    "action_annotation": "place guyline",
+    "is_error": true,
+    "error_label_main": "4",
+    "error_annotation_main": "omission of a step",
+    "qa_pairs": [
+      {
+        "question": "Did I forget to attach the guyline to the tent pole and stake?",
+        "answer": "Yes, you should have attached the guyline to both the tent pole and a stake to secure the tent properly."
+      },
+      {
+        "question": "What did I do wrong when assembling the tent?",
+        "answer": "I omitted the step of placing the guyline, which is crucial for stabilizing the tent and preventing it from being blown away by strong winds."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 590.0,
+    "end_time": 597.0333333333333,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "9",
+    "str_GoPro_ts": "00:09:50:00",
+    "end_GoPro_ts": "00:09:57:01",
+    "action_annotation": "place guyline",
+    "is_error": true,
+    "error_label_main": "4",
+    "error_annotation_main": "omission of a step",
+    "qa_pairs": [
+      {
+        "question": "Did I forget to attach the guyline to the tent pole and stake?",
+        "answer": "Yes, you should have attached the guyline to both the tent pole and a stake to secure the tent properly."
+      },
+      {
+        "question": "What did I do wrong?",
+        "answer": "I omitted the step of placing the guyline, which is crucial for stabilizing the tent and preventing it from being blown away by strong winds."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 590.0,
+    "end_time": 597.0333333333333,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "3",
+    "str_GoPro_ts": "00:04:11:55",
+    "end_GoPro_ts": "00:04:14:19",
+    "action_annotation": "insert support tab",
+    "is_error": true,
+    "error_label_main": "6",
+    "error_annotation_main": "correction of a prior error",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when inserting the support tab?",
+        "answer": "I inserted the support tab in the wrong slot, which is incorrect because it needs to be placed in the designated hole for proper support."
+      },
+      {
+        "question": "Why was it incorrect to insert the support tab in the wrong slot?",
+        "answer": "It was incorrect because the support tab needs to be aligned with the correct slot to ensure the tent's structure remains stable and secure."
+      },
+      {
+        "question": "What should I have done instead when inserting the support tab?",
+        "answer": "I should have carefully aligned the support tab with the designated slot before pushing it in to ensure the tent's stability."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 252.83333333333334,
+    "end_time": 254.63333333333333,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "3",
+    "str_GoPro_ts": "00:03:21:28",
+    "end_GoPro_ts": "00:03:26:58",
+    "action_annotation": "insert support tab",
+    "is_error": true,
+    "error_label_main": "2",
+    "error_annotation_main": "steps out of order",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when assembling the tent?",
+        "answer": "I inserted the support tab before attaching the roof panel, which is out of order."
+      },
+      {
+        "question": "What should I have done instead of inserting the support tab?",
+        "answer": "I should have first attached the roof panel to the tent frame before inserting the support tab into its designated slot."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 201.93333333333334,
+    "end_time": 207.93333333333334,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "3",
+    "str_GoPro_ts": "00:03:32:01",
+    "end_GoPro_ts": "00:04:06:49",
+    "action_annotation": "insert support tab",
+    "is_error": true,
+    "error_label_main": "2",
+    "error_annotation_main": "steps out of order",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when assembling the tent?",
+        "answer": "I inserted the support tab before attaching the roof panel, which is out of order."
+      },
+      {
+        "question": "What should I have done instead of inserting the support tab?",
+        "answer": "I should have first attached the roof panel to the tent frame before inserting the support tab into its designated slot."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 212.03333333333333,
+    "end_time": 247.63333333333333,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "-1",
+    "str_GoPro_ts": "00:07:26:29",
+    "end_GoPro_ts": "00:07:34:49",
+    "action_annotation": "unknown action",
+    "is_error": true,
+    "error_label_main": "5",
+    "error_annotation_main": "searching for an item",
+    "qa_pairs": [
+      {
+        "question": "Did I forget to check if all the tent poles were included before starting assembly?",
+        "answer": "No, you should have checked the contents of the kit against the list provided to ensure all necessary items were present."
+      },
+      {
+        "question": "What am I doing now?",
+        "answer": "You are searching for an item in order to pitch the tent better."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 446.96666666666664,
+    "end_time": 455.6333333333333,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "-1",
+    "str_GoPro_ts": "00:07:43:36",
+    "end_GoPro_ts": "00:07:48:51",
+    "action_annotation": "unknown action",
+    "is_error": true,
+    "error_label_main": "5",
+    "error_annotation_main": "searching for an item",
+    "qa_pairs": [
+      {
+        "question": "Did I forget to check if all the tent poles were included before starting assembly?",
+        "answer": "No, you should have checked the contents of the kit against the list provided to ensure all necessary items were present."
+      },
+      {
+        "question": "What am I doing now?",
+        "answer": "You are searching for an item in order to pitch the tent better."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 464.2,
+    "end_time": 469.7,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "5",
+    "action_label": "-1",
+    "str_GoPro_ts": "00:07:52:29",
+    "end_GoPro_ts": "00:08:00:36",
+    "action_annotation": "unknown action",
+    "is_error": true,
+    "error_label_main": "5",
+    "error_annotation_main": "searching for an item",
+    "qa_pairs": [
+      {
+        "question": "Did I forget to check if all the tent poles were included before starting assembly?",
+        "answer": "No, you should have checked the contents of the kit against the list provided to ensure all necessary items were present."
+      },
+      {
+        "question": "What am I doing now?",
+        "answer": "You are searching for an item in order to pitch the tent better."
+      }
+    ],
+    "video_id": "5",
+    "start_time": 472.96666666666664,
+    "end_time": 481.2,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "3",
+    "str_GoPro_ts": "00:03:05:15",
+    "end_GoPro_ts": "00:03:06:37",
+    "action_annotation": "insert support tab",
+    "is_error": true,
+    "error_label_main": "0",
+    "error_annotation_main": "motor error",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when inserting the support tab?",
+        "answer": "I encountered a motor error, which means the mechanism for inserting the support tab wasn't functioning correctly."
+      },
+      {
+        "question": "Have I completed the step of placing the guyline?",
+        "answer": "No, it is not complete because a motor error occurred."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 185.5,
+    "end_time": 187.23333333333332,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "3",
+    "str_GoPro_ts": "00:03:24:40",
+    "end_GoPro_ts": "00:03:25:58",
+    "action_annotation": "insert support tab",
+    "is_error": true,
+    "error_label_main": "0",
+    "error_annotation_main": "motor error",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when inserting the support tab?",
+        "answer": "I encountered a motor error, which means the mechanism for inserting the support tab wasn't functioning correctly."
+      },
+      {
+        "question": "Have I completed the step of inserting the support tab?",
+        "answer": "No, it is not complete because a motor error occurred."
+      },
+      {
+        "question": "Did I encounter some unexpected situations when inserting the support tab?",
+        "answer": "Yes, a motor error has occurred."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 205.33333333333334,
+    "end_time": 206.93333333333334,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "8",
+    "str_GoPro_ts": "00:03:37:18",
+    "end_GoPro_ts": "00:03:44:20",
+    "action_annotation": "pickup/place ventcover",
+    "is_error": true,
+    "error_label_main": "1",
+    "error_annotation_main": "misuse of equipment",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when picking up the ventcover?",
+        "answer": "You misused the equipment by not handling the ventcover properly, which could damage it."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 217.6,
+    "end_time": 224.66666666666666,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "9",
+    "str_GoPro_ts": "00:06:23:34",
+    "end_GoPro_ts": "00:06:37:08",
+    "action_annotation": "place guyline",
+    "is_error": true,
+    "error_label_main": "3",
+    "error_annotation_main": "equipment failure",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when placing the guyline for the tent assembly?",
+        "answer": "I experienced equipment failure, which means the guyline might not have been properly attached or may have broken during use."
+      },
+      {
+        "question": "Why was it incorrect to place the guyline during the tent assembly process?",
+        "answer": "The equipment failure indicates that the guyline was either damaged or malfunctioned, making it ineffective for securing the tent properly."
+      },
+      {
+        "question": "Did I reverse the order of the steps when placing the guideline? If not, was this step done correctly?",
+        "answer": "No, but that's not correct. There was equipment failure."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 384.1333333333333,
+    "end_time": 397.26666666666665,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "9",
+    "str_GoPro_ts": "00:07:07:34",
+    "end_GoPro_ts": "00:07:24:14",
+    "action_annotation": "place guyline",
+    "is_error": true,
+    "error_label_main": "3",
+    "error_annotation_main": "equipment failure",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when placing the guyline for the tent assembly?",
+        "answer": "I experienced equipment failure, which means the guyline might not have been properly attached or may have broken during use."
+      },
+      {
+        "question": "Did I complete the place guyline step thoroughly?",
+        "answer": "No, it is not complete because equipment failure occurred."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 428.1333333333333,
+    "end_time": 444.46666666666664,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "2",
+    "str_GoPro_ts": "00:01:33:14",
+    "end_GoPro_ts": "00:01:34:08",
+    "action_annotation": "insert support",
+    "is_error": true,
+    "error_label_main": "0",
+    "error_annotation_main": "motor error",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when assembling the tent support?",
+        "answer": "I encountered a motor error, which means I likely tried to use an electric motor to insert the support poles instead of manually inserting them."
+      },
+      {
+        "question": "Did I encounter some unexpected situations when inserting support?",
+        "answer": "Yes, a motor error has occurred."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 93.46666666666667,
+    "end_time": 94.26666666666667,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "2",
+    "str_GoPro_ts": "00:01:37:54",
+    "end_GoPro_ts": "00:01:40:04",
+    "action_annotation": "insert support",
+    "is_error": true,
+    "error_label_main": "0",
+    "error_annotation_main": "motor error",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when assembling the tent support?",
+        "answer": "I encountered a motor error, which means I likely tried to use an electric motor to insert the support poles instead of manually inserting them."
+      },
+      {
+        "question": "Did I encounter some unexpected situations when inserting support?",
+        "answer": "Yes, a motor error has occurred."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 98.8,
+    "end_time": 100.13333333333334,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "3",
+    "str_GoPro_ts": "00:03:05:39",
+    "end_GoPro_ts": "00:03:07:39",
+    "action_annotation": "insert support tab",
+    "is_error": true,
+    "error_label_main": "0",
+    "error_annotation_main": "motor error",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when inserting the support tab?",
+        "answer": "I encountered a motor error, which means the mechanism for inserting the support tab wasn't functioning correctly."
+      },
+      {
+        "question": "Did I encounter some unexpected situations when inserting the support tab?",
+        "answer": "Yes, a motor error has occurred."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 186.3,
+    "end_time": 188.3,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "3",
+    "str_GoPro_ts": "00:03:25:42",
+    "end_GoPro_ts": "00:03:27:42",
+    "action_annotation": "insert support tab",
+    "is_error": true,
+    "error_label_main": "0",
+    "error_annotation_main": "motor error",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when inserting the support tab?",
+        "answer": "I encountered a motor error, which means the mechanism for inserting the support tab wasn't functioning correctly."
+      },
+      {
+        "question": "Did I encounter some unexpected situations when inserting the support tab?",
+        "answer": "Yes, a motor error has occurred."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 206.4,
+    "end_time": 208.4,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "9",
+    "str_GoPro_ts": "00:06:24:45",
+    "end_GoPro_ts": "00:06:38:16",
+    "action_annotation": "place guyline",
+    "is_error": true,
+    "error_label_main": "3",
+    "error_annotation_main": "equipment failure",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when placing the guyline for the tent assembly?",
+        "answer": "I experienced equipment failure, which means the guyline might not have been properly attached or may have broken during use."
+      },
+      {
+        "question": "Why was it incorrect to place the guyline during the tent assembly process?",
+        "answer": "The equipment failure indicates that the guyline was either damaged or malfunctioned, making it ineffective for securing the tent properly."
+      },
+      {
+        "question": "What should I have done instead of trying to place the guyline when there was equipment failure?",
+        "answer": "I should have checked the condition of the guyline before attempting to use it and replaced it with a functional one if necessary."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 385.5,
+    "end_time": 398.53333333333336,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "9",
+    "str_GoPro_ts": "00:07:08:58",
+    "end_GoPro_ts": "00:07:25:04",
+    "action_annotation": "place guyline",
+    "is_error": true,
+    "error_label_main": "3",
+    "error_annotation_main": "equipment failure",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when placing the guyline for the tent assembly?",
+        "answer": "I experienced equipment failure, which means the guyline might not have been properly attached or may have broken during use."
+      },
+      {
+        "question": "Why was it incorrect to place the guyline during the tent assembly process?",
+        "answer": "The equipment failure indicates that the guyline was either damaged or malfunctioned, making it ineffective for securing the tent properly."
+      },
+      {
+        "question": "What should I have done instead of trying to place the guyline when there was equipment failure?",
+        "answer": "I should have checked the condition of the guyline before attempting to use it and replaced it with a functional one if necessary."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 429.93333333333334,
+    "end_time": 445.1333333333333,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "9",
+    "str_GoPro_ts": "00:07:04:24",
+    "end_GoPro_ts": "00:07:24:36",
+    "action_annotation": "place guyline",
+    "is_error": true,
+    "error_label_main": "4",
+    "error_annotation_main": "omission of a step",
+    "qa_pairs": [
+      {
+        "question": "Did I forget to attach the guyline to the tent pole and stake?",
+        "answer": "Yes, you should have attached the guyline to both the tent pole and a stake to secure the tent properly."
+      },
+      {
+        "question": "What did I do wrong when assembling the tent?",
+        "answer": "I omitted the step of placing the guyline, which is crucial for stabilizing the tent and preventing it from being blown away by strong winds."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 424.8,
+    "end_time": 445.2,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "8",
+    "str_GoPro_ts": "00:03:29:22",
+    "end_GoPro_ts": "00:04:01:48",
+    "action_annotation": "pickup/place ventcover",
+    "is_error": true,
+    "error_label_main": "1",
+    "error_annotation_main": "misuse of equipment",
+    "qa_pairs": [
+      {
+        "question": "What did I do wrong when picking up the ventcover?",
+        "answer": "You misused the equipment by not handling the ventcover properly, which could damage it."
+      },
+      {
+        "question": "Did I do something wrong when placing the ventcover?",
+        "answer": "Yes, you should have used the correct technique to place the ventcover securely, ensuring it fits properly without any damage to the material."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 209.73333333333332,
+    "end_time": 242.6,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "8",
+    "str_GoPro_ts": "00:03:29:22",
+    "end_GoPro_ts": "00:04:01:48",
+    "action_annotation": "pickup/place ventcover",
+    "is_error": true,
+    "error_label_main": "2",
+    "error_annotation_main": "steps out of order",
+    "qa_pairs": [
+      {
+        "question": "Did I place the vent cover before assembling the tent frame?",
+        "answer": "No, you should have assembled the tent frame first before placing the vent cover."
+      },
+      {
+        "question": "What did I do wrong by stepping out of order?",
+        "answer": "By placing the vent cover before assembling the tent frame, you risked damaging the vent cover or the tent structure."
+      },
+      {
+        "question": "What should I have done instead when assembling the tent?",
+        "answer": "I should have started by setting up the tent frame and then placed the vent cover once the frame was fully assembled."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 209.73333333333332,
+    "end_time": 242.6,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "9",
+    "str_GoPro_ts": "00:04:08:59",
+    "end_GoPro_ts": "00:04:34:59",
+    "action_annotation": "place guyline",
+    "is_error": true,
+    "error_label_main": "2",
+    "error_annotation_main": "steps out of order",
+    "qa_pairs": [
+      {
+        "question": "Did I forget to attach the guyline to the correct points on the tent and stake it into the ground?",
+        "answer": "No, you placed the guyline before attaching the tent to its poles, which is incorrect because the tent structure needs to be fully assembled first."
+      },
+      {
+        "question": "What did I do wrong when assembling the tent's guyline?",
+        "answer": "I should have waited until the tent frame was completely set up and all poles were properly attached before placing the guyline."
+      },
+      {
+        "question": "Why is it important to assemble the tent frame before placing the guyline?",
+        "answer": "It ensures the tent is stable and the guyline can provide additional support without compromising the integrity of the tent structure."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 249.96666666666667,
+    "end_time": 275.96666666666664,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "9",
+    "str_GoPro_ts": "00:04:38:39",
+    "end_GoPro_ts": "00:04:52:13",
+    "action_annotation": "place guyline",
+    "is_error": true,
+    "error_label_main": "2",
+    "error_annotation_main": "steps out of order",
+    "qa_pairs": [
+      {
+        "question": "Did I forget to attach the guyline to the correct points on the tent and stake it into the ground?",
+        "answer": "No, you placed the guyline before attaching the tent to its poles, which is incorrect because the tent structure needs to be fully assembled first."
+      },
+      {
+        "question": "What did I do wrong when assembling the tent's guyline?",
+        "answer": "I should have waited until the tent frame was completely set up and all poles were properly attached before placing the guyline."
+      },
+      {
+        "question": "Why is it important to assemble the tent frame before placing the guyline?",
+        "answer": "It ensures the tent is stable and the guyline can provide additional support without compromising the integrity of the tent structure."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 279.3,
+    "end_time": 292.43333333333334,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "9",
+    "str_GoPro_ts": "00:05:29:24",
+    "end_GoPro_ts": "00:05:43:32",
+    "action_annotation": "place guyline",
+    "is_error": true,
+    "error_label_main": "2",
+    "error_annotation_main": "steps out of order",
+    "qa_pairs": [
+      {
+        "question": "Did I forget to attach the guyline to the correct points on the tent and stake it into the ground?",
+        "answer": "No, you placed the guyline before attaching the tent to its poles, which is incorrect because the tent structure needs to be fully assembled first."
+      },
+      {
+        "question": "What did I do wrong when assembling the tent's guyline?",
+        "answer": "I should have waited until the tent frame was completely set up and all poles were properly attached before placing the guyline."
+      },
+      {
+        "question": "Why is it important to assemble the tent frame before placing the guyline?",
+        "answer": "It ensures the tent is stable and the guyline can provide additional support without compromising the integrity of the tent structure."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 329.8,
+    "end_time": 344.06666666666666,
+    "task_id": "tent assembly"
+  },
+  {
+    "subject_id": "6",
+    "action_label": "9",
+    "str_GoPro_ts": "00:05:55:00",
+    "end_GoPro_ts": "00:06:12:27",
+    "action_annotation": "place guyline",
+    "is_error": true,
+    "error_label_main": "2",
+    "error_annotation_main": "steps out of order",
+    "qa_pairs": [
+      {
+        "question": "Did I forget to attach the guyline to the correct points on the tent and stake it into the ground?",
+        "answer": "No, you placed the guyline before attaching the tent to its poles, which is incorrect because the tent structure needs to be fully assembled first."
+      },
+      {
+        "question": "What did I do wrong when assembling the tent's guyline?",
+        "answer": "I should have waited until the tent frame was completely set up and all poles were properly attached before placing the guyline."
+      },
+      {
+        "question": "Why is it important to assemble the tent frame before placing the guyline?",
+        "answer": "It ensures the tent is stable and the guyline can provide additional support without compromising the integrity of the tent structure."
+      }
+    ],
+    "video_id": "6",
+    "start_time": 355.0,
+    "end_time": 372.9,
+    "task_id": "tent assembly"
+  }
+]
