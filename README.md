@@ -59,7 +59,21 @@ VIDEO_PATH_PATTERNS = {
         ]
     }
 ```
+## 💻 Organize json Paths
 
+Our datasets are stored in JSON files; please replace the path in your code.
+
+./EgoErrorVQA_data/
+
+├── captaincook4d │ 
+
+├── assembly101 │ 
+
+├── egooops │ 
+
+├── epic-tent │ 
+
+└── json │
 
 
 ## 🚀 Quick start
