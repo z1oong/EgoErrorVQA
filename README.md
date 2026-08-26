@@ -1,5 +1,7 @@
 # 🤖 AgentBeats-EgoErrorVQA
 
+[Paper link](https://arxiv.org/abs/2608.24134) 
+
 You can watch [🎥 Demo video](https://youtu.be/dNoML4PXzDM) to learn how to run EgoErrorVQA assessment.
  
 ## 🎞 Video Data Source
